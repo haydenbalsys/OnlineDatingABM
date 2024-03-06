@@ -6,26 +6,25 @@ import sim.engine.SimState;
 import sim.engine.Steppable;
 import sim.engine.Stoppable;
 
-public class Agent extends SimState implements Steppable, Stoppable {
+public class Agent implements Steppable, Stoppable {
+	
+    int x; 
+    int y; 
+    double attractiveness; 
+    double messaging;
+    int preference;
+    int agentID;
 
-	public Agent(long seed) {
-		super(seed);
-		// TODO Auto-generated constructor stub
-	}
 
-	public Agent(MersenneTwisterFast random, Schedule schedule) {
-		super(random, schedule);
-		// TODO Auto-generated constructor stub
-	}
-
-	public Agent(long seed, Schedule schedule) {
-		super(seed, schedule);
-		// TODO Auto-generated constructor stub
-	}
-
-	public Agent(MersenneTwisterFast random) {
-		super(random);
-		// TODO Auto-generated constructor stub
+	public Agent(int x, int y, double attractiveness, double messaging, int preference, int agentID) {
+		super(); //WHAT IS SEED? 
+		this.x = x; 
+		this.y = y;
+		this.attractiveness = attractiveness;
+		this.messaging = messaging;
+		this.preference = preference;
+		this.agentID = agentID; 
+		
 	}
 
 	@Override
