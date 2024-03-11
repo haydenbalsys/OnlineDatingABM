@@ -1,5 +1,6 @@
 package onlineDatingABM;
 import java.util.Random;
+
 import sim.util.Bag;
 import sim.util.distribution.Normal;
 import spaces.Spaces;
@@ -9,7 +10,7 @@ public class Environment extends SimStateSweep {
 	public static int id = 0;
 	
 	//the search radius for all agents, sweeped in script 
-	public int searchRadius = 30;
+	public int searchRadius = 1;
 	//parameters to decide population size (sweeped) 
 	public int gridHeight = 60;
 	public int gridWidth = 60;
@@ -19,6 +20,7 @@ public class Environment extends SimStateSweep {
 	
 	/* To do : decide the parameters that define our normal distributions*/
 	public double sd = 0.1; 
+	public double likeSD = 0.1; 
 	public double meanAttractiveness = 0.5;
 	public double meanMessagingProb = 0.5; 
 	
@@ -46,6 +48,7 @@ public class Environment extends SimStateSweep {
 		for (int i = 0; i < numAgents; i++) {
 			double attractiveness = normal.nextDouble(meanAttractiveness, sd); 
 			double messaging = normal.nextDouble(meanMessagingProb, sd); 
+			double likeThreshold = normal.nextDouble(attractiveness, likeSD); 
 			int agentID = id++;
 			
 			// randomly generate a number between 0 and 1, round it to the nearest integer to randomly generate preferences 
@@ -67,9 +70,30 @@ public class Environment extends SimStateSweep {
             	b = sparseSpace.getObjectsAtLocation(x, y);
             	
             }
-            Agent a = new Agent(x, y, attractiveness, messaging, preference, agentID);
+            Agent a = new Agent(x, y, attractiveness, messaging, preference, agentID, likeThreshold);
             allAgents.add(a);
+	        sparseSpace.setObjectLocation(a, x, y);
+	        schedule.scheduleRepeating(a);
             
+		}
+	}
+	
+	public void initializeNeighbors(){
+		for (int i=0; i<allAgents.numObjs; i++) {
+			Agent a = (Agent) allAgents.get(i);
+			System.out.println("Agent A ID = "+a.agentID);
+			Bag neighbors; 
+			neighbors = sparseSpace.getMooreNeighbors(a.x, a.y, searchRadius, sparseSpace.TOROIDAL, false);
+			
+			a.neighbors = neighbors; 
+			System.out.println("a.x= "+a.x+" a.y= "+a.y);
+			System.out.println("Neighbors size = "+ neighbors.numObjs);
+			System.out.println("a.neighbors size = "+ a.neighbors.numObjs);
+
+			for (int j =0; j<a.neighbors.size(); j++) {
+				System.out.println("neighbor "+j+" ID= "+((Agent)(a.neighbors.get(j))).agentID);
+
+			}
 		}
 	}
 	
@@ -78,6 +102,7 @@ public class Environment extends SimStateSweep {
 		spaces = Spaces.SPARSE; // do we need this?
 		make2DSpace(spaces, gridWidth, gridHeight);
 		makeAgents();
+		initializeNeighbors();
 	}
 
 }
