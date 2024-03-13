@@ -57,9 +57,6 @@ public class Environment extends SimStateSweep {
 		Normal normal = new Normal(0.5, sd, random); // To do: decide what the mean value should be 
 		for (int i = 0; i < numAgents; i++) {
 			
-			//generate the gender based on the male proprotion parameter
-			Random randomGender = new Random();
-			double generateGender = randomGender.nextDouble(); 
 			
 			/*Generating agent gender in accordance to desired population sex ratio */
 	
@@ -94,8 +91,13 @@ public class Environment extends SimStateSweep {
             	
             }
             Agent a = new Agent(x, y, gender, attractiveness, messaging, preference, agentID, likeThreshold);
+            Bag likesSent = new Bag();
+            Bag matches = new Bag(); 
+            a.likesSent = likesSent;
+            a.matches = matches; 
             allAgents.add(a);
 	        sparseSpace.setObjectLocation(a, x, y);
+	        a.colorByGender(this, a); //TODO: debug this 
 	        schedule.scheduleRepeating(a);
             
 		}
@@ -104,7 +106,7 @@ public class Environment extends SimStateSweep {
 	public void initializeNeighbors(){
 		for (int i=0; i<allAgents.numObjs; i++) {
 			Agent a = (Agent) allAgents.get(i);
-			System.out.println("Agent A ID = "+a.agentID);
+//			System.out.println("Agent A ID = "+a.agentID);
 			Bag neighbors; 
 			
 			neighbors = sparseSpace.getMooreNeighbors(a.x, a.y, searchRadius, sparseSpace.TOROIDAL, false);
