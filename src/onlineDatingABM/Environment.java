@@ -15,7 +15,14 @@ public class Environment extends SimStateSweep {
 	public int gridHeight = 60;
 	public int gridWidth = 60;
 	public int numAgents = gridHeight * gridWidth;
+	
+	
 
+	//this needs to be sweeped to change gender ratio across trials 
+	public double maleP = 0.5; 
+	public int numMales = (int)(numAgents * maleP); 
+	public int numFemales = numAgents - numMales; 
+	
 	public int preference = 0; // 0 is attractiveness 1 is messaging
 	
 	/* To do : decide the parameters that define our normal distributions*/
@@ -24,8 +31,6 @@ public class Environment extends SimStateSweep {
 	public double meanAttractiveness = 0.5;
 	public double meanMessagingProb = 0.5; 
 	
-	//this needs to be sweeped to change gender ratio across trials 
-	public double maleP = 0.5; 
 	
 	public boolean charts = false; 
 	
@@ -56,9 +61,12 @@ public class Environment extends SimStateSweep {
 			Random randomGender = new Random();
 			double generateGender = randomGender.nextDouble(); 
 			
-			int gender = 1; //by default assign female 
-			if (generateGender < maleP) {
-				 gender = 0;  //change to male under certain probability 
+			/*Generating agent gender in accordance to desired population sex ratio */
+	
+			int gender = 0; //by default assign male 
+			if (i>= numMales) {
+				//start creating female agents once the desired number of male agents was generated 
+				gender = 1; 
 			}
 	
 			double attractiveness = normal.nextDouble(meanAttractiveness, sd); 
