@@ -11,6 +11,7 @@ public class Agent implements Steppable, Stoppable {
 	
     int x; 
     int y; 
+    int gender; // gender = 0 is male, gender = 1 is female 
     double attractiveness; 
     double messaging;
     int preference;
@@ -20,10 +21,11 @@ public class Agent implements Steppable, Stoppable {
    
 
 
-	public Agent(int x, int y, double attractiveness, double messaging, int preference, int agentID, double likeThreshold) {
+	public Agent(int x, int y, int gender, double attractiveness, double messaging, int preference, int agentID, double likeThreshold) {
 		super(); //WHAT IS SEED? 
 		this.x = x; 
 		this.y = y;
+		this.gender = gender; 
 		this.attractiveness = attractiveness;
 		this.messaging = messaging;
 		this.preference = preference;

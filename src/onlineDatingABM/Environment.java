@@ -24,6 +24,11 @@ public class Environment extends SimStateSweep {
 	public double meanAttractiveness = 0.5;
 	public double meanMessagingProb = 0.5; 
 	
+	//this needs to be sweeped to change gender ratio across trials 
+	public double maleP = 0.5; 
+	
+	public boolean charts = false; 
+	
 	//a bag to store all agents 
 	public Bag allAgents; 
 
@@ -46,6 +51,16 @@ public class Environment extends SimStateSweep {
 		allAgents = new Bag();
 		Normal normal = new Normal(0.5, sd, random); // To do: decide what the mean value should be 
 		for (int i = 0; i < numAgents; i++) {
+			
+			//generate the gender based on the male proprotion parameter
+			Random randomGender = new Random();
+			double generateGender = randomGender.nextDouble(); 
+			
+			int gender = 1; //by default assign female 
+			if (generateGender < maleP) {
+				 gender = 0;  //change to male under certain probability 
+			}
+	
 			double attractiveness = normal.nextDouble(meanAttractiveness, sd); 
 			double messaging = normal.nextDouble(meanMessagingProb, sd); 
 			double likeThreshold = normal.nextDouble(attractiveness, likeSD); 
@@ -70,7 +85,7 @@ public class Environment extends SimStateSweep {
             	b = sparseSpace.getObjectsAtLocation(x, y);
             	
             }
-            Agent a = new Agent(x, y, attractiveness, messaging, preference, agentID, likeThreshold);
+            Agent a = new Agent(x, y, gender, attractiveness, messaging, preference, agentID, likeThreshold);
             allAgents.add(a);
 	        sparseSpace.setObjectLocation(a, x, y);
 	        schedule.scheduleRepeating(a);
@@ -83,17 +98,31 @@ public class Environment extends SimStateSweep {
 			Agent a = (Agent) allAgents.get(i);
 			System.out.println("Agent A ID = "+a.agentID);
 			Bag neighbors; 
-			neighbors = sparseSpace.getMooreNeighbors(a.x, a.y, searchRadius, sparseSpace.TOROIDAL, false);
 			
+			neighbors = sparseSpace.getMooreNeighbors(a.x, a.y, searchRadius, sparseSpace.TOROIDAL, false);
 			a.neighbors = neighbors; 
-			System.out.println("a.x= "+a.x+" a.y= "+a.y);
-			System.out.println("Neighbors size = "+ neighbors.numObjs);
-			System.out.println("a.neighbors size = "+ a.neighbors.numObjs);
-
-			for (int j =0; j<a.neighbors.size(); j++) {
-				System.out.println("neighbor "+j+" ID= "+((Agent)(a.neighbors.get(j))).agentID);
-
+			
+			//now iterate though the neighbors founds and eliminate agents with the same gender 
+			for (int j =0; j<neighbors.numObjs; j++) {
+				//extract currently examined agent 
+				Agent b = (Agent) neighbors.get(j);
+				
+				//if the agent has the same gender, remove them from the neighbors bag
+				if (a.gender == b.gender) {
+					neighbors.remove(j);
+				}
 			}
+			
+			// ==Print Statements for Testing Purposes == 
+//			System.out.println("a.x= "+a.x+" a.y= "+a.y);
+//			System.out.println("Neighbors size = "+ neighbors.numObjs);
+//			System.out.println("a.neighbors size = "+ a.neighbors.numObjs);
+//
+//			for (int j =0; j<a.neighbors.size(); j++) {
+//				System.out.println("neighbor "+j+" ID= "+((Agent)(a.neighbors.get(j))).agentID);
+//
+//			}
+		
 		}
 	}
 	
