@@ -17,20 +17,15 @@ public class Environment extends SimStateSweep {
 	public int gridWidth = 60;
 	public int numAgents = gridHeight * gridWidth;
 	
-	
-
 	//this needs to be sweeped to change gender ratio across trials 
 	public double maleP = 0.5; 
 	public int numMales = (int)(numAgents * maleP); 
 	public int numFemales = numAgents - numMales; 
 	
-	
-	/* To do : decide the parameters that define our normal distributions*/
 	public double sd = 0.1; 
 	public double likeSD = 0.1; 
 	public double meanAttractiveness = 0.5;
 	public double meanMessagingProb = 0.5; 
-	
 	
 	public boolean charts = false; 
 	public boolean doneMatching = false; 
@@ -58,7 +53,6 @@ public class Environment extends SimStateSweep {
 		Normal normal = new Normal(0.5, sd, random); // To do: decide what the mean value should be 
 		for (int i = 0; i < numAgents; i++) {
 			
-			
 			/*Generating agent gender in accordance to desired population sex ratio */
 	
 			int gender = 0; //by default assign male 
@@ -83,9 +77,6 @@ public class Environment extends SimStateSweep {
             //the method gets the objects at the location x,y
             Bag b = sparseSpace.getObjectsAtLocation(x, y);
             while(b != null) {
-                /*DO set x = random integer between 0 and gridWidth
-                  DO set y = random integer between 0 and gridHeight
-                  DO update b with new location*/
             	x = random.nextInt(gridWidth);
             	y = random.nextInt(gridHeight);
             	b = sparseSpace.getObjectsAtLocation(x, y);
@@ -127,16 +118,6 @@ public class Environment extends SimStateSweep {
 					neighbors.remove(j);
 				}
 			}
-			
-			// ==Print Statements for Testing Purposes == 
-//			System.out.println("a.x= "+a.x+" a.y= "+a.y);
-//			System.out.println("Neighbors size = "+ neighbors.numObjs);
-//			System.out.println("a.neighbors size = "+ a.neighbors.numObjs);
-//
-//			for (int j =0; j<a.neighbors.size(); j++) {
-//				System.out.println("neighbor "+j+" ID= "+((Agent)(a.neighbors.get(j))).agentID);
-//
-//			}
 		
 		}
 	}

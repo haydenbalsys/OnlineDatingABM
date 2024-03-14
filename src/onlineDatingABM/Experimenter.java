@@ -8,12 +8,6 @@ import sweep.SimStateSweep;
 
 public class Experimenter extends Observer {
 	
-	
-	/*
-	 * Add parameters that will later be reset here 
-	 * TBH, I'm not sure which parameters we should put here
-	 * */
-	
 	int totalMatchesMalesHave = 0; 
 	int totalMatchesFemalesHave = 0; 
 
@@ -23,12 +17,6 @@ public class Experimenter extends Observer {
 		super(fileName, folderName, state, sweeper, precision, headers);
 		// TODO Auto-generated constructor stub
 	}
-	
-	/*
-	 * NOTE: The experimenter class from lab 4 has an "upDatePopulation" 
-	 * method here. I did not add it because idk if we need it. Take a look 
-	 * and decide whether we need it pls. 
-	 * */
 	
 	public void stop(Environment state) {
 		// When all agents are done matching, stop 
@@ -47,7 +35,6 @@ public class Experimenter extends Observer {
 	
 	public void countMatchesPerGender(Environment state) {
 		Bag agents = state.allAgents;
-		// Akila -- changed this for loop in order to mitigate out of bounds issue
 		for (int i=0;i<agents.numObjs;i++) {
 			Agent currentAgent = (Agent)agents.get(i);
 			
@@ -61,8 +48,8 @@ public class Experimenter extends Observer {
 			}
 		}
 		// ==Print Statements for Testing Purposes == 
-		System.out.println("total male matches= " + totalMatchesMalesHave);
-		System.out.println("total female matches= " + totalMatchesFemalesHave);
+		//System.out.println("total male matches= " + totalMatchesMalesHave);
+		//System.out.println("total female matches= " + totalMatchesFemalesHave);
 	}
 	
 	
@@ -70,7 +57,7 @@ public class Experimenter extends Observer {
 		/* data.add for data we want to add*/
 		data.add(totalMatchesMalesHave);
 		data.add(totalMatchesFemalesHave);
-		/* computer and add averages here */
+		/* compute and add averages here */
 		return false; 
 	}
 	
