@@ -11,10 +11,10 @@ public class Environment extends SimStateSweep {
 	public static int id = 0;
 	
 	//the search radius for all agents, sweeped in script 
-	public int searchRadius = 1;
+	public int searchRadius = 5;
 	//parameters to decide population size (sweeped) 
-	public int gridHeight = 3;
-	public int gridWidth = 3;
+	public int gridHeight = 60;
+	public int gridWidth = 60;
 	public int numAgents = gridHeight * gridWidth;
 	
 	

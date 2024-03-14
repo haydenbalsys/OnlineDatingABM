@@ -72,6 +72,12 @@ public class Experimenter extends Observer {
 	}
 	
 	public void step(SimState state) {
+		super.step(state);
+		if(((Environment)state).paramSweeps && getdata){
+			reset(state);
+			countMatchesPerGender((Environment)state);
+			nextInterval();
+		}
 		
 	}
 }

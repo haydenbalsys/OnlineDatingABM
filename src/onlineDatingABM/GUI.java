@@ -13,11 +13,11 @@ public class GUI extends GUIStateSweep {
 		super(state, gridWidth, gridHeight, backdrop, agentDefaultColor, agentPortrayal);
 		// TODO Auto-generated constructor stub
 	}
-
-	public GUI(SimStateSweep state) {
-		super(state);
-		// TODO Auto-generated constructor stub
-	}
+//
+//	public GUI(SimStateSweep state) {
+//		super(state);
+//		// TODO Auto-generated constructor stub
+//	}
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
