@@ -32,6 +32,7 @@ public class Experimenter extends Observer {
 	
 	public void stop(Environment state) {
 		// When all agents are done matching, stop 
+		System.out.println("HELLO HELLO HELLO HELLO HELLO HELLO");
 		if (state.doneMatching == true) {
 			event.stop();
 		}
@@ -45,9 +46,10 @@ public class Experimenter extends Observer {
 	}
 	
 	public void countMatchesPerGender(Environment state) {
-		Bag agents = state.allAgents; 
-		for (Object a: agents) {
-			Agent currentAgent = (Agent)a;
+		Bag agents = state.allAgents;
+		// Akila -- changed this for loop in order to mitigate out of bounds issue
+		for (int i=0;i<agents.numObjs;i++) {
+			Agent currentAgent = (Agent)agents.objs[i];
 			
 			if (currentAgent.gender==0) {
 				//count for males
@@ -56,17 +58,18 @@ public class Experimenter extends Observer {
 			else {
 				//count for females 
 				totalMatchesFemalesHave += currentAgent.matches.numObjs;
-
 			}
 		}
-		
+		// ==Print Statements for Testing Purposes == 
+		System.out.println("total male matches= " + totalMatchesMalesHave);
+		System.out.println("total female matches= " + totalMatchesFemalesHave);
 	}
 	
 	
 	public boolean nextInterval() {
 		/* data.add for data we want to add*/
 		data.add(totalMatchesMalesHave);
-		data.add(totalMatchesMalesHave);
+		data.add(totalMatchesFemalesHave);
 		/* computer and add averages here */
 		return false; 
 	}

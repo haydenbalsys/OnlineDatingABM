@@ -21,7 +21,8 @@ public class GUI extends GUIStateSweep {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		GUI.initialize(Environment.class, null, GUI.class, 400, 400, Color.WHITE, Color.BLUE, false, Spaces.SPARSE);
+		// Akila -- added experimenter class to the param
+		GUI.initialize(Environment.class, Experimenter.class, GUI.class, 400, 400, Color.WHITE, Color.BLUE, false, Spaces.SPARSE);
 		
 	}
 
