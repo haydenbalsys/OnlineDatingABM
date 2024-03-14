@@ -134,9 +134,8 @@ public class Agent implements Steppable, Stoppable {
 		else {
 			noNeighbors = true;
 			stop();
-			event.stop(); 
-			((Environment)state).doneMatching();
-//			System.out.println("Line after done()");
+			event.stop(); // I believe this is what ACTUALLY removes the agent from the schedule
+			((Environment)state).doneMatching(); //call this Environment function to identify if all other agents are done matching 
 			
 		}
 	}

@@ -104,6 +104,10 @@ public class Environment extends SimStateSweep {
 		}
 	}
 	
+	/* This function initialized the bag of neighbors each Agent has
+	 * Note: This bag is already created with members of the same sex removed
+	 * i.e. The bag only contains neighbors of the opposite sex
+	 * */
 	public void initializeNeighbors(){
 		for (int i=0; i<allAgents.numObjs; i++) {
 			Agent a = (Agent) allAgents.get(i);
@@ -137,6 +141,8 @@ public class Environment extends SimStateSweep {
 		}
 	}
 	
+	/* This function checks whether all agents finished swiping on their neighbors
+	 * Once all agents are done swiping, finish the simulation. */
 	public void doneMatching() {
 //		System.out.println("in doneMatching()");
 		
