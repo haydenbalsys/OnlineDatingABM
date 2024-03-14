@@ -24,7 +24,6 @@ public class Environment extends SimStateSweep {
 	public int numMales = (int)(numAgents * maleP); 
 	public int numFemales = numAgents - numMales; 
 	
-	public int preference = 0; // 0 is attractiveness 1 is messaging
 	
 	/* To do : decide the parameters that define our normal distributions*/
 	public double sd = 0.1; 
@@ -76,7 +75,7 @@ public class Environment extends SimStateSweep {
 			// randomly generate a number between 0 and 1, round it to the nearest integer to randomly generate preferences 
 			Random random = new Random();
 			double randomNumber = random.nextDouble();
-			preference = Math.round((float) randomNumber);
+			int preference = Math.round((float) randomNumber);
 			
 			int x = random.nextInt(gridWidth);
 			int y = random.nextInt(gridHeight);

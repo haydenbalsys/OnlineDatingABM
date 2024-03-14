@@ -24,6 +24,12 @@ public class Experimenter extends Observer {
 		// TODO Auto-generated constructor stub
 	}
 	
+	/*
+	 * NOTE: The experimenter class from lab 4 has an "upDatePopulation" 
+	 * method here. I did not add it because idk if we need it. Take a look 
+	 * and decide whether we need it pls. 
+	 * */
+	
 	public void stop(Environment state) {
 		// When all agents are done matching, stop 
 		if (state.doneMatching == true) {
@@ -33,18 +39,35 @@ public class Experimenter extends Observer {
 	
 	public boolean reset(SimState state) {
 		/*reset the parameters defined at the top of this class to initial values */
+		totalMatchesMalesHave = 0;
+		totalMatchesFemalesHave = 0;
 		return true; 
 	}
 	
-	public void countMatchAverage(Environment state) {
+	public void countMatchesPerGender(Environment state) {
 		Bag agents = state.allAgents; 
+		for (Object a: agents) {
+			Agent currentAgent = (Agent)a;
+			
+			if (currentAgent.gender==0) {
+				//count for males
+				totalMatchesMalesHave += currentAgent.matches.numObjs;
+			}
+			else {
+				//count for females 
+				totalMatchesFemalesHave += currentAgent.matches.numObjs;
+
+			}
+		}
 		
 	}
 	
 	
 	public boolean nextInterval() {
 		/* data.add for data we want to add*/
-		
+		data.add(totalMatchesMalesHave);
+		data.add(totalMatchesMalesHave);
+		/* computer and add averages here */
 		return false; 
 	}
 	
