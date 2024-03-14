@@ -49,7 +49,7 @@ public class Experimenter extends Observer {
 		Bag agents = state.allAgents;
 		// Akila -- changed this for loop in order to mitigate out of bounds issue
 		for (int i=0;i<agents.numObjs;i++) {
-			Agent currentAgent = (Agent)agents.objs[i];
+			Agent currentAgent = (Agent)agents.get(i);
 			
 			if (currentAgent.gender==0) {
 				//count for males

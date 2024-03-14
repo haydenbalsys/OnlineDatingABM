@@ -41,10 +41,10 @@ public class Agent implements Steppable, Stoppable {
 			state.gui.setOvalPortrayal2DColor(a, (float) 0, (float) 0, (float) 1, (float) 1); // color males blue
 			break;
 		case 1:
-			state.gui.setOvalPortrayal2DColor(a, (float) 1, (float) 0, (float) 0, (float) 1); // color males blue
+			state.gui.setOvalPortrayal2DColor(a, (float) 1, (float) 0, (float) 0, (float) 1); // color females pink
 			break;
 		default:
-			state.gui.setOvalPortrayal2DColor(a, (float) 0, (float) 1, (float) 0, (float) 1); // color males blue
+			state.gui.setOvalPortrayal2DColor(a, (float) 0, (float) 1, (float) 0, (float) 1);
 			break;
 		}
 
