@@ -12,8 +12,8 @@ public class Environment extends SimStateSweep {
 	//the search radius for all agents, sweeped in script 
 	public int searchRadius = 1;
 	//parameters to decide population size (sweeped) 
-	public int gridHeight = 60;
-	public int gridWidth = 60;
+	public int gridHeight = 5;
+	public int gridWidth = 5;
 	public int numAgents = gridHeight * gridWidth;
 	
 	
@@ -134,6 +134,20 @@ public class Environment extends SimStateSweep {
 //			}
 		
 		}
+	}
+	
+	public void doneMatching() {
+//		System.out.println("in doneMatching()");
+		
+		for (int i =0; i< allAgents.numObjs;i++) {
+			Agent a = (Agent)allAgents.get(i);
+			if (a.noNeighbors==false) {
+//				System.out.println("Not done matching!");
+				return;
+			}
+		}
+		finish();
+//		System.out.println("====All Agents are done matching!===");
 	}
 	
 	public void start() {

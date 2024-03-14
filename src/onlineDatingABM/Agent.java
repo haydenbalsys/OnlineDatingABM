@@ -20,6 +20,7 @@ public class Agent implements Steppable, Stoppable {
 	public Bag neighbors;
 	public Bag likesSent;
 	public Bag matches;
+	public boolean noNeighbors = false; 
 
 	public Agent(int x, int y, int gender, double attractiveness, double messaging, int preference, int agentID,
 			double likeThreshold) {
@@ -38,11 +39,9 @@ public class Agent implements Steppable, Stoppable {
 		switch (a.gender) {
 		case 0:
 			state.gui.setOvalPortrayal2DColor(a, (float) 0, (float) 0, (float) 1, (float) 1); // color males blue
-			System.out.println("assigned color to male");
 			break;
 		case 1:
 			state.gui.setOvalPortrayal2DColor(a, (float) 1, (float) 0, (float) 0, (float) 1); // color males blue
-			System.out.println("assigned color to female");
 			break;
 		default:
 			state.gui.setOvalPortrayal2DColor(a, (float) 0, (float) 1, (float) 0, (float) 1); // color males blue
@@ -54,7 +53,8 @@ public class Agent implements Steppable, Stoppable {
 	@Override
 	public void stop() {
 		// TODO Auto-generated method stub
-
+		System.out.println("In stop(): Agent ID= "+agentID+" has no neighbors left to swipe on.");
+	
 	}
 
 	public boolean sendLike(Agent profile) {
@@ -132,7 +132,13 @@ public class Agent implements Steppable, Stoppable {
 
 			}
 		}
-
+		else {
+			noNeighbors = true; 
+			stop(); 
+			((Environment)state).doneMatching();
+//			System.out.println("Line after stop()");
+			
+		}
 	}
 
 }
