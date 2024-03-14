@@ -34,6 +34,7 @@ public class Environment extends SimStateSweep {
 	
 	
 	public boolean charts = false; 
+	public boolean doneMatching = false; 
 	
 	//a bag to store all agents 
 	public Bag allAgents; 
@@ -155,6 +156,7 @@ public class Environment extends SimStateSweep {
 		}
 		finish();
 		System.out.println("====after finish(): All Agents are done matching!===");
+		doneMatching = true; 
 	}
 	
 	public void start() {
