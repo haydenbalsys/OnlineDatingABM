@@ -1,6 +1,7 @@
 package onlineDatingABM;
 import java.util.Random;
 
+import sim.engine.Steppable;
 import sim.util.Bag;
 import sim.util.distribution.Normal;
 import spaces.Spaces;
@@ -12,8 +13,8 @@ public class Environment extends SimStateSweep {
 	//the search radius for all agents, sweeped in script 
 	public int searchRadius = 1;
 	//parameters to decide population size (sweeped) 
-	public int gridHeight = 5;
-	public int gridWidth = 5;
+	public int gridHeight = 3;
+	public int gridWidth = 3;
 	public int numAgents = gridHeight * gridWidth;
 	
 	
@@ -98,7 +99,7 @@ public class Environment extends SimStateSweep {
             allAgents.add(a);
 	        sparseSpace.setObjectLocation(a, x, y);
 	        a.colorByGender(this, a); //TODO: debug this 
-	        schedule.scheduleRepeating(a);
+	        a.event = schedule.scheduleRepeating(a);
             
 		}
 	}
@@ -147,7 +148,7 @@ public class Environment extends SimStateSweep {
 			}
 		}
 		finish();
-//		System.out.println("====All Agents are done matching!===");
+		System.out.println("====after finish(): All Agents are done matching!===");
 	}
 	
 	public void start() {

@@ -8,7 +8,7 @@ import sim.engine.Stoppable;
 import sim.util.Bag;
 
 public class Agent implements Steppable, Stoppable {
-
+	public Stoppable event; 
 	int x;
 	int y;
 	int gender; // gender = 0 is male, gender = 1 is female
@@ -54,7 +54,6 @@ public class Agent implements Steppable, Stoppable {
 	public void stop() {
 		// TODO Auto-generated method stub
 		System.out.println("In stop(): Agent ID= "+agentID+" has no neighbors left to swipe on.");
-	
 	}
 
 	public boolean sendLike(Agent profile) {
@@ -84,9 +83,9 @@ public class Agent implements Steppable, Stoppable {
 		if (neighbors.numObjs > 0) {
 			// If so, pull x more neighbors / however many are left if less than x (we need
 			// to decide what x should be)
-			int batchSize = 10;
+			int batchSize = 1;
 			// check that there are enough matches to create a batch of 10
-			if (neighbors.numObjs < 10) {
+			if (neighbors.numObjs < batchSize) {
 				// if there are less than 10 agents, swipe on however many neighbors are left
 				batchSize = neighbors.numObjs;
 			}
@@ -133,10 +132,11 @@ public class Agent implements Steppable, Stoppable {
 			}
 		}
 		else {
-			noNeighbors = true; 
-			stop(); 
+			noNeighbors = true;
+			stop();
+			event.stop(); 
 			((Environment)state).doneMatching();
-//			System.out.println("Line after stop()");
+//			System.out.println("Line after done()");
 			
 		}
 	}
