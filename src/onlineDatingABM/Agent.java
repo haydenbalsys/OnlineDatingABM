@@ -109,7 +109,7 @@ public class Agent implements Steppable, Stoppable {
 					// likes
 					if (currentSwipe.likesSent.numObjs > 0) {
 						for (int j = 0; j < currentSwipe.likesSent.numObjs; j++) {
-							Agent theirLike = (Agent) likesSent.get(j);
+							Agent theirLike = (Agent) currentSwipe.likesSent.get(j);
 							// check if I am one of the profiles they sent a like to
 							if (theirLike.agentID == this.agentID) {
 
@@ -121,6 +121,8 @@ public class Agent implements Steppable, Stoppable {
 								// remove from my likes bag AND their likes bag
 								likesSent.remove(currentSwipe); // remove them from my likesSent
 								currentSwipe.likesSent.remove(this); // remove myself from their likesSent
+								
+								break; //match found, no need to keep iterating through their like list
 							}
 						}
 					}
