@@ -969,3 +969,68 @@ searchRadius	15	gridHeight	500	gridWidth	1000	16.000	1.000	1071.000	1097.000	16.
 searchRadius	15	gridHeight	1000	gridWidth	60	62.000	1.000	70.000	70.000	62.000	1.000	0.000	0.000
 searchRadius	15	gridHeight	1000	gridWidth	500	14.000	2.000	1398.000	1415.000	14.000	2.000	1142.000	1129.000
 searchRadius	15	gridHeight	1000	gridWidth	1000	10.000	2.000	203.500	212.500	10.000	2.000	126.500	145.500
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	30	30	30	30	30	30	30	30	30	40	40	40	40	40	40	40	40	40	60	60	60	60	60	60	60	60	60	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  30
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+searchRadius	Value	gridHeight	Value	gridWidth	Value	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	
+searchRadius	30	gridHeight	60	gridWidth	60	1000.000	10.000	33138.800	37192.400	1000.000	10.000	11290.570	13989.901
+searchRadius	30	gridHeight	60	gridWidth	500	1000.000	10.000	73932.000	73932.000	1000.000	10.000	27464.925	27464.925
+searchRadius	30	gridHeight	60	gridWidth	1000	1000.000	10.000	75907.000	75907.000	1000.000	10.000	28620.199	28620.199
+searchRadius	30	gridHeight	500	gridWidth	60	338.000	1.000	160462.000	169944.000	338.000	1.000	0.000	0.000
+searchRadius	30	gridHeight	500	gridWidth	500	57.000	1.000	662.000	664.000	57.000	1.000	0.000	0.000
+searchRadius	30	gridHeight	500	gridWidth	1000	34.000	3.000	2436.000	2444.667	34.000	3.000	1866.758	1858.145
+searchRadius	30	gridHeight	1000	gridWidth	60	188.000	1.000	40117.000	47753.000	188.000	1.000	0.000	0.000
+searchRadius	30	gridHeight	1000	gridWidth	500	36.000	1.000	19.000	19.000	36.000	1.000	0.000	0.000
+searchRadius	30	gridHeight	1000	gridWidth	1000	21.000	2.000	3636.000	3651.000	21.000	2.000	2197.000	2200.000
+searchRadius	40	gridHeight	60	gridWidth	60	1000.000	10.000	95162.800	95967.200	1000.000	10.000	44170.037	44782.068
+searchRadius	40	gridHeight	60	gridWidth	500	1000.000	10.000	56422.700	56422.700	1000.000	10.000	22422.714	22422.714
+searchRadius	40	gridHeight	60	gridWidth	1000	1000.000	10.000	28907.500	28907.500	1000.000	10.000	14302.856	14302.856
+searchRadius	40	gridHeight	500	gridWidth	60	446.000	1.000	48449.000	69821.000	446.000	1.000	0.000	0.000
+searchRadius	40	gridHeight	500	gridWidth	500	91.000	1.000	1310.000	1304.000	91.000	1.000	0.000	0.000
+searchRadius	40	gridHeight	500	gridWidth	1000	51.000	1.000	267.000	265.000	51.000	1.000	0.000	0.000
+searchRadius	40	gridHeight	1000	gridWidth	60	239.000	1.000	200.000	206.000	239.000	1.000	0.000	0.000
+searchRadius	40	gridHeight	1000	gridWidth	500	52.000	1.000	18543.000	18523.000	52.000	1.000	0.000	0.000
+searchRadius	40	gridHeight	1000	gridWidth	1000	34.000	1.000	0.000	0.000	34.000	1.000	0.000	0.000
+searchRadius	60	gridHeight	60	gridWidth	60	1000.000	10.000	31225.100	33749.500	1000.000	10.000	10337.815	12957.786
+searchRadius	60	gridHeight	60	gridWidth	500	1000.000	10.000	172.400	172.400	1000.000	10.000	92.717	92.717
+searchRadius	60	gridHeight	60	gridWidth	1000	1000.000	10.000	4240.800	4240.800	1000.000	10.000	1286.656	1286.656
+searchRadius	60	gridHeight	500	gridWidth	60	636.000	1.000	2121.000	2175.000	636.000	1.000	0.000	0.000
+searchRadius	60	gridHeight	500	gridWidth	500	178.000	1.000	259.000	259.000	178.000	1.000	0.000	0.000
+searchRadius	60	gridHeight	500	gridWidth	1000	100.000	1.000	47410.000	47410.000	100.000	1.000	0.000	0.000
+searchRadius	60	gridHeight	1000	gridWidth	60	341.000	1.000	5013.000	245.000	341.000	1.000	0.000	0.000
+searchRadius	60	gridHeight	1000	gridWidth	500	98.000	1.000	42647.000	42647.000	98.000	1.000	0.000	0.000
+searchRadius	60	gridHeight	1000	gridWidth	1000	55.000	1.000	21059.000	21057.000	55.000	1.000	0.000	0.000

@@ -14,6 +14,8 @@ public class Experimenter extends Observer {
 	 * TBH, I'm not sure which parameters we should put here
 	 * */
 	
+	public double maleP = 0.5;
+	
 	int totalMatchesMalesHave = 0; 
 	int totalMatchesFemalesHave = 0; 
 
@@ -47,7 +49,6 @@ public class Experimenter extends Observer {
 	
 	public void countMatchesPerGender(Environment state) {
 		Bag agents = state.allAgents;
-		// Akila -- changed this for loop in order to mitigate out of bounds issue
 		for (Object a : agents) {
 			if (a == null)
 			{

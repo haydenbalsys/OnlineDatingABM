@@ -1,0 +1,123 @@
+Start: Sat Mar 16 23:42:24 PDT 2024
+
+Start: Sat Mar 16 23:42:24 PDT 2024
+
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	30	30	30	30	30	30	30	30	30	40	40	40	40	40	40	40	40	40	60	60	60	60	60	60	60	60	60	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  30
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.001
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  testresults.txt
+folderDataName  testdata
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+Start: Sat Mar 16 23:43:03 PDT 2024
+
+Start: Sat Mar 16 23:43:03 PDT 2024
+
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	30	30	30	30	30	30	30	30	30	40	40	40	40	40	40	40	40	40	60	60	60	60	60	60	60	60	60	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  30
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.001
+numMales  360
+numFemales  3240
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  testresults.txt
+folderDataName  testdata
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+Start: Sat Mar 16 23:46:49 PDT 2024
+
+Start: Sat Mar 16 23:46:49 PDT 2024
+
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	30	30	30	30	30	30	30	30	30	40	40	40	40	40	40	40	40	40	60	60	60	60	60	60	60	60	60	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+_searchRadius  5
+_gridHeight  60
+_gridWidth  60
+numAgents  3600
+_maleP  0.1
+numMales  360
+numFemales  3240
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  60
+gridHeight  60
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  testresults.txt
+folderDataName  testdata
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false

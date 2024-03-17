@@ -20,10 +20,10 @@ The table is generated from the first three parameters encountered with more tha
 After 3 parameters are encountered with more than one value, subsequent parameters with more than
 one value are ignored.*/
 
-public int searchRadius = 5, 10, 15;
+public int searchRadius = 30, 40, 60;
 public int gridHeight = 60, 500, 1000;
 public int gridWidth = 60, 500, 1000;
-public double maleP = 0.5; 
+public double maleP = 0.001; 
 public double sd = 0.1; 
 public double likeSD = 0.1; 
 public double meanAttractiveness = 0.5;
