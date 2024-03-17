@@ -11,14 +11,14 @@ public class Environment extends SimStateSweep {
 	public static int id = 0;
 	
 	//the search radius for all agents, sweeped in script 
-	public int _searchRadius = 5;
+	public int searchRadius = 5;
 	//parameters to decide population size (sweeped) 
-	public int _gridHeight = 60;
-	public int _gridWidth = 60;
-	public int numAgents = _gridHeight * _gridWidth;
+	public int gridHeight = 60;
+	public int gridWidth = 60;
+	public int numAgents = gridHeight * gridWidth;
 	
 	//this needs to be sweeped to change gender ratio across trials 
-	public double _maleP = 0.1; 
+	public double _maleP = 0.5; 
 	public int numMales = (int)(numAgents * _maleP); 
 	public int numFemales = numAgents - numMales; 
 	
@@ -105,7 +105,7 @@ public class Environment extends SimStateSweep {
 //			System.out.println("Agent A ID = "+a.agentID);
 			Bag neighbors; 
 			
-			neighbors = sparseSpace.getMooreNeighbors(a.x, a.y, _searchRadius, sparseSpace.TOROIDAL, false);
+			neighbors = sparseSpace.getMooreNeighbors(a.x, a.y, searchRadius, sparseSpace.TOROIDAL, false);
 			a.neighbors = neighbors; 
 			
 			//now iterate though the neighbors founds and eliminate agents with the same gender 
@@ -158,11 +158,11 @@ public class Environment extends SimStateSweep {
 	}
 
 	public int getSearchRadius() {
-		return _searchRadius;
+		return searchRadius;
 	}
 
 	public void setSearchRadius(int searchRadius) {
-		this._searchRadius = searchRadius;
+		this.searchRadius = searchRadius;
 	}
 
 	public int getGridHeight() {

@@ -14,7 +14,7 @@ public class Experimenter extends Observer {
 	 * TBH, I'm not sure which parameters we should put here
 	 * */
 	
-	public double maleP = 0.5;
+	public double maleP = 0;
 	
 	int totalMatchesMalesHave = 0; 
 	int totalMatchesFemalesHave = 0; 
@@ -44,6 +44,7 @@ public class Experimenter extends Observer {
 		/*reset the parameters defined at the top of this class to initial values */
 		totalMatchesMalesHave = 0;
 		totalMatchesFemalesHave = 0;
+		maleP = 0.5;
 		return true; 
 	}
 	

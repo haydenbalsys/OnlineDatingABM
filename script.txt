@@ -23,7 +23,7 @@ one value are ignored.*/
 public int searchRadius = 30, 40, 60;
 public int gridHeight = 60, 500, 1000;
 public int gridWidth = 60, 500, 1000;
-public double maleP = 0.001; 
+public double _maleP = 0; 
 public double sd = 0.1; 
 public double likeSD = 0.1; 
 public double meanAttractiveness = 0.5;
