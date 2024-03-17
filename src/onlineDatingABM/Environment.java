@@ -33,20 +33,20 @@ public class Environment extends SimStateSweep {
 	//a bag to store all agents 
 	public Bag allAgents; 
 
-	public Environment(long seed) {
-		super(seed);
-		// TODO Auto-generated constructor stub
-	}
+//	public Environment(long seed) {
+//		super(seed);
+//		// TODO Auto-generated constructor stub
+//	}
 
 	public Environment(long seed, Class observer) {
 		super(seed, observer);
 		// TODO Auto-generated constructor stub
 	}
-
-	public Environment(long seed, Class observer, String runTimeFileName) {
-		super(seed, observer, runTimeFileName);
-		// TODO Auto-generated constructor stub
-	}
+//
+//	public Environment(long seed, Class observer, String runTimeFileName) {
+//		super(seed, observer, runTimeFileName);
+//		// TODO Auto-generated constructor stub
+//	}
 	
 	public void makeAgents() {
 		allAgents = new Bag();
@@ -141,10 +141,132 @@ public class Environment extends SimStateSweep {
 	
 	public void start() {
 		super.start();
-		spaces = Spaces.SPARSE; // do we need this?
-		make2DSpace(spaces, gridWidth, gridHeight);
+		// spaces = Spaces.SPARSE; // do we need this?
+		makeSpace(gridWidth, gridHeight);
 		makeAgents();
 		initializeNeighbors();
+		if(observer != null)
+			observer.initialize(space, spaces);
+	}
+
+	public static int getId() {
+		return id;
+	}
+
+	public static void setId(int id) {
+		Environment.id = id;
+	}
+
+	public int getSearchRadius() {
+		return searchRadius;
+	}
+
+	public void setSearchRadius(int searchRadius) {
+		this.searchRadius = searchRadius;
+	}
+
+	public int getGridHeight() {
+		return gridHeight;
+	}
+
+	public void setGridHeight(int gridHeight) {
+		this.gridHeight = gridHeight;
+	}
+
+	public int getGridWidth() {
+		return gridWidth;
+	}
+
+	public void setGridWidth(int gridWidth) {
+		this.gridWidth = gridWidth;
+	}
+
+	public int getNumAgents() {
+		return numAgents;
+	}
+
+	public void setNumAgents(int numAgents) {
+		this.numAgents = numAgents;
+	}
+
+	public double getMaleP() {
+		return maleP;
+	}
+
+	public void setMaleP(double maleP) {
+		this.maleP = maleP;
+	}
+
+	public int getNumMales() {
+		return numMales;
+	}
+
+	public void setNumMales(int numMales) {
+		this.numMales = numMales;
+	}
+
+	public int getNumFemales() {
+		return numFemales;
+	}
+
+	public void setNumFemales(int numFemales) {
+		this.numFemales = numFemales;
+	}
+
+	public double getSd() {
+		return sd;
+	}
+
+	public void setSd(double sd) {
+		this.sd = sd;
+	}
+
+	public double getLikeSD() {
+		return likeSD;
+	}
+
+	public void setLikeSD(double likeSD) {
+		this.likeSD = likeSD;
+	}
+
+	public double getMeanAttractiveness() {
+		return meanAttractiveness;
+	}
+
+	public void setMeanAttractiveness(double meanAttractiveness) {
+		this.meanAttractiveness = meanAttractiveness;
+	}
+
+	public double getMeanMessagingProb() {
+		return meanMessagingProb;
+	}
+
+	public void setMeanMessagingProb(double meanMessagingProb) {
+		this.meanMessagingProb = meanMessagingProb;
+	}
+
+	public boolean isCharts() {
+		return charts;
+	}
+
+	public void setCharts(boolean charts) {
+		this.charts = charts;
+	}
+
+	public boolean isDoneMatching() {
+		return doneMatching;
+	}
+
+	public void setDoneMatching(boolean doneMatching) {
+		this.doneMatching = doneMatching;
+	}
+
+	public Bag getAllAgents() {
+		return allAgents;
+	}
+
+	public void setAllAgents(Bag allAgents) {
+		this.allAgents = allAgents;
 	}
 
 }

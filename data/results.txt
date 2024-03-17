@@ -260,3 +260,4793 @@ burnIn  0
 scheduleTimeInterval  1.0
 closeProgramAtend  false
 customSweepOnly  false
+Start: Sat Mar 16 20:08:07 PDT 2024
+
+Start: Sat Mar 16 20:08:07 PDT 2024
+
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+
+Sweep Number:	1
+searchRadius	5
+gridHeight	60
+gridWidth	60
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+Start: Sat Mar 16 20:11:36 PDT 2024
+
+Start: Sat Mar 16 20:11:36 PDT 2024
+
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+Start: Sat Mar 16 20:14:08 PDT 2024
+
+Start: Sat Mar 16 20:14:08 PDT 2024
+
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+Start: Sat Mar 16 20:15:36 PDT 2024
+
+Start: Sat Mar 16 20:15:36 PDT 2024
+
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+
+Sweep Number:	1
+searchRadius	5
+gridHeight	60
+gridWidth	60
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+Start: Sat Mar 16 20:17:10 PDT 2024
+
+Start: Sat Mar 16 20:17:10 PDT 2024
+
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+
+Sweep Number:	1
+searchRadius	5
+gridHeight	60
+gridWidth	60
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+Start: Sat Mar 16 20:20:04 PDT 2024
+
+Start: Sat Mar 16 20:20:04 PDT 2024
+
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+
+Sweep Number:	1
+searchRadius	5
+gridHeight	60
+gridWidth	60
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+Start: Sat Mar 16 20:35:28 PDT 2024
+
+Start: Sat Mar 16 20:35:28 PDT 2024
+
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+
+Sweep Number:	1
+searchRadius	5
+gridHeight	60
+gridWidth	60
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+Start: Sat Mar 16 20:41:39 PDT 2024
+
+Start: Sat Mar 16 20:41:39 PDT 2024
+
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+
+Sweep Number:	1
+searchRadius	5
+gridHeight	60
+gridWidth	60
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+Start: Sat Mar 16 20:49:51 PDT 2024
+
+Start: Sat Mar 16 20:49:51 PDT 2024
+
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+
+Sweep Number:	1
+searchRadius	5
+gridHeight	60
+gridWidth	60
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+Start: Sat Mar 16 20:50:32 PDT 2024
+
+Start: Sat Mar 16 20:50:32 PDT 2024
+
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+
+Sweep Number:	1
+searchRadius	5
+gridHeight	60
+gridWidth	60
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+Start: Sat Mar 16 20:51:11 PDT 2024
+
+Start: Sat Mar 16 20:51:11 PDT 2024
+
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+
+Sweep Number:	1
+searchRadius	5
+gridHeight	60
+gridWidth	60
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+Start: Sat Mar 16 20:56:45 PDT 2024
+
+Start: Sat Mar 16 20:56:45 PDT 2024
+
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+
+Sweep Number:	1
+searchRadius	5
+gridHeight	60
+gridWidth	60
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+Start: Sat Mar 16 20:59:17 PDT 2024
+
+Start: Sat Mar 16 20:59:17 PDT 2024
+
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+
+Sweep Number:	1
+searchRadius	5
+gridHeight	60
+gridWidth	60
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+Start: Sat Mar 16 21:07:19 PDT 2024
+
+Start: Sat Mar 16 21:07:20 PDT 2024
+
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+
+Sweep Number:	1
+searchRadius	5
+gridHeight	60
+gridWidth	60
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+Start: Sat Mar 16 21:10:42 PDT 2024
+
+Start: Sat Mar 16 21:10:42 PDT 2024
+
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+
+Sweep Number:	1
+searchRadius	5
+gridHeight	60
+gridWidth	60
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+Start: Sat Mar 16 21:15:02 PDT 2024
+
+Start: Sat Mar 16 21:15:02 PDT 2024
+
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+
+Sweep Number:	1
+searchRadius	5
+gridHeight	60
+gridWidth	60
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+Start: Sat Mar 16 21:17:17 PDT 2024
+
+Start: Sat Mar 16 21:17:17 PDT 2024
+
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+
+Sweep Number:	1
+searchRadius	5
+gridHeight	60
+gridWidth	60
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+Start: Sat Mar 16 21:18:24 PDT 2024
+
+Start: Sat Mar 16 21:18:24 PDT 2024
+
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+
+Sweep Number:	1
+searchRadius	5
+gridHeight	60
+gridWidth	60
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+Start: Sat Mar 16 21:20:00 PDT 2024
+
+Start: Sat Mar 16 21:20:00 PDT 2024
+
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+
+Sweep Number:	1
+searchRadius	5
+gridHeight	60
+gridWidth	60
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	0.000	0.000
+1.000	10.000	0.000	0.000
+2.000	10.000	0.000	0.000
+3.000	10.000	0.000	0.000
+4.000	10.000	0.000	0.000
+5.000	10.000	0.000	0.000
+6.000	10.000	0.000	0.000
+7.000	10.000	0.000	0.000
+8.000	10.000	0.000	0.000
+9.000	10.000	0.000	0.000
+10.000	10.000	0.100	0.100
+11.000	10.000	0.500	0.500
+12.000	10.000	1.300	1.300
+13.000	10.000	2.900	2.900
+14.000	10.000	6.800	6.800
+15.000	10.000	12.800	12.800
+16.000	10.000	26.500	26.500
+17.000	10.000	47.600	47.600
+18.000	10.000	77.500	77.500
+19.000	10.000	130.600	130.600
+20.000	10.000	254.500	254.500
+21.000	10.000	450.100	450.100
+22.000	10.000	688.600	688.600
+23.000	10.000	934.200	934.200
+24.000	10.000	1175.900	1175.900
+25.000	10.000	1426.700	1426.700
+26.000	10.000	1670.400	1670.400
+27.000	10.000	1912.200	1912.200
+28.000	10.000	2150.400	2150.400
+29.000	10.000	2396.200	2396.200
+30.000	10.000	2638.200	2638.200
+31.000	10.000	2878.200	2878.200
+32.000	10.000	3123.000	3123.000
+33.000	10.000	3367.000	3367.000
+34.000	10.000	3620.400	3620.400
+35.000	10.000	3863.400	3863.400
+36.000	10.000	4109.200	4109.200
+37.000	10.000	4358.000	4358.000
+38.000	10.000	4608.300	4608.300
+39.000	10.000	4855.800	4855.800
+40.000	10.000	5101.700	5101.700
+41.000	10.000	5342.500	5342.500
+42.000	10.000	5587.500	5587.500
+43.000	10.000	5825.700	5825.700
+44.000	10.000	6084.400	6084.400
+45.000	10.000	6333.300	6333.300
+46.000	10.000	6577.900	6577.900
+47.000	10.000	6822.900	6822.900
+48.000	10.000	7069.300	7069.300
+49.000	10.000	7316.100	7316.100
+50.000	10.000	7564.500	7564.500
+51.000	10.000	7799.800	7799.800
+52.000	10.000	8049.800	8049.800
+53.000	10.000	8288.200	8288.200
+54.000	10.000	8527.200	8527.200
+55.000	10.000	8771.500	8771.500
+56.000	10.000	9026.400	9026.400
+57.000	10.000	9271.700	9271.700
+58.000	10.000	9518.500	9518.500
+59.000	10.000	9764.800	9764.800
+60.000	10.000	10013.300	10013.300
+61.000	10.000	10255.700	10255.700
+62.000	10.000	10500.500	10500.500
+63.000	10.000	10743.300	10743.300
+64.000	10.000	10992.400	10992.400
+65.000	10.000	11222.300	11222.300
+66.000	10.000	11462.900	11462.900
+67.000	10.000	11710.200	11710.200
+68.000	10.000	11949.400	11949.400
+69.000	10.000	12183.400	12183.400
+70.000	10.000	12415.000	12415.000
+71.000	10.000	12637.800	12637.800
+72.000	10.000	12871.800	12871.800
+73.000	10.000	13102.300	13102.300
+74.000	10.000	13318.900	13318.900
+75.000	10.000	13535.100	13535.100
+76.000	10.000	13746.200	13746.200
+77.000	10.000	13947.200	13947.200
+78.000	10.000	14143.800	14143.800
+79.000	10.000	14317.500	14317.500
+80.000	10.000	14463.200	14463.200
+81.000	10.000	14565.800	14565.800
+82.000	10.000	14634.200	14634.200
+83.000	10.000	14678.300	14678.300
+84.000	10.000	14701.900	14701.900
+85.000	10.000	14713.800	14713.800
+86.000	10.000	14721.100	14721.100
+87.000	10.000	14723.200	14723.200
+88.000	10.000	14724.200	14724.200
+89.000	9.000	16327.000	16327.000
+90.000	8.000	17722.250	17722.250
+91.000	5.000	16503.000	16503.000
+92.000	2.000	24079.000	24079.000
+93.000	1.000	14460.000	14460.000
+94.000	1.000	14460.000	14460.000
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	0.000	0.000
+1.000	10.000	0.000	0.000
+2.000	10.000	0.000	0.000
+3.000	10.000	0.000	0.000
+4.000	10.000	0.000	0.000
+5.000	10.000	0.000	0.000
+6.000	10.000	0.000	0.000
+7.000	10.000	0.000	0.000
+8.000	10.000	0.000	0.000
+9.000	10.000	0.000	0.000
+10.000	10.000	0.100	0.100
+11.000	10.000	0.307	0.307
+12.000	10.000	0.716	0.716
+13.000	10.000	1.760	1.760
+14.000	10.000	3.599	3.599
+15.000	10.000	5.979	5.979
+16.000	10.000	10.980	10.980
+17.000	10.000	20.444	20.444
+18.000	10.000	32.487	32.487
+19.000	10.000	54.898	54.898
+20.000	10.000	105.062	105.062
+21.000	10.000	185.630	185.630
+22.000	10.000	283.347	283.347
+23.000	10.000	382.425	382.425
+24.000	10.000	482.414	482.414
+25.000	10.000	586.924	586.924
+26.000	10.000	686.580	686.580
+27.000	10.000	786.935	786.935
+28.000	10.000	885.416	885.416
+29.000	10.000	987.138	987.138
+30.000	10.000	1088.152	1088.152
+31.000	10.000	1184.917	1184.917
+32.000	10.000	1287.842	1287.842
+33.000	10.000	1391.020	1391.020
+34.000	10.000	1496.336	1496.336
+35.000	10.000	1596.458	1596.458
+36.000	10.000	1696.824	1696.824
+37.000	10.000	1800.428	1800.428
+38.000	10.000	1903.456	1903.456
+39.000	10.000	2004.209	2004.209
+40.000	10.000	2103.438	2103.438
+41.000	10.000	2202.227	2202.227
+42.000	10.000	2304.514	2304.514
+43.000	10.000	2404.899	2404.899
+44.000	10.000	2510.249	2510.249
+45.000	10.000	2613.151	2613.151
+46.000	10.000	2714.556	2714.556
+47.000	10.000	2814.510	2814.510
+48.000	10.000	2915.891	2915.891
+49.000	10.000	3016.963	3016.963
+50.000	10.000	3117.470	3117.470
+51.000	10.000	3215.082	3215.082
+52.000	10.000	3318.391	3318.391
+53.000	10.000	3418.034	3418.034
+54.000	10.000	3515.449	3515.449
+55.000	10.000	3616.297	3616.297
+56.000	10.000	3723.351	3723.351
+57.000	10.000	3821.620	3821.620
+58.000	10.000	3921.563	3921.563
+59.000	10.000	4021.466	4021.466
+60.000	10.000	4123.115	4123.115
+61.000	10.000	4224.732	4224.732
+62.000	10.000	4325.319	4325.319
+63.000	10.000	4424.851	4424.851
+64.000	10.000	4528.434	4528.434
+65.000	10.000	4622.994	4622.994
+66.000	10.000	4723.225	4723.225
+67.000	10.000	4824.844	4824.844
+68.000	10.000	4921.946	4921.946
+69.000	10.000	5017.393	5017.393
+70.000	10.000	5114.053	5114.053
+71.000	10.000	5203.553	5203.553
+72.000	10.000	5299.664	5299.664
+73.000	10.000	5394.818	5394.818
+74.000	10.000	5483.879	5483.879
+75.000	10.000	5573.380	5573.380
+76.000	10.000	5662.284	5662.284
+77.000	10.000	5746.010	5746.010
+78.000	10.000	5824.854	5824.854
+79.000	10.000	5895.390	5895.390
+80.000	10.000	5955.131	5955.131
+81.000	10.000	5997.986	5997.986
+82.000	10.000	6026.648	6026.648
+83.000	10.000	6044.279	6044.279
+84.000	10.000	6053.091	6053.091
+85.000	10.000	6057.883	6057.883
+86.000	10.000	6061.148	6061.148
+87.000	10.000	6061.740	6061.740
+88.000	10.000	6062.114	6062.114
+89.000	9.000	6536.715	6536.715
+90.000	8.000	7241.189	7241.189
+91.000	5.000	6881.169	6881.169
+92.000	2.000	9619.000	9619.000
+93.000	1.000	0.000	0.000
+94.000	1.000	0.000	0.000
+	
+Sweep Number:	2
+searchRadius	5
+gridHeight	60
+gridWidth	500
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	105.000	105.000
+1.000	10.000	159.200	161.000
+2.000	10.000	293.500	296.300
+3.000	10.000	525.900	533.700
+4.000	10.000	854.800	864.200
+5.000	10.000	1240.900	1251.900
+6.000	10.000	1666.600	1677.800
+7.000	10.000	2065.200	2077.000
+8.000	10.000	2413.500	2425.900
+9.000	10.000	2699.800	2712.400
+10.000	10.000	2906.500	2919.300
+11.000	10.000	3043.900	3056.700
+12.000	10.000	3126.000	3138.800
+13.000	10.000	3172.100	3184.900
+14.000	10.000	3195.600	3208.400
+15.000	10.000	3206.800	3219.600
+16.000	10.000	3212.400	3225.200
+17.000	10.000	3214.300	3227.100
+18.000	10.000	3215.000	3227.800
+19.000	9.000	3300.000	3309.778
+20.000	5.000	2179.200	2202.400
+21.000	1.000	4327.000	4359.000
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	27.831	27.831
+1.000	10.000	42.161	42.218
+2.000	10.000	77.463	76.186
+3.000	10.000	138.950	136.970
+4.000	10.000	224.216	221.681
+5.000	10.000	325.152	321.989
+6.000	10.000	434.688	431.478
+7.000	10.000	539.175	535.844
+8.000	10.000	629.701	626.354
+9.000	10.000	704.158	700.708
+10.000	10.000	758.122	754.658
+11.000	10.000	792.694	789.234
+12.000	10.000	813.919	810.456
+13.000	10.000	826.287	822.813
+14.000	10.000	832.790	829.311
+15.000	10.000	835.644	832.165
+16.000	10.000	837.250	833.767
+17.000	10.000	837.782	834.296
+18.000	10.000	837.964	834.479
+19.000	9.000	932.070	928.493
+20.000	5.000	970.854	971.089
+21.000	1.000	0.000	0.000
+	
+Sweep Number:	3
+searchRadius	5
+gridHeight	60
+gridWidth	1000
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	79.300	78.900
+1.000	10.000	201.200	201.000
+2.000	10.000	398.500	396.500
+3.000	10.000	626.500	624.300
+4.000	10.000	824.700	822.100
+5.000	10.000	957.500	955.100
+6.000	10.000	1037.000	1034.200
+7.000	10.000	1072.500	1069.700
+8.000	10.000	1088.300	1085.700
+9.000	10.000	1094.100	1091.500
+10.000	10.000	1095.800	1093.200
+11.000	10.000	1096.000	1093.400
+12.000	8.000	1214.875	1203.625
+13.000	5.000	688.200	668.600
+14.000	2.000	1352.000	1342.000
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	31.638	31.916
+1.000	10.000	79.191	81.050
+2.000	10.000	155.965	156.824
+3.000	10.000	244.852	246.608
+4.000	10.000	322.374	324.398
+5.000	10.000	374.299	376.916
+6.000	10.000	405.483	408.174
+7.000	10.000	419.659	422.360
+8.000	10.000	425.696	428.340
+9.000	10.000	428.172	430.802
+10.000	10.000	428.965	431.594
+11.000	10.000	429.071	431.699
+12.000	8.000	522.073	525.445
+13.000	5.000	506.259	509.041
+14.000	2.000	1319.000	1333.000
+	
+Sweep Number:	4
+searchRadius	5
+gridHeight	500
+gridWidth	60
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	71.900	71.900
+1.000	10.000	114.300	113.700
+2.000	10.000	206.600	205.200
+3.000	10.000	377.800	377.600
+4.000	10.000	614.500	614.500
+5.000	10.000	903.800	900.400
+6.000	10.000	1198.900	1195.500
+7.000	10.000	1484.300	1480.700
+8.000	10.000	1722.900	1719.100
+9.000	10.000	1920.400	1916.600
+10.000	10.000	2059.400	2055.600
+11.000	10.000	2150.600	2146.800
+12.000	10.000	2205.100	2201.300
+13.000	10.000	2232.000	2228.200
+14.000	10.000	2245.900	2242.100
+15.000	10.000	2251.300	2247.500
+16.000	10.000	2254.000	2250.200
+17.000	10.000	2254.600	2250.800
+18.000	10.000	2254.800	2251.000
+19.000	7.000	1391.143	1390.286
+20.000	5.000	1942.400	1940.400
+21.000	2.000	93.500	77.500
+22.000	1.000	8.000	10.000
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	29.327	29.327
+1.000	10.000	45.992	46.058
+2.000	10.000	82.954	83.474
+3.000	10.000	151.802	153.614
+4.000	10.000	247.503	249.718
+5.000	10.000	363.709	365.495
+6.000	10.000	482.482	484.566
+7.000	10.000	597.538	599.741
+8.000	10.000	694.932	697.253
+9.000	10.000	775.367	777.675
+10.000	10.000	830.983	833.292
+11.000	10.000	867.780	870.088
+12.000	10.000	889.920	892.229
+13.000	10.000	901.002	903.312
+14.000	10.000	906.512	908.822
+15.000	10.000	908.736	911.047
+16.000	10.000	909.899	912.210
+17.000	10.000	910.112	912.423
+18.000	10.000	910.150	912.461
+19.000	7.000	894.465	897.381
+20.000	5.000	1189.216	1194.276
+21.000	2.000	85.500	67.500
+22.000	1.000	0.000	0.000
+	
+Sweep Number:	5
+searchRadius	5
+gridHeight	500
+gridWidth	500
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	147.100	150.500
+1.000	10.000	271.400	278.200
+2.000	10.000	316.600	323.400
+3.000	10.000	325.500	332.500
+4.000	10.000	327.200	334.200
+5.000	10.000	327.200	334.200
+6.000	5.000	318.600	320.600
+7.000	3.000	257.333	260.667
+8.000	1.000	4.000	0.000
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	51.827	51.794
+1.000	10.000	95.886	95.901
+2.000	10.000	111.353	111.479
+3.000	10.000	114.391	114.577
+4.000	10.000	114.920	115.104
+5.000	10.000	114.920	115.104
+6.000	5.000	192.006	191.085
+7.000	3.000	252.833	258.171
+8.000	1.000	0.000	0.000
+	
+Sweep Number:	6
+searchRadius	5
+gridHeight	500
+gridWidth	1000
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	127.700	127.100
+1.000	10.000	187.800	185.600
+2.000	10.000	196.800	194.600
+3.000	10.000	197.900	195.700
+4.000	10.000	198.000	195.800
+5.000	2.000	224.000	222.000
+6.000	1.000	77.000	71.000
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	38.984	39.102
+1.000	10.000	57.438	57.302
+2.000	10.000	60.396	60.257
+3.000	10.000	60.782	60.638
+4.000	10.000	60.814	60.671
+5.000	2.000	147.000	151.000
+6.000	1.000	0.000	0.000
+	
+Sweep Number:	7
+searchRadius	5
+gridHeight	1000
+gridWidth	60
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	86.300	86.700
+1.000	10.000	241.300	237.700
+2.000	10.000	471.900	464.100
+3.000	10.000	730.400	722.200
+4.000	10.000	955.200	944.800
+5.000	10.000	1104.900	1094.300
+6.000	10.000	1188.600	1177.600
+7.000	10.000	1230.000	1218.600
+8.000	10.000	1246.300	1235.100
+9.000	10.000	1251.100	1239.900
+10.000	10.000	1252.800	1241.600
+11.000	10.000	1253.200	1242.000
+12.000	9.000	1373.778	1365.556
+13.000	5.000	1340.200	1325.000
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	28.660	28.911
+1.000	10.000	79.747	81.233
+2.000	10.000	156.703	158.875
+3.000	10.000	245.948	248.841
+4.000	10.000	322.308	324.682
+5.000	10.000	373.601	375.958
+6.000	10.000	401.405	403.740
+7.000	10.000	415.488	417.727
+8.000	10.000	420.899	423.232
+9.000	10.000	422.520	424.857
+10.000	10.000	423.084	425.425
+11.000	10.000	423.240	425.581
+12.000	9.000	453.683	455.417
+13.000	5.000	603.347	606.676
+	
+Sweep Number:	8
+searchRadius	5
+gridHeight	1000
+gridWidth	500
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	113.800	113.400
+1.000	10.000	162.800	162.600
+2.000	10.000	170.900	170.900
+3.000	10.000	172.200	172.200
+4.000	10.000	172.300	172.300
+5.000	2.000	195.500	195.500
+6.000	1.000	64.000	58.000
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	39.016	39.515
+1.000	10.000	56.031	57.094
+2.000	10.000	59.069	60.212
+3.000	10.000	59.444	60.587
+4.000	10.000	59.473	60.616
+5.000	2.000	131.500	137.500
+6.000	1.000	0.000	0.000
+	
+Sweep Number:	9
+searchRadius	5
+gridHeight	1000
+gridWidth	1000
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	25.500	24.700
+1.000	10.000	30.200	29.200
+2.000	10.000	30.300	29.500
+3.000	10.000	30.300	29.500
+4.000	3.000	18.333	13.667
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	10.631	11.046
+1.000	10.000	12.307	12.713
+2.000	10.000	12.379	12.783
+3.000	10.000	12.379	12.783
+4.000	3.000	10.398	8.090
+	
+Sweep Number:	10
+searchRadius	10
+gridHeight	60
+gridWidth	60
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	0.000	0.000
+1.000	10.000	0.000	0.000
+2.000	10.000	0.000	0.000
+3.000	10.000	0.000	0.000
+4.000	10.000	0.000	0.000
+5.000	10.000	0.000	0.000
+6.000	10.000	0.000	0.000
+7.000	10.000	0.000	0.000
+8.000	10.000	0.000	0.000
+9.000	10.000	0.000	0.000
+10.000	10.000	0.000	0.000
+11.000	10.000	0.000	0.000
+12.000	10.000	0.000	0.000
+13.000	10.000	0.000	0.000
+14.000	10.000	0.000	0.000
+15.000	10.000	0.000	0.000
+16.000	10.000	0.000	0.000
+17.000	10.000	0.000	0.000
+18.000	10.000	0.000	0.000
+19.000	10.000	0.000	0.000
+20.000	10.000	0.000	0.000
+21.000	10.000	0.000	0.000
+22.000	10.000	0.000	0.000
+23.000	10.000	0.000	0.000
+24.000	10.000	0.000	0.000
+25.000	10.000	0.000	0.000
+26.000	10.000	0.000	0.000
+27.000	10.000	0.000	0.000
+28.000	10.000	0.000	0.000
+29.000	10.000	0.000	0.000
+30.000	10.000	0.000	0.000
+31.000	10.000	0.000	0.000
+32.000	10.000	0.000	0.000
+33.000	10.000	0.000	0.000
+34.000	10.000	0.000	0.000
+35.000	10.000	0.000	0.000
+36.000	10.000	0.000	0.000
+37.000	10.000	0.000	0.000
+38.000	10.000	0.000	0.000
+39.000	10.000	0.000	0.000
+40.000	10.000	0.000	0.000
+41.000	10.000	0.000	0.000
+42.000	10.000	0.000	0.000
+43.000	10.000	0.000	0.000
+44.000	10.000	0.000	0.000
+45.000	10.000	0.000	0.000
+46.000	10.000	0.000	0.000
+47.000	10.000	0.000	0.000
+48.000	10.000	0.000	0.000
+49.000	10.000	0.000	0.000
+50.000	10.000	0.000	0.000
+51.000	10.000	0.000	0.000
+52.000	10.000	0.000	0.000
+53.000	10.000	0.000	0.000
+54.000	10.000	0.000	0.000
+55.000	10.000	0.000	0.000
+56.000	10.000	0.000	0.000
+57.000	10.000	0.100	0.100
+58.000	10.000	0.100	0.100
+59.000	10.000	0.100	0.100
+60.000	10.000	0.500	0.500
+61.000	10.000	1.200	1.200
+62.000	10.000	4.100	4.100
+63.000	10.000	7.700	7.700
+64.000	10.000	13.200	13.200
+65.000	10.000	20.600	20.600
+66.000	10.000	30.000	30.000
+67.000	10.000	41.600	41.600
+68.000	10.000	59.400	59.400
+69.000	10.000	81.200	81.200
+70.000	10.000	110.700	110.700
+71.000	10.000	157.000	157.000
+72.000	10.000	238.500	238.500
+73.000	10.000	378.700	378.700
+74.000	10.000	608.200	608.200
+75.000	10.000	905.900	905.900
+76.000	10.000	1237.900	1237.900
+77.000	10.000	1577.300	1577.300
+78.000	10.000	1927.800	1927.800
+79.000	10.000	2281.700	2281.700
+80.000	10.000	2633.300	2633.300
+81.000	10.000	2988.700	2988.700
+82.000	10.000	3340.500	3340.500
+83.000	10.000	3681.900	3681.900
+84.000	10.000	4027.500	4027.500
+85.000	10.000	4385.400	4385.400
+86.000	10.000	4737.300	4737.300
+87.000	10.000	5088.900	5088.900
+88.000	10.000	5451.000	5451.000
+89.000	10.000	5808.400	5808.400
+90.000	10.000	6162.100	6162.100
+91.000	10.000	6522.400	6522.400
+92.000	10.000	6885.900	6885.900
+93.000	10.000	7235.500	7235.500
+94.000	10.000	7584.400	7584.400
+95.000	10.000	7945.300	7945.300
+96.000	10.000	8306.000	8306.000
+97.000	10.000	8658.900	8658.900
+98.000	10.000	9022.400	9022.400
+99.000	10.000	9375.100	9375.100
+100.000	10.000	9727.600	9727.600
+101.000	10.000	10086.200	10086.200
+102.000	10.000	10441.800	10441.800
+103.000	10.000	10808.900	10808.900
+104.000	10.000	11164.100	11164.100
+105.000	10.000	11519.000	11519.000
+106.000	10.000	11876.100	11876.100
+107.000	10.000	12229.700	12229.700
+108.000	10.000	12582.400	12582.400
+109.000	10.000	12933.900	12933.900
+110.000	10.000	13285.200	13285.200
+111.000	10.000	13633.000	13633.000
+112.000	10.000	13991.500	13991.500
+113.000	10.000	14340.500	14340.500
+114.000	10.000	14698.200	14698.200
+115.000	10.000	15060.000	15060.000
+116.000	10.000	15415.200	15415.200
+117.000	10.000	15771.200	15771.200
+118.000	10.000	16126.200	16126.200
+119.000	10.000	16470.200	16470.200
+120.000	10.000	16823.800	16823.800
+121.000	10.000	17177.700	17177.700
+122.000	10.000	17537.900	17537.900
+123.000	10.000	17886.400	17886.400
+124.000	10.000	18250.400	18250.400
+125.000	10.000	18603.000	18603.000
+126.000	10.000	18949.300	18949.300
+127.000	10.000	19304.200	19304.200
+128.000	10.000	19650.000	19650.000
+129.000	10.000	20000.500	20000.500
+130.000	10.000	20357.200	20357.200
+131.000	10.000	20706.500	20706.500
+132.000	10.000	21060.200	21060.200
+133.000	10.000	21421.700	21421.700
+134.000	10.000	21774.700	21774.700
+135.000	10.000	22124.500	22124.500
+136.000	10.000	22478.900	22478.900
+137.000	10.000	22831.300	22831.300
+138.000	10.000	23196.500	23196.500
+139.000	10.000	23543.600	23543.600
+140.000	10.000	23892.200	23892.200
+141.000	10.000	24252.400	24252.400
+142.000	10.000	24605.700	24605.700
+143.000	10.000	24958.900	24958.900
+144.000	10.000	25316.100	25316.100
+145.000	10.000	25676.300	25676.300
+146.000	10.000	26038.900	26038.900
+147.000	10.000	26390.500	26390.500
+148.000	10.000	26735.300	26735.300
+149.000	10.000	27091.900	27091.900
+150.000	10.000	27439.800	27439.800
+151.000	10.000	27790.300	27790.300
+152.000	10.000	28141.900	28141.900
+153.000	10.000	28490.700	28490.700
+154.000	10.000	28832.300	28832.300
+155.000	10.000	29179.200	29179.200
+156.000	10.000	29539.600	29539.600
+157.000	10.000	29896.900	29896.900
+158.000	10.000	30255.000	30255.000
+159.000	10.000	30615.100	30615.100
+160.000	10.000	30967.600	30967.600
+161.000	10.000	31326.600	31326.600
+162.000	10.000	31677.100	31677.100
+163.000	10.000	32031.700	32031.700
+164.000	10.000	32383.200	32383.200
+165.000	10.000	32740.200	32740.200
+166.000	10.000	33096.400	33096.400
+167.000	10.000	33451.700	33451.700
+168.000	10.000	33812.500	33812.500
+169.000	10.000	34167.700	34167.700
+170.000	10.000	34517.900	34517.900
+171.000	10.000	34869.500	34869.500
+172.000	10.000	35227.800	35227.800
+173.000	10.000	35583.000	35583.000
+174.000	10.000	35939.700	35939.700
+175.000	10.000	36300.100	36300.100
+176.000	10.000	36646.600	36646.600
+177.000	10.000	37005.800	37005.800
+178.000	10.000	37364.300	37364.300
+179.000	10.000	37724.100	37724.100
+180.000	10.000	38074.700	38074.700
+181.000	10.000	38428.700	38428.700
+182.000	10.000	38798.800	38798.800
+183.000	10.000	39151.300	39151.300
+184.000	10.000	39501.700	39501.700
+185.000	10.000	39862.700	39862.700
+186.000	10.000	40215.300	40215.300
+187.000	10.000	40570.600	40570.600
+188.000	10.000	40925.300	40925.300
+189.000	10.000	41278.400	41278.400
+190.000	10.000	41636.400	41636.400
+191.000	10.000	41988.700	41988.700
+192.000	10.000	42345.000	42345.000
+193.000	10.000	42693.900	42693.900
+194.000	10.000	43039.900	43039.900
+195.000	10.000	43392.000	43392.000
+196.000	10.000	43742.000	43742.000
+197.000	10.000	44103.500	44103.500
+198.000	10.000	44460.100	44460.100
+199.000	10.000	44820.500	44820.500
+200.000	10.000	45173.100	45173.100
+201.000	10.000	45531.700	45531.700
+202.000	10.000	45879.700	45879.700
+203.000	10.000	46232.600	46232.600
+204.000	10.000	46579.800	46579.800
+205.000	10.000	46939.000	46939.000
+206.000	10.000	47286.600	47286.600
+207.000	10.000	47643.300	47643.300
+208.000	10.000	47998.100	47998.100
+209.000	10.000	48361.000	48361.000
+210.000	10.000	48717.700	48717.700
+211.000	10.000	49072.700	49072.700
+212.000	10.000	49430.900	49430.900
+213.000	10.000	49779.400	49779.400
+214.000	10.000	50129.400	50129.400
+215.000	10.000	50487.300	50487.300
+216.000	10.000	50834.400	50834.400
+217.000	10.000	51183.200	51183.200
+218.000	10.000	51531.700	51531.700
+219.000	10.000	51886.800	51886.800
+220.000	10.000	52238.900	52238.900
+221.000	10.000	52600.800	52600.800
+222.000	10.000	52952.800	52952.800
+223.000	10.000	53311.900	53311.900
+224.000	10.000	53673.700	53673.700
+225.000	10.000	54031.500	54031.500
+226.000	10.000	54384.900	54384.900
+227.000	10.000	54739.600	54739.600
+228.000	10.000	55089.800	55089.800
+229.000	10.000	55435.600	55435.600
+230.000	10.000	55798.200	55798.200
+231.000	10.000	56152.100	56152.100
+232.000	10.000	56510.200	56510.200
+233.000	10.000	56870.600	56870.600
+234.000	10.000	57224.200	57224.200
+235.000	10.000	57582.800	57582.800
+236.000	10.000	57934.100	57934.100
+237.000	10.000	58285.100	58285.100
+238.000	10.000	58640.600	58640.600
+239.000	10.000	58992.800	58992.800
+240.000	10.000	59348.600	59348.600
+241.000	10.000	59715.200	59715.200
+242.000	10.000	60072.800	60072.800
+243.000	10.000	60433.300	60433.300
+244.000	10.000	60791.100	60791.100
+245.000	10.000	61153.300	61153.300
+246.000	10.000	61504.000	61504.000
+247.000	10.000	61858.500	61858.500
+248.000	10.000	62217.600	62217.600
+249.000	10.000	62569.600	62569.600
+250.000	10.000	62928.400	62928.400
+251.000	10.000	63276.500	63276.500
+252.000	10.000	63629.200	63629.200
+253.000	10.000	63979.400	63979.400
+254.000	10.000	64330.500	64330.500
+255.000	10.000	64686.900	64686.900
+256.000	10.000	65044.600	65044.600
+257.000	10.000	65410.300	65410.300
+258.000	10.000	65753.800	65753.800
+259.000	10.000	66102.300	66102.300
+260.000	10.000	66457.200	66457.200
+261.000	10.000	66823.900	66823.900
+262.000	10.000	67174.600	67174.600
+263.000	10.000	67532.100	67532.100
+264.000	10.000	67890.600	67890.600
+265.000	10.000	68242.800	68242.800
+266.000	10.000	68597.100	68597.100
+267.000	10.000	68947.200	68947.200
+268.000	10.000	69301.100	69301.100
+269.000	10.000	69654.400	69654.400
+270.000	10.000	69995.500	69995.500
+271.000	10.000	70344.100	70344.100
+272.000	10.000	70684.300	70684.300
+273.000	10.000	71023.700	71023.700
+274.000	10.000	71357.400	71357.400
+275.000	10.000	71693.200	71693.200
+276.000	10.000	72036.800	72036.800
+277.000	10.000	72368.400	72368.400
+278.000	10.000	72692.400	72692.400
+279.000	10.000	73025.100	73025.100
+280.000	10.000	73355.900	73355.900
+281.000	10.000	73689.400	73689.400
+282.000	10.000	74009.000	74009.000
+283.000	10.000	74326.100	74326.100
+284.000	10.000	74647.700	74647.700
+285.000	10.000	74974.000	74974.000
+286.000	10.000	75288.400	75288.400
+287.000	10.000	75598.800	75598.800
+288.000	10.000	75899.100	75899.100
+289.000	10.000	76184.500	76184.500
+290.000	10.000	76455.300	76455.300
+291.000	10.000	76716.600	76716.600
+292.000	10.000	76949.400	76949.400
+293.000	10.000	77168.800	77168.800
+294.000	10.000	77357.100	77357.100
+295.000	10.000	77522.100	77522.100
+296.000	10.000	77656.500	77656.500
+297.000	10.000	77765.300	77765.300
+298.000	10.000	77847.700	77847.700
+299.000	10.000	77911.500	77911.500
+300.000	10.000	77956.900	77956.900
+301.000	10.000	77988.000	77988.000
+302.000	10.000	78009.500	78009.500
+303.000	10.000	78024.800	78024.800
+304.000	10.000	78032.700	78032.700
+305.000	10.000	78037.800	78037.800
+306.000	10.000	78040.300	78040.300
+307.000	10.000	78041.700	78041.700
+308.000	9.000	79188.778	79188.778
+309.000	8.000	86275.125	86275.125
+310.000	7.000	70824.286	70824.286
+311.000	7.000	70824.429	70824.429
+312.000	4.000	92940.250	92940.250
+313.000	2.000	76662.000	76662.000
+314.000	1.000	279.000	279.000
+315.000	1.000	279.000	279.000
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	0.000	0.000
+1.000	10.000	0.000	0.000
+2.000	10.000	0.000	0.000
+3.000	10.000	0.000	0.000
+4.000	10.000	0.000	0.000
+5.000	10.000	0.000	0.000
+6.000	10.000	0.000	0.000
+7.000	10.000	0.000	0.000
+8.000	10.000	0.000	0.000
+9.000	10.000	0.000	0.000
+10.000	10.000	0.000	0.000
+11.000	10.000	0.000	0.000
+12.000	10.000	0.000	0.000
+13.000	10.000	0.000	0.000
+14.000	10.000	0.000	0.000
+15.000	10.000	0.000	0.000
+16.000	10.000	0.000	0.000
+17.000	10.000	0.000	0.000
+18.000	10.000	0.000	0.000
+19.000	10.000	0.000	0.000
+20.000	10.000	0.000	0.000
+21.000	10.000	0.000	0.000
+22.000	10.000	0.000	0.000
+23.000	10.000	0.000	0.000
+24.000	10.000	0.000	0.000
+25.000	10.000	0.000	0.000
+26.000	10.000	0.000	0.000
+27.000	10.000	0.000	0.000
+28.000	10.000	0.000	0.000
+29.000	10.000	0.000	0.000
+30.000	10.000	0.000	0.000
+31.000	10.000	0.000	0.000
+32.000	10.000	0.000	0.000
+33.000	10.000	0.000	0.000
+34.000	10.000	0.000	0.000
+35.000	10.000	0.000	0.000
+36.000	10.000	0.000	0.000
+37.000	10.000	0.000	0.000
+38.000	10.000	0.000	0.000
+39.000	10.000	0.000	0.000
+40.000	10.000	0.000	0.000
+41.000	10.000	0.000	0.000
+42.000	10.000	0.000	0.000
+43.000	10.000	0.000	0.000
+44.000	10.000	0.000	0.000
+45.000	10.000	0.000	0.000
+46.000	10.000	0.000	0.000
+47.000	10.000	0.000	0.000
+48.000	10.000	0.000	0.000
+49.000	10.000	0.000	0.000
+50.000	10.000	0.000	0.000
+51.000	10.000	0.000	0.000
+52.000	10.000	0.000	0.000
+53.000	10.000	0.000	0.000
+54.000	10.000	0.000	0.000
+55.000	10.000	0.000	0.000
+56.000	10.000	0.000	0.000
+57.000	10.000	0.100	0.100
+58.000	10.000	0.100	0.100
+59.000	10.000	0.100	0.100
+60.000	10.000	0.269	0.269
+61.000	10.000	0.629	0.629
+62.000	10.000	1.386	1.386
+63.000	10.000	2.221	2.221
+64.000	10.000	3.818	3.818
+65.000	10.000	5.848	5.848
+66.000	10.000	8.655	8.655
+67.000	10.000	12.278	12.278
+68.000	10.000	17.121	17.121
+69.000	10.000	24.123	24.123
+70.000	10.000	33.375	33.375
+71.000	10.000	47.497	47.497
+72.000	10.000	72.085	72.085
+73.000	10.000	114.949	114.949
+74.000	10.000	184.034	184.034
+75.000	10.000	273.453	273.453
+76.000	10.000	376.214	376.214
+77.000	10.000	477.977	477.977
+78.000	10.000	582.908	582.908
+79.000	10.000	688.628	688.628
+80.000	10.000	793.819	793.819
+81.000	10.000	898.506	898.506
+82.000	10.000	1003.035	1003.035
+83.000	10.000	1106.904	1106.904
+84.000	10.000	1210.170	1210.170
+85.000	10.000	1317.510	1317.510
+86.000	10.000	1423.252	1423.252
+87.000	10.000	1527.302	1527.302
+88.000	10.000	1636.820	1636.820
+89.000	10.000	1741.498	1741.498
+90.000	10.000	1850.115	1850.115
+91.000	10.000	1959.751	1959.751
+92.000	10.000	2069.618	2069.618
+93.000	10.000	2172.762	2172.762
+94.000	10.000	2278.460	2278.460
+95.000	10.000	2385.062	2385.062
+96.000	10.000	2494.306	2494.306
+97.000	10.000	2601.348	2601.348
+98.000	10.000	2710.329	2710.329
+99.000	10.000	2816.918	2816.918
+100.000	10.000	2923.646	2923.646
+101.000	10.000	3031.060	3031.060
+102.000	10.000	3137.776	3137.776
+103.000	10.000	3247.347	3247.347
+104.000	10.000	3354.081	3354.081
+105.000	10.000	3459.212	3459.212
+106.000	10.000	3567.553	3567.553
+107.000	10.000	3673.954	3673.954
+108.000	10.000	3778.926	3778.926
+109.000	10.000	3886.463	3886.463
+110.000	10.000	3989.796	3989.796
+111.000	10.000	4095.787	4095.787
+112.000	10.000	4203.600	4203.600
+113.000	10.000	4310.545	4310.545
+114.000	10.000	4417.916	4417.916
+115.000	10.000	4525.030	4525.030
+116.000	10.000	4630.415	4630.415
+117.000	10.000	4738.216	4738.216
+118.000	10.000	4847.077	4847.077
+119.000	10.000	4950.706	4950.706
+120.000	10.000	5058.703	5058.703
+121.000	10.000	5162.901	5162.901
+122.000	10.000	5270.290	5270.290
+123.000	10.000	5377.396	5377.396
+124.000	10.000	5484.763	5484.763
+125.000	10.000	5590.495	5590.495
+126.000	10.000	5693.975	5693.975
+127.000	10.000	5798.161	5798.161
+128.000	10.000	5901.190	5901.190
+129.000	10.000	6004.624	6004.624
+130.000	10.000	6110.729	6110.729
+131.000	10.000	6215.836	6215.836
+132.000	10.000	6319.710	6319.710
+133.000	10.000	6428.982	6428.982
+134.000	10.000	6536.364	6536.364
+135.000	10.000	6641.962	6641.962
+136.000	10.000	6750.296	6750.296
+137.000	10.000	6857.128	6857.128
+138.000	10.000	6967.083	6967.083
+139.000	10.000	7071.768	7071.768
+140.000	10.000	7176.799	7176.799
+141.000	10.000	7286.614	7286.614
+142.000	10.000	7392.511	7392.511
+143.000	10.000	7499.639	7499.639
+144.000	10.000	7607.207	7607.207
+145.000	10.000	7714.896	7714.896
+146.000	10.000	7825.196	7825.196
+147.000	10.000	7930.271	7930.271
+148.000	10.000	8033.590	8033.590
+149.000	10.000	8140.230	8140.230
+150.000	10.000	8244.418	8244.418
+151.000	10.000	8349.332	8349.332
+152.000	10.000	8454.831	8454.831
+153.000	10.000	8560.237	8560.237
+154.000	10.000	8662.905	8662.905
+155.000	10.000	8769.577	8769.577
+156.000	10.000	8876.646	8876.646
+157.000	10.000	8984.006	8984.006
+158.000	10.000	9090.966	9090.966
+159.000	10.000	9198.370	9198.370
+160.000	10.000	9302.472	9302.472
+161.000	10.000	9408.886	9408.886
+162.000	10.000	9512.966	9512.966
+163.000	10.000	9617.265	9617.265
+164.000	10.000	9721.809	9721.809
+165.000	10.000	9830.295	9830.295
+166.000	10.000	9938.442	9938.442
+167.000	10.000	10045.836	10045.836
+168.000	10.000	10154.722	10154.722
+169.000	10.000	10261.273	10261.273
+170.000	10.000	10365.685	10365.685
+171.000	10.000	10472.662	10472.662
+172.000	10.000	10579.172	10579.172
+173.000	10.000	10684.172	10684.172
+174.000	10.000	10791.828	10791.828
+175.000	10.000	10899.374	10899.374
+176.000	10.000	11004.749	11004.749
+177.000	10.000	11112.173	11112.173
+178.000	10.000	11218.550	11218.550
+179.000	10.000	11327.177	11327.177
+180.000	10.000	11431.783	11431.783
+181.000	10.000	11533.988	11533.988
+182.000	10.000	11643.252	11643.252
+183.000	10.000	11751.552	11751.552
+184.000	10.000	11855.987	11855.987
+185.000	10.000	11962.138	11962.138
+186.000	10.000	12068.895	12068.895
+187.000	10.000	12179.855	12179.855
+188.000	10.000	12286.741	12286.741
+189.000	10.000	12392.544	12392.544
+190.000	10.000	12497.704	12497.704
+191.000	10.000	12602.795	12602.795
+192.000	10.000	12707.649	12707.649
+193.000	10.000	12811.721	12811.721
+194.000	10.000	12913.108	12913.108
+195.000	10.000	13020.257	13020.257
+196.000	10.000	13126.086	13126.086
+197.000	10.000	13234.273	13234.273
+198.000	10.000	13340.551	13340.551
+199.000	10.000	13448.433	13448.433
+200.000	10.000	13554.758	13554.758
+201.000	10.000	13662.816	13662.816
+202.000	10.000	13767.527	13767.527
+203.000	10.000	13872.713	13872.713
+204.000	10.000	13974.159	13974.159
+205.000	10.000	14081.347	14081.347
+206.000	10.000	14186.531	14186.531
+207.000	10.000	14296.181	14296.181
+208.000	10.000	14402.407	14402.407
+209.000	10.000	14512.859	14512.859
+210.000	10.000	14619.284	14619.284
+211.000	10.000	14724.787	14724.787
+212.000	10.000	14828.266	14828.266
+213.000	10.000	14935.491	14935.491
+214.000	10.000	15039.982	15039.982
+215.000	10.000	15146.470	15146.470
+216.000	10.000	15248.271	15248.271
+217.000	10.000	15354.404	15354.404
+218.000	10.000	15458.875	15458.875
+219.000	10.000	15569.284	15569.284
+220.000	10.000	15675.838	15675.838
+221.000	10.000	15782.359	15782.359
+222.000	10.000	15886.923	15886.923
+223.000	10.000	15995.169	15995.169
+224.000	10.000	16104.382	16104.382
+225.000	10.000	16212.209	16212.209
+226.000	10.000	16320.545	16320.545
+227.000	10.000	16426.866	16426.866
+228.000	10.000	16533.163	16533.163
+229.000	10.000	16635.515	16635.515
+230.000	10.000	16743.935	16743.935
+231.000	10.000	16849.960	16849.960
+232.000	10.000	16959.345	16959.345
+233.000	10.000	17064.999	17064.999
+234.000	10.000	17169.270	17169.270
+235.000	10.000	17274.563	17274.563
+236.000	10.000	17379.792	17379.792
+237.000	10.000	17485.813	17485.813
+238.000	10.000	17592.406	17592.406
+239.000	10.000	17698.235	17698.235
+240.000	10.000	17806.508	17806.508
+241.000	10.000	17916.230	17916.230
+242.000	10.000	18022.088	18022.088
+243.000	10.000	18129.499	18129.499
+244.000	10.000	18237.706	18237.706
+245.000	10.000	18345.336	18345.336
+246.000	10.000	18451.750	18451.750
+247.000	10.000	18551.615	18551.615
+248.000	10.000	18659.132	18659.132
+249.000	10.000	18766.244	18766.244
+250.000	10.000	18874.034	18874.034
+251.000	10.000	18977.660	18977.660
+252.000	10.000	19085.321	19085.321
+253.000	10.000	19187.864	19187.864
+254.000	10.000	19292.486	19292.486
+255.000	10.000	19398.828	19398.828
+256.000	10.000	19508.170	19508.170
+257.000	10.000	19619.031	19619.031
+258.000	10.000	19723.081	19723.081
+259.000	10.000	19827.342	19827.342
+260.000	10.000	19933.935	19933.935
+261.000	10.000	20044.761	20044.761
+262.000	10.000	20150.878	20150.878
+263.000	10.000	20258.442	20258.442
+264.000	10.000	20365.831	20365.831
+265.000	10.000	20471.127	20471.127
+266.000	10.000	20576.892	20576.892
+267.000	10.000	20680.196	20680.196
+268.000	10.000	20785.910	20785.910
+269.000	10.000	20891.029	20891.029
+270.000	10.000	20992.884	20992.884
+271.000	10.000	21095.695	21095.695
+272.000	10.000	21197.478	21197.478
+273.000	10.000	21298.018	21298.018
+274.000	10.000	21397.512	21397.512
+275.000	10.000	21496.917	21496.917
+276.000	10.000	21599.700	21599.700
+277.000	10.000	21700.005	21700.005
+278.000	10.000	21796.845	21796.845
+279.000	10.000	21896.841	21896.841
+280.000	10.000	21996.615	21996.615
+281.000	10.000	22098.487	22098.487
+282.000	10.000	22191.393	22191.393
+283.000	10.000	22285.726	22285.726
+284.000	10.000	22383.374	22383.374
+285.000	10.000	22479.556	22479.556
+286.000	10.000	22573.465	22573.465
+287.000	10.000	22664.380	22664.380
+288.000	10.000	22753.900	22753.900
+289.000	10.000	22839.897	22839.897
+290.000	10.000	22918.098	22918.098
+291.000	10.000	22995.172	22995.172
+292.000	10.000	23065.231	23065.231
+293.000	10.000	23130.137	23130.137
+294.000	10.000	23187.839	23187.839
+295.000	10.000	23236.336	23236.336
+296.000	10.000	23276.684	23276.684
+297.000	10.000	23308.105	23308.105
+298.000	10.000	23332.346	23332.346
+299.000	10.000	23350.969	23350.969
+300.000	10.000	23363.611	23363.611
+301.000	10.000	23372.700	23372.700
+302.000	10.000	23378.823	23378.823
+303.000	10.000	23382.203	23382.203
+304.000	10.000	23384.459	23384.459
+305.000	10.000	23385.398	23385.398
+306.000	10.000	23386.173	23386.173
+307.000	10.000	23386.612	23386.612
+308.000	9.000	26115.709	26115.709
+309.000	8.000	28501.740	28501.740
+310.000	7.000	27655.201	27655.201
+311.000	7.000	27655.172	27655.172
+312.000	4.000	43904.069	43904.069
+313.000	2.000	76383.000	76383.000
+314.000	1.000	0.000	0.000
+315.000	1.000	0.000	0.000
+	
+Sweep Number:	11
+searchRadius	10
+gridHeight	60
+gridWidth	500
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	60.000	60.000
+1.000	10.000	60.900	60.700
+2.000	10.000	63.400	63.800
+3.000	10.000	70.500	70.300
+4.000	10.000	85.900	85.900
+5.000	10.000	111.900	111.900
+6.000	10.000	157.200	156.800
+7.000	10.000	225.300	224.900
+8.000	10.000	314.700	314.500
+9.000	10.000	431.100	430.700
+10.000	10.000	580.200	579.800
+11.000	10.000	756.400	756.000
+12.000	10.000	957.300	956.900
+13.000	10.000	1181.700	1181.300
+14.000	10.000	1414.700	1414.500
+15.000	10.000	1659.200	1659.000
+16.000	10.000	1908.800	1908.600
+17.000	10.000	2158.700	2158.500
+18.000	10.000	2412.300	2412.100
+19.000	10.000	2666.500	2666.300
+20.000	10.000	2928.500	2928.300
+21.000	10.000	3187.000	3186.800
+22.000	10.000	3445.300	3445.100
+23.000	10.000	3704.900	3704.700
+24.000	10.000	3952.000	3951.800
+25.000	10.000	4212.000	4211.800
+26.000	10.000	4465.000	4464.800
+27.000	10.000	4708.600	4708.400
+28.000	10.000	4953.300	4953.100
+29.000	10.000	5193.800	5193.600
+30.000	10.000	5422.500	5422.300
+31.000	10.000	5640.700	5640.500
+32.000	10.000	5845.300	5845.100
+33.000	10.000	6039.500	6039.300
+34.000	10.000	6213.300	6213.100
+35.000	10.000	6361.000	6360.800
+36.000	10.000	6491.600	6491.400
+37.000	10.000	6598.300	6598.100
+38.000	10.000	6680.400	6680.200
+39.000	10.000	6743.200	6743.000
+40.000	10.000	6790.500	6790.300
+41.000	10.000	6823.500	6823.300
+42.000	10.000	6847.400	6847.200
+43.000	10.000	6862.700	6862.500
+44.000	10.000	6872.200	6872.000
+45.000	10.000	6878.300	6878.100
+46.000	10.000	6882.200	6882.000
+47.000	10.000	6884.400	6884.200
+48.000	10.000	6885.700	6885.500
+49.000	10.000	6886.400	6886.200
+50.000	10.000	6886.700	6886.500
+51.000	9.000	6541.556	6541.333
+52.000	8.000	4980.750	4980.750
+53.000	6.000	3675.000	3674.333
+54.000	3.000	1127.333	1122.667
+55.000	2.000	1630.500	1623.500
+56.000	2.000	1630.500	1623.500
+57.000	1.000	12.000	0.000
+58.000	1.000	12.000	0.000
+59.000	1.000	12.000	0.000
+60.000	1.000	12.000	0.000
+61.000	1.000	12.000	0.000
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	20.298	20.298
+1.000	10.000	20.801	20.668
+2.000	10.000	21.535	21.559
+3.000	10.000	23.451	23.661
+4.000	10.000	28.402	28.527
+5.000	10.000	36.692	36.861
+6.000	10.000	51.532	51.675
+7.000	10.000	74.780	75.071
+8.000	10.000	105.236	105.623
+9.000	10.000	143.304	143.768
+10.000	10.000	193.509	193.961
+11.000	10.000	254.504	254.953
+12.000	10.000	323.010	323.455
+13.000	10.000	398.548	398.994
+14.000	10.000	477.681	478.126
+15.000	10.000	560.633	561.075
+16.000	10.000	645.851	646.292
+17.000	10.000	731.573	732.011
+18.000	10.000	816.028	816.469
+19.000	10.000	903.159	903.600
+20.000	10.000	992.334	992.777
+21.000	10.000	1080.632	1081.077
+22.000	10.000	1169.538	1169.981
+23.000	10.000	1258.756	1259.198
+24.000	10.000	1341.599	1342.042
+25.000	10.000	1430.565	1431.009
+26.000	10.000	1517.308	1517.752
+27.000	10.000	1601.316	1601.758
+28.000	10.000	1685.186	1685.629
+29.000	10.000	1768.104	1768.545
+30.000	10.000	1845.965	1846.406
+31.000	10.000	1920.590	1921.031
+32.000	10.000	1991.676	1992.116
+33.000	10.000	2057.017	2057.457
+34.000	10.000	2115.387	2115.826
+35.000	10.000	2165.934	2166.373
+36.000	10.000	2210.989	2211.429
+37.000	10.000	2246.337	2246.777
+38.000	10.000	2273.872	2274.313
+39.000	10.000	2295.226	2295.666
+40.000	10.000	2311.753	2312.193
+41.000	10.000	2323.517	2323.957
+42.000	10.000	2331.757	2332.198
+43.000	10.000	2337.526	2337.967
+44.000	10.000	2340.885	2341.326
+45.000	10.000	2343.075	2343.516
+46.000	10.000	2344.365	2344.806
+47.000	10.000	2345.262	2345.703
+48.000	10.000	2345.668	2346.110
+49.000	10.000	2345.926	2346.368
+50.000	10.000	2346.036	2346.477
+51.000	9.000	2594.375	2594.870
+52.000	8.000	2349.833	2350.726
+53.000	6.000	1945.268	1946.923
+54.000	3.000	1061.300	1062.741
+55.000	2.000	1618.500	1623.500
+56.000	2.000	1618.500	1623.500
+57.000	1.000	0.000	0.000
+58.000	1.000	0.000	0.000
+59.000	1.000	0.000	0.000
+60.000	1.000	0.000	0.000
+61.000	1.000	0.000	0.000
+	
+Sweep Number:	12
+searchRadius	10
+gridHeight	60
+gridWidth	1000
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	88.800	88.800
+1.000	10.000	99.100	98.900
+2.000	10.000	129.200	129.600
+3.000	10.000	205.900	206.500
+4.000	10.000	331.000	331.600
+5.000	10.000	518.300	518.500
+6.000	10.000	760.900	760.700
+7.000	10.000	1051.700	1051.900
+8.000	10.000	1377.200	1377.600
+9.000	10.000	1726.900	1727.900
+10.000	10.000	2095.200	2096.000
+11.000	10.000	2463.100	2463.900
+12.000	10.000	2827.800	2828.800
+13.000	10.000	3190.300	3191.300
+14.000	10.000	3527.100	3528.100
+15.000	10.000	3844.100	3845.100
+16.000	10.000	4113.300	4114.300
+17.000	10.000	4339.100	4340.100
+18.000	10.000	4525.000	4526.000
+19.000	10.000	4665.800	4666.800
+20.000	10.000	4770.200	4771.200
+21.000	10.000	4841.400	4842.400
+22.000	10.000	4888.800	4889.800
+23.000	10.000	4921.900	4922.900
+24.000	10.000	4939.500	4940.500
+25.000	10.000	4949.300	4950.300
+26.000	10.000	4955.400	4956.400
+27.000	10.000	4959.000	4960.000
+28.000	10.000	4960.900	4961.900
+29.000	10.000	4961.900	4962.900
+30.000	9.000	4488.444	4490.222
+31.000	5.000	7271.800	7272.200
+32.000	3.000	8295.333	8304.000
+33.000	2.000	7005.500	7026.500
+34.000	2.000	7006.000	7027.000
+35.000	2.000	7006.500	7027.500
+36.000	1.000	11563.000	11567.000
+37.000	1.000	11563.000	11567.000
+38.000	1.000	11563.000	11567.000
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	29.774	29.774
+1.000	10.000	33.151	32.891
+2.000	10.000	42.999	42.573
+3.000	10.000	68.059	67.350
+4.000	10.000	109.899	108.999
+5.000	10.000	171.936	170.877
+6.000	10.000	252.763	251.500
+7.000	10.000	350.027	348.601
+8.000	10.000	457.878	456.246
+9.000	10.000	572.570	570.956
+10.000	10.000	695.065	693.371
+11.000	10.000	816.194	814.467
+12.000	10.000	937.352	935.617
+13.000	10.000	1057.741	1056.002
+14.000	10.000	1170.112	1168.364
+15.000	10.000	1275.392	1273.639
+16.000	10.000	1365.166	1363.407
+17.000	10.000	1440.760	1439.000
+18.000	10.000	1502.062	1500.299
+19.000	10.000	1547.754	1545.994
+20.000	10.000	1581.854	1580.095
+21.000	10.000	1604.975	1603.221
+22.000	10.000	1620.727	1618.977
+23.000	10.000	1632.033	1630.285
+24.000	10.000	1638.305	1636.559
+25.000	10.000	1641.488	1639.744
+26.000	10.000	1643.599	1641.856
+27.000	10.000	1644.748	1643.007
+28.000	10.000	1645.549	1643.808
+29.000	10.000	1645.982	1644.241
+30.000	9.000	1762.544	1760.772
+31.000	5.000	2496.126	2491.484
+32.000	3.000	2928.811	2914.574
+33.000	2.000	4554.500	4537.500
+34.000	2.000	4555.000	4538.000
+35.000	2.000	4555.500	4538.500
+36.000	1.000	0.000	0.000
+37.000	1.000	0.000	0.000
+38.000	1.000	0.000	0.000
+	
+Sweep Number:	13
+searchRadius	10
+gridHeight	500
+gridWidth	60
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	104.900	104.900
+1.000	10.000	106.500	106.700
+2.000	10.000	112.200	112.600
+3.000	10.000	125.000	125.000
+4.000	10.000	148.900	148.300
+5.000	10.000	194.500	193.100
+6.000	10.000	265.700	263.700
+7.000	10.000	368.100	365.300
+8.000	10.000	518.900	515.300
+9.000	10.000	729.500	725.700
+10.000	10.000	979.400	975.200
+11.000	10.000	1277.500	1273.300
+12.000	10.000	1611.600	1607.400
+13.000	10.000	1981.700	1977.300
+14.000	10.000	2385.500	2381.100
+15.000	10.000	2802.600	2798.200
+16.000	10.000	3219.700	3215.300
+17.000	10.000	3644.500	3639.900
+18.000	10.000	4071.600	4067.000
+19.000	10.000	4498.500	4493.900
+20.000	10.000	4926.100	4921.500
+21.000	10.000	5361.600	5357.000
+22.000	10.000	5780.200	5775.600
+23.000	10.000	6209.100	6204.500
+24.000	10.000	6632.800	6628.200
+25.000	10.000	7048.700	7044.100
+26.000	10.000	7472.700	7468.100
+27.000	10.000	7893.900	7889.300
+28.000	10.000	8298.800	8294.200
+29.000	10.000	8706.900	8702.300
+30.000	10.000	9083.600	9079.000
+31.000	10.000	9443.600	9439.000
+32.000	10.000	9786.400	9781.800
+33.000	10.000	10103.600	10099.000
+34.000	10.000	10396.800	10392.200
+35.000	10.000	10651.000	10646.400
+36.000	10.000	10867.800	10863.200
+37.000	10.000	11048.500	11043.900
+38.000	10.000	11197.600	11193.000
+39.000	10.000	11315.600	11311.000
+40.000	10.000	11409.200	11404.600
+41.000	10.000	11475.600	11471.000
+42.000	10.000	11524.700	11520.100
+43.000	10.000	11558.700	11554.100
+44.000	10.000	11584.000	11579.400
+45.000	10.000	11602.400	11597.800
+46.000	10.000	11612.400	11607.800
+47.000	10.000	11618.300	11613.700
+48.000	10.000	11621.000	11616.400
+49.000	10.000	11623.400	11618.800
+50.000	10.000	11625.400	11620.800
+51.000	9.000	12908.778	12903.667
+52.000	9.000	12909.000	12903.889
+53.000	6.000	10983.333	10978.667
+54.000	4.000	10251.750	10245.250
+55.000	3.000	13669.333	13660.667
+56.000	2.000	11794.000	11780.000
+57.000	1.000	23516.000	23490.000
+58.000	1.000	23517.000	23491.000
+59.000	1.000	23517.000	23491.000
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	29.982	29.982
+1.000	10.000	30.560	30.613
+2.000	10.000	32.122	32.247
+3.000	10.000	36.084	36.031
+4.000	10.000	43.584	43.186
+5.000	10.000	56.763	56.109
+6.000	10.000	77.521	76.640
+7.000	10.000	107.470	106.301
+8.000	10.000	151.349	150.035
+9.000	10.000	212.279	210.912
+10.000	10.000	284.533	282.998
+11.000	10.000	370.755	369.250
+12.000	10.000	467.555	466.063
+13.000	10.000	574.310	572.830
+14.000	10.000	689.621	688.149
+15.000	10.000	809.012	807.558
+16.000	10.000	928.918	927.461
+17.000	10.000	1051.772	1050.243
+18.000	10.000	1174.773	1173.238
+19.000	10.000	1295.883	1294.354
+20.000	10.000	1418.080	1416.549
+21.000	10.000	1543.887	1542.357
+22.000	10.000	1665.302	1663.770
+23.000	10.000	1787.816	1786.284
+24.000	10.000	1910.101	1908.568
+25.000	10.000	2031.338	2029.800
+26.000	10.000	2152.754	2151.215
+27.000	10.000	2273.150	2271.610
+28.000	10.000	2388.730	2387.190
+29.000	10.000	2506.062	2504.519
+30.000	10.000	2614.029	2612.487
+31.000	10.000	2716.542	2715.004
+32.000	10.000	2813.995	2812.459
+33.000	10.000	2904.585	2903.052
+34.000	10.000	2988.784	2987.250
+35.000	10.000	3061.566	3060.034
+36.000	10.000	3122.066	3120.537
+37.000	10.000	3173.885	3172.353
+38.000	10.000	3217.279	3215.745
+39.000	10.000	3251.910	3250.372
+40.000	10.000	3280.096	3278.554
+41.000	10.000	3300.207	3298.662
+42.000	10.000	3315.439	3313.891
+43.000	10.000	3325.747	3324.196
+44.000	10.000	3333.342	3331.789
+45.000	10.000	3339.009	3337.452
+46.000	10.000	3342.269	3340.711
+47.000	10.000	3344.190	3342.631
+48.000	10.000	3345.039	3343.479
+49.000	10.000	3345.864	3344.304
+50.000	10.000	3346.520	3344.959
+51.000	9.000	3455.877	3454.225
+52.000	9.000	3455.938	3454.286
+53.000	6.000	4984.108	4981.979
+54.000	4.000	6027.791	6023.505
+55.000	3.000	7022.578	7017.330
+56.000	2.000	11722.000	11710.000
+57.000	1.000	0.000	0.000
+58.000	1.000	0.000	0.000
+59.000	1.000	0.000	0.000
+	
+Sweep Number:	14
+searchRadius	10
+gridHeight	500
+gridWidth	500
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	34.900	34.100
+1.000	10.000	101.700	96.900
+2.000	10.000	194.100	186.100
+3.000	10.000	284.500	274.100
+4.000	10.000	351.200	340.400
+5.000	10.000	390.000	379.400
+6.000	10.000	407.900	397.700
+7.000	10.000	415.600	405.400
+8.000	10.000	418.400	408.200
+9.000	10.000	419.400	409.200
+10.000	10.000	419.500	409.300
+11.000	10.000	419.500	409.300
+12.000	4.000	291.000	271.000
+13.000	2.000	572.000	532.000
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	18.999	18.966
+1.000	10.000	56.106	56.873
+2.000	10.000	104.686	106.888
+3.000	10.000	155.416	158.517
+4.000	10.000	193.061	196.707
+5.000	10.000	216.055	219.913
+6.000	10.000	226.322	230.377
+7.000	10.000	230.278	234.335
+8.000	10.000	232.089	236.147
+9.000	10.000	232.473	236.531
+10.000	10.000	232.566	236.625
+11.000	10.000	232.566	236.625
+12.000	4.000	210.385	193.696
+13.000	2.000	328.000	298.000
+	
+Sweep Number:	15
+searchRadius	10
+gridHeight	500
+gridWidth	1000
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	116.200	115.400
+1.000	10.000	284.800	287.800
+2.000	10.000	402.600	407.000
+3.000	10.000	463.900	468.300
+4.000	10.000	486.900	491.300
+5.000	10.000	493.600	497.800
+6.000	10.000	495.300	499.500
+7.000	10.000	495.400	499.600
+8.000	8.000	470.500	472.000
+9.000	4.000	312.000	290.000
+10.000	1.000	446.000	396.000
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	32.754	33.548
+1.000	10.000	80.128	81.630
+2.000	10.000	113.156	114.971
+3.000	10.000	130.526	132.236
+4.000	10.000	137.117	138.970
+5.000	10.000	139.964	141.694
+6.000	10.000	140.611	142.350
+7.000	10.000	140.691	142.430
+8.000	8.000	177.125	178.924
+9.000	4.000	188.408	179.008
+10.000	1.000	0.000	0.000
+	
+Sweep Number:	16
+searchRadius	10
+gridHeight	1000
+gridWidth	60
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	101.500	101.500
+1.000	10.000	117.700	117.900
+2.000	10.000	156.700	159.100
+3.000	10.000	240.400	246.600
+4.000	10.000	381.400	386.400
+5.000	10.000	591.100	595.100
+6.000	10.000	862.000	867.200
+7.000	10.000	1184.900	1191.100
+8.000	10.000	1550.100	1555.700
+9.000	10.000	1932.000	1937.400
+10.000	10.000	2333.000	2338.800
+11.000	10.000	2737.800	2743.800
+12.000	10.000	3151.300	3157.700
+13.000	10.000	3545.800	3552.400
+14.000	10.000	3912.400	3919.200
+15.000	10.000	4269.900	4276.700
+16.000	10.000	4575.700	4582.500
+17.000	10.000	4836.000	4842.800
+18.000	10.000	5053.200	5060.000
+19.000	10.000	5213.800	5220.600
+20.000	10.000	5336.200	5343.000
+21.000	10.000	5424.000	5430.800
+22.000	10.000	5481.700	5488.500
+23.000	10.000	5518.300	5525.100
+24.000	10.000	5539.400	5546.200
+25.000	10.000	5554.400	5561.200
+26.000	10.000	5560.400	5567.200
+27.000	10.000	5564.500	5571.300
+28.000	10.000	5566.100	5572.900
+29.000	10.000	5567.200	5574.000
+30.000	8.000	5512.125	5519.375
+31.000	8.000	5512.375	5519.625
+32.000	5.000	7356.400	7360.800
+33.000	3.000	6963.667	6962.333
+34.000	2.000	4468.500	4478.500
+35.000	2.000	4468.500	4478.500
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	27.219	27.219
+1.000	10.000	31.386	31.630
+2.000	10.000	41.575	42.304
+3.000	10.000	65.114	66.452
+4.000	10.000	102.312	103.246
+5.000	10.000	157.819	158.555
+6.000	10.000	229.247	230.415
+7.000	10.000	315.603	317.286
+8.000	10.000	413.862	415.420
+9.000	10.000	516.000	517.484
+10.000	10.000	623.706	625.308
+11.000	10.000	731.518	733.171
+12.000	10.000	841.979	843.755
+13.000	10.000	949.078	950.941
+14.000	10.000	1048.282	1050.175
+15.000	10.000	1143.639	1145.541
+16.000	10.000	1225.401	1227.317
+17.000	10.000	1294.901	1296.827
+18.000	10.000	1352.318	1354.244
+19.000	10.000	1395.885	1397.797
+20.000	10.000	1430.479	1432.372
+21.000	10.000	1454.981	1456.860
+22.000	10.000	1471.483	1473.347
+23.000	10.000	1481.716	1483.568
+24.000	10.000	1487.496	1489.339
+25.000	10.000	1491.189	1493.025
+26.000	10.000	1492.717	1494.549
+27.000	10.000	1493.744	1495.574
+28.000	10.000	1494.035	1495.866
+29.000	10.000	1494.072	1495.903
+30.000	8.000	1547.072	1547.657
+31.000	8.000	1547.122	1547.706
+32.000	5.000	1642.899	1641.726
+33.000	3.000	2576.367	2567.134
+34.000	2.000	1111.500	1123.500
+35.000	2.000	1111.500	1123.500
+	
+Sweep Number:	17
+searchRadius	10
+gridHeight	1000
+gridWidth	500
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	71.200	71.600
+1.000	10.000	176.100	176.100
+2.000	10.000	248.100	247.700
+3.000	10.000	283.600	282.400
+4.000	10.000	296.700	295.500
+5.000	10.000	299.400	298.200
+6.000	10.000	300.200	299.000
+7.000	10.000	300.500	299.300
+8.000	9.000	332.333	330.778
+9.000	3.000	217.667	220.333
+10.000	1.000	358.000	400.000
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	35.200	35.358
+1.000	10.000	85.743	87.141
+2.000	10.000	119.587	121.918
+3.000	10.000	137.243	139.641
+4.000	10.000	143.680	146.084
+5.000	10.000	144.814	147.228
+6.000	10.000	145.138	147.556
+7.000	10.000	145.202	147.622
+8.000	9.000	158.446	161.305
+9.000	3.000	108.570	116.508
+10.000	1.000	0.000	0.000
+	
+Sweep Number:	18
+searchRadius	10
+gridHeight	1000
+gridWidth	1000
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	119.300	118.900
+1.000	10.000	226.100	228.300
+2.000	10.000	260.800	264.000
+3.000	10.000	268.500	271.900
+4.000	10.000	270.200	273.600
+5.000	10.000	270.200	273.600
+6.000	5.000	213.600	213.200
+7.000	1.000	412.000	408.000
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	32.352	32.326
+1.000	10.000	62.673	62.846
+2.000	10.000	72.013	72.444
+3.000	10.000	74.292	74.708
+4.000	10.000	74.727	75.142
+5.000	10.000	74.727	75.142
+6.000	5.000	130.398	132.806
+7.000	1.000	0.000	0.000
+	
+Sweep Number:	19
+searchRadius	15
+gridHeight	60
+gridWidth	60
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	0.000	0.000
+1.000	10.000	0.000	0.000
+2.000	10.000	0.000	0.000
+3.000	10.000	0.000	0.000
+4.000	10.000	0.000	0.000
+5.000	10.000	0.000	0.000
+6.000	10.000	0.000	0.000
+7.000	10.000	0.000	0.000
+8.000	10.000	0.000	0.000
+9.000	10.000	0.000	0.000
+10.000	10.000	0.000	0.000
+11.000	10.000	0.000	0.000
+12.000	10.000	0.000	0.000
+13.000	10.000	0.000	0.000
+14.000	10.000	0.000	0.000
+15.000	10.000	0.000	0.000
+16.000	10.000	0.000	0.000
+17.000	10.000	0.000	0.000
+18.000	10.000	0.000	0.000
+19.000	10.000	0.000	0.000
+20.000	10.000	0.000	0.000
+21.000	10.000	0.000	0.000
+22.000	10.000	0.000	0.000
+23.000	10.000	0.000	0.000
+24.000	10.000	0.000	0.000
+25.000	10.000	0.000	0.000
+26.000	10.000	0.000	0.000
+27.000	10.000	0.000	0.000
+28.000	10.000	0.000	0.000
+29.000	10.000	0.000	0.000
+30.000	10.000	0.000	0.000
+31.000	10.000	0.000	0.000
+32.000	10.000	0.000	0.000
+33.000	10.000	0.000	0.000
+34.000	10.000	0.000	0.000
+35.000	10.000	0.000	0.000
+36.000	10.000	0.000	0.000
+37.000	10.000	0.000	0.000
+38.000	10.000	0.000	0.000
+39.000	10.000	0.000	0.000
+40.000	10.000	0.000	0.000
+41.000	10.000	0.000	0.000
+42.000	10.000	0.000	0.000
+43.000	10.000	0.000	0.000
+44.000	10.000	0.000	0.000
+45.000	10.000	0.000	0.000
+46.000	10.000	0.000	0.000
+47.000	10.000	0.000	0.000
+48.000	10.000	0.000	0.000
+49.000	10.000	0.000	0.000
+50.000	10.000	0.000	0.000
+51.000	10.000	0.000	0.000
+52.000	10.000	0.000	0.000
+53.000	10.000	0.000	0.000
+54.000	10.000	0.000	0.000
+55.000	10.000	0.000	0.000
+56.000	10.000	0.000	0.000
+57.000	10.000	0.000	0.000
+58.000	10.000	0.000	0.000
+59.000	10.000	0.000	0.000
+60.000	10.000	0.000	0.000
+61.000	10.000	0.000	0.000
+62.000	10.000	0.000	0.000
+63.000	10.000	0.000	0.000
+64.000	10.000	0.000	0.000
+65.000	10.000	0.000	0.000
+66.000	10.000	0.000	0.000
+67.000	10.000	0.000	0.000
+68.000	10.000	0.000	0.000
+69.000	10.000	0.000	0.000
+70.000	10.000	0.000	0.000
+71.000	10.000	0.000	0.000
+72.000	10.000	0.000	0.000
+73.000	10.000	0.000	0.000
+74.000	10.000	0.000	0.000
+75.000	10.000	0.000	0.000
+76.000	10.000	0.000	0.000
+77.000	10.000	0.000	0.000
+78.000	10.000	0.000	0.000
+79.000	10.000	0.000	0.000
+80.000	10.000	0.000	0.000
+81.000	10.000	0.000	0.000
+82.000	10.000	0.000	0.000
+83.000	10.000	0.000	0.000
+84.000	10.000	0.000	0.000
+85.000	10.000	0.000	0.000
+86.000	10.000	0.000	0.000
+87.000	10.000	0.000	0.000
+88.000	10.000	0.000	0.000
+89.000	10.000	0.000	0.000
+90.000	10.000	0.000	0.000
+91.000	10.000	0.000	0.000
+92.000	10.000	0.000	0.000
+93.000	10.000	0.000	0.000
+94.000	10.000	0.000	0.000
+95.000	10.000	0.000	0.000
+96.000	10.000	0.000	0.000
+97.000	10.000	0.000	0.000
+98.000	10.000	0.000	0.000
+99.000	10.000	0.000	0.000
+100.000	10.000	0.000	0.000
+101.000	10.000	0.000	0.000
+102.000	10.000	0.000	0.000
+103.000	10.000	0.000	0.000
+104.000	10.000	0.000	0.000
+105.000	10.000	0.000	0.000
+106.000	10.000	0.000	0.000
+107.000	10.000	0.000	0.000
+108.000	10.000	0.000	0.000
+109.000	10.000	0.000	0.000
+110.000	10.000	0.000	0.000
+111.000	10.000	0.000	0.000
+112.000	10.000	0.000	0.000
+113.000	10.000	0.000	0.000
+114.000	10.000	0.000	0.000
+115.000	10.000	0.000	0.000
+116.000	10.000	0.000	0.000
+117.000	10.000	0.000	0.000
+118.000	10.000	0.000	0.000
+119.000	10.000	0.000	0.000
+120.000	10.000	0.000	0.000
+121.000	10.000	0.000	0.000
+122.000	10.000	0.000	0.000
+123.000	10.000	0.000	0.000
+124.000	10.000	0.000	0.000
+125.000	10.000	0.000	0.000
+126.000	10.000	0.000	0.000
+127.000	10.000	0.000	0.000
+128.000	10.000	0.000	0.000
+129.000	10.000	0.000	0.000
+130.000	10.000	0.000	0.000
+131.000	10.000	0.000	0.000
+132.000	10.000	0.000	0.000
+133.000	10.000	0.000	0.000
+134.000	10.000	0.000	0.000
+135.000	10.000	0.000	0.000
+136.000	10.000	0.100	0.100
+137.000	10.000	0.300	0.300
+138.000	10.000	1.000	1.000
+139.000	10.000	1.700	1.700
+140.000	10.000	2.400	2.400
+141.000	10.000	3.900	3.900
+142.000	10.000	6.300	6.300
+143.000	10.000	9.000	9.000
+144.000	10.000	12.900	12.900
+145.000	10.000	17.200	17.200
+146.000	10.000	22.400	22.400
+147.000	10.000	27.600	27.600
+148.000	10.000	33.000	33.000
+149.000	10.000	41.200	41.200
+150.000	10.000	51.300	51.300
+151.000	10.000	62.300	62.300
+152.000	10.000	76.500	76.500
+153.000	10.000	94.200	94.200
+154.000	10.000	117.900	117.900
+155.000	10.000	148.400	148.400
+156.000	10.000	194.900	194.900
+157.000	10.000	261.400	261.400
+158.000	10.000	365.600	365.600
+159.000	10.000	513.600	513.600
+160.000	10.000	732.300	732.300
+161.000	10.000	1016.300	1016.300
+162.000	10.000	1355.100	1355.100
+163.000	10.000	1728.300	1728.300
+164.000	10.000	2121.000	2121.000
+165.000	10.000	2530.200	2530.200
+166.000	10.000	2951.700	2951.700
+167.000	10.000	3367.800	3367.800
+168.000	10.000	3793.500	3793.500
+169.000	10.000	4232.500	4232.500
+170.000	10.000	4656.200	4656.200
+171.000	10.000	5091.200	5091.200
+172.000	10.000	5510.100	5510.100
+173.000	10.000	5936.600	5936.600
+174.000	10.000	6362.800	6362.800
+175.000	10.000	6781.300	6781.300
+176.000	10.000	7204.400	7204.400
+177.000	10.000	7635.400	7635.400
+178.000	10.000	8057.800	8057.800
+179.000	10.000	8489.200	8489.200
+180.000	10.000	8913.100	8913.100
+181.000	10.000	9338.100	9338.100
+182.000	10.000	9775.500	9775.500
+183.000	10.000	10200.100	10200.100
+184.000	10.000	10629.100	10629.100
+185.000	10.000	11049.400	11049.400
+186.000	10.000	11472.400	11472.400
+187.000	10.000	11892.900	11892.900
+188.000	10.000	12312.200	12312.200
+189.000	10.000	12733.100	12733.100
+190.000	10.000	13155.500	13155.500
+191.000	10.000	13587.500	13587.500
+192.000	10.000	14015.200	14015.200
+193.000	10.000	14438.500	14438.500
+194.000	10.000	14875.900	14875.900
+195.000	10.000	15312.900	15312.900
+196.000	10.000	15743.400	15743.400
+197.000	10.000	16170.900	16170.900
+198.000	10.000	16599.100	16599.100
+199.000	10.000	17019.600	17019.600
+200.000	10.000	17437.300	17437.300
+201.000	10.000	17860.000	17860.000
+202.000	10.000	18283.100	18283.100
+203.000	10.000	18703.900	18703.900
+204.000	10.000	19121.400	19121.400
+205.000	10.000	19550.100	19550.100
+206.000	10.000	19976.300	19976.300
+207.000	10.000	20399.100	20399.100
+208.000	10.000	20830.500	20830.500
+209.000	10.000	21256.300	21256.300
+210.000	10.000	21681.500	21681.500
+211.000	10.000	22111.200	22111.200
+212.000	10.000	22539.600	22539.600
+213.000	10.000	22952.900	22952.900
+214.000	10.000	23369.300	23369.300
+215.000	10.000	23787.900	23787.900
+216.000	10.000	24210.600	24210.600
+217.000	10.000	24632.600	24632.600
+218.000	10.000	25056.100	25056.100
+219.000	10.000	25475.000	25475.000
+220.000	10.000	25901.100	25901.100
+221.000	10.000	26323.400	26323.400
+222.000	10.000	26757.900	26757.900
+223.000	10.000	27185.000	27185.000
+224.000	10.000	27624.100	27624.100
+225.000	10.000	28061.100	28061.100
+226.000	10.000	28491.400	28491.400
+227.000	10.000	28920.800	28920.800
+228.000	10.000	29355.100	29355.100
+229.000	10.000	29785.400	29785.400
+230.000	10.000	30209.300	30209.300
+231.000	10.000	30638.900	30638.900
+232.000	10.000	31065.800	31065.800
+233.000	10.000	31489.800	31489.800
+234.000	10.000	31911.700	31911.700
+235.000	10.000	32350.800	32350.800
+236.000	10.000	32777.700	32777.700
+237.000	10.000	33202.800	33202.800
+238.000	10.000	33623.400	33623.400
+239.000	10.000	34043.300	34043.300
+240.000	10.000	34455.300	34455.300
+241.000	10.000	34889.100	34889.100
+242.000	10.000	35310.200	35310.200
+243.000	10.000	35738.800	35738.800
+244.000	10.000	36169.600	36169.600
+245.000	10.000	36598.100	36598.100
+246.000	10.000	37031.200	37031.200
+247.000	10.000	37452.000	37452.000
+248.000	10.000	37868.300	37868.300
+249.000	10.000	38298.400	38298.400
+250.000	10.000	38725.100	38725.100
+251.000	10.000	39149.700	39149.700
+252.000	10.000	39565.300	39565.300
+253.000	10.000	39987.000	39987.000
+254.000	10.000	40410.100	40410.100
+255.000	10.000	40832.700	40832.700
+256.000	10.000	41253.100	41253.100
+257.000	10.000	41690.900	41690.900
+258.000	10.000	42122.700	42122.700
+259.000	10.000	42557.900	42557.900
+260.000	10.000	42990.900	42990.900
+261.000	10.000	43421.900	43421.900
+262.000	10.000	43846.100	43846.100
+263.000	10.000	44268.200	44268.200
+264.000	10.000	44695.500	44695.500
+265.000	10.000	45117.000	45117.000
+266.000	10.000	45551.400	45551.400
+267.000	10.000	45973.900	45973.900
+268.000	10.000	46393.500	46393.500
+269.000	10.000	46807.800	46807.800
+270.000	10.000	47234.500	47234.500
+271.000	10.000	47663.400	47663.400
+272.000	10.000	48080.500	48080.500
+273.000	10.000	48501.400	48501.400
+274.000	10.000	48933.800	48933.800
+275.000	10.000	49354.000	49354.000
+276.000	10.000	49772.000	49772.000
+277.000	10.000	50190.900	50190.900
+278.000	10.000	50616.200	50616.200
+279.000	10.000	51045.600	51045.600
+280.000	10.000	51474.400	51474.400
+281.000	10.000	51884.900	51884.900
+282.000	10.000	52310.000	52310.000
+283.000	10.000	52731.900	52731.900
+284.000	10.000	53153.400	53153.400
+285.000	10.000	53576.400	53576.400
+286.000	10.000	54010.000	54010.000
+287.000	10.000	54436.600	54436.600
+288.000	10.000	54869.400	54869.400
+289.000	10.000	55302.300	55302.300
+290.000	10.000	55730.800	55730.800
+291.000	10.000	56164.100	56164.100
+292.000	10.000	56596.600	56596.600
+293.000	10.000	57029.700	57029.700
+294.000	10.000	57466.300	57466.300
+295.000	10.000	57887.800	57887.800
+296.000	10.000	58315.800	58315.800
+297.000	10.000	58738.000	58738.000
+298.000	10.000	59166.800	59166.800
+299.000	10.000	59594.000	59594.000
+300.000	10.000	60020.900	60020.900
+301.000	10.000	60450.500	60450.500
+302.000	10.000	60880.700	60880.700
+303.000	10.000	61314.400	61314.400
+304.000	10.000	61732.100	61732.100
+305.000	10.000	62155.400	62155.400
+306.000	10.000	62578.800	62578.800
+307.000	10.000	62992.900	62992.900
+308.000	10.000	63415.600	63415.600
+309.000	10.000	63833.700	63833.700
+310.000	10.000	64254.000	64254.000
+311.000	10.000	64677.300	64677.300
+312.000	10.000	65098.200	65098.200
+313.000	10.000	65514.900	65514.900
+314.000	10.000	65934.800	65934.800
+315.000	10.000	66358.900	66358.900
+316.000	10.000	66770.100	66770.100
+317.000	10.000	67202.700	67202.700
+318.000	10.000	67633.700	67633.700
+319.000	10.000	68076.400	68076.400
+320.000	10.000	68498.600	68498.600
+321.000	10.000	68919.300	68919.300
+322.000	10.000	69355.300	69355.300
+323.000	10.000	69778.500	69778.500
+324.000	10.000	70200.300	70200.300
+325.000	10.000	70636.400	70636.400
+326.000	10.000	71070.100	71070.100
+327.000	10.000	71496.000	71496.000
+328.000	10.000	71926.400	71926.400
+329.000	10.000	72345.400	72345.400
+330.000	10.000	72768.000	72768.000
+331.000	10.000	73196.200	73196.200
+332.000	10.000	73622.400	73622.400
+333.000	10.000	74037.700	74037.700
+334.000	10.000	74459.900	74459.900
+335.000	10.000	74890.500	74890.500
+336.000	10.000	75317.900	75317.900
+337.000	10.000	75744.400	75744.400
+338.000	10.000	76175.800	76175.800
+339.000	10.000	76599.300	76599.300
+340.000	10.000	77021.400	77021.400
+341.000	10.000	77443.900	77443.900
+342.000	10.000	77869.300	77869.300
+343.000	10.000	78300.000	78300.000
+344.000	10.000	78727.800	78727.800
+345.000	10.000	79149.800	79149.800
+346.000	10.000	79576.000	79576.000
+347.000	10.000	80001.600	80001.600
+348.000	10.000	80421.600	80421.600
+349.000	10.000	80851.400	80851.400
+350.000	10.000	81287.500	81287.500
+351.000	10.000	81707.900	81707.900
+352.000	10.000	82137.800	82137.800
+353.000	10.000	82567.200	82567.200
+354.000	10.000	82991.900	82991.900
+355.000	10.000	83427.500	83427.500
+356.000	10.000	83854.000	83854.000
+357.000	10.000	84275.100	84275.100
+358.000	10.000	84706.400	84706.400
+359.000	10.000	85134.600	85134.600
+360.000	10.000	85568.500	85568.500
+361.000	10.000	86008.000	86008.000
+362.000	10.000	86430.700	86430.700
+363.000	10.000	86856.600	86856.600
+364.000	10.000	87281.200	87281.200
+365.000	10.000	87714.000	87714.000
+366.000	10.000	88144.700	88144.700
+367.000	10.000	88571.400	88571.400
+368.000	10.000	88992.800	88992.800
+369.000	10.000	89412.800	89412.800
+370.000	10.000	89839.700	89839.700
+371.000	10.000	90260.500	90260.500
+372.000	10.000	90686.400	90686.400
+373.000	10.000	91106.600	91106.600
+374.000	10.000	91528.100	91528.100
+375.000	10.000	91949.200	91949.200
+376.000	10.000	92371.600	92371.600
+377.000	10.000	92790.300	92790.300
+378.000	10.000	93219.500	93219.500
+379.000	10.000	93652.300	93652.300
+380.000	10.000	94086.200	94086.200
+381.000	10.000	94518.500	94518.500
+382.000	10.000	94941.300	94941.300
+383.000	10.000	95369.500	95369.500
+384.000	10.000	95805.500	95805.500
+385.000	10.000	96236.400	96236.400
+386.000	10.000	96664.300	96664.300
+387.000	10.000	97094.300	97094.300
+388.000	10.000	97524.000	97524.000
+389.000	10.000	97956.100	97956.100
+390.000	10.000	98384.300	98384.300
+391.000	10.000	98812.700	98812.700
+392.000	10.000	99238.900	99238.900
+393.000	10.000	99665.000	99665.000
+394.000	10.000	100085.300	100085.300
+395.000	10.000	100517.900	100517.900
+396.000	10.000	100952.500	100952.500
+397.000	10.000	101379.300	101379.300
+398.000	10.000	101803.200	101803.200
+399.000	10.000	102239.700	102239.700
+400.000	10.000	102662.100	102662.100
+401.000	10.000	103085.100	103085.100
+402.000	10.000	103512.200	103512.200
+403.000	10.000	103938.200	103938.200
+404.000	10.000	104365.500	104365.500
+405.000	10.000	104786.200	104786.200
+406.000	10.000	105200.400	105200.400
+407.000	10.000	105636.800	105636.800
+408.000	10.000	106071.100	106071.100
+409.000	10.000	106479.000	106479.000
+410.000	10.000	106904.400	106904.400
+411.000	10.000	107323.000	107323.000
+412.000	10.000	107752.900	107752.900
+413.000	10.000	108184.100	108184.100
+414.000	10.000	108615.200	108615.200
+415.000	10.000	109040.500	109040.500
+416.000	10.000	109468.300	109468.300
+417.000	10.000	109890.500	109890.500
+418.000	10.000	110321.200	110321.200
+419.000	10.000	110746.400	110746.400
+420.000	10.000	111170.900	111170.900
+421.000	10.000	111589.400	111589.400
+422.000	10.000	112018.000	112018.000
+423.000	10.000	112446.200	112446.200
+424.000	10.000	112870.600	112870.600
+425.000	10.000	113297.100	113297.100
+426.000	10.000	113729.400	113729.400
+427.000	10.000	114153.300	114153.300
+428.000	10.000	114576.100	114576.100
+429.000	10.000	115003.300	115003.300
+430.000	10.000	115416.700	115416.700
+431.000	10.000	115842.000	115842.000
+432.000	10.000	116262.100	116262.100
+433.000	10.000	116684.000	116684.000
+434.000	10.000	117111.500	117111.500
+435.000	10.000	117524.800	117524.800
+436.000	10.000	117952.900	117952.900
+437.000	10.000	118374.300	118374.300
+438.000	10.000	118796.900	118796.900
+439.000	10.000	119217.300	119217.300
+440.000	10.000	119633.800	119633.800
+441.000	10.000	120060.800	120060.800
+442.000	10.000	120482.700	120482.700
+443.000	10.000	120908.000	120908.000
+444.000	10.000	121338.200	121338.200
+445.000	10.000	121768.800	121768.800
+446.000	10.000	122197.000	122197.000
+447.000	10.000	122628.900	122628.900
+448.000	10.000	123049.900	123049.900
+449.000	10.000	123474.900	123474.900
+450.000	10.000	123885.000	123885.000
+451.000	10.000	124317.200	124317.200
+452.000	10.000	124744.800	124744.800
+453.000	10.000	125166.000	125166.000
+454.000	10.000	125594.400	125594.400
+455.000	10.000	126025.000	126025.000
+456.000	10.000	126448.600	126448.600
+457.000	10.000	126884.200	126884.200
+458.000	10.000	127321.200	127321.200
+459.000	10.000	127746.800	127746.800
+460.000	10.000	128173.000	128173.000
+461.000	10.000	128592.000	128592.000
+462.000	10.000	129014.400	129014.400
+463.000	10.000	129444.400	129444.400
+464.000	10.000	129869.200	129869.200
+465.000	10.000	130288.400	130288.400
+466.000	10.000	130704.900	130704.900
+467.000	10.000	131126.300	131126.300
+468.000	10.000	131549.600	131549.600
+469.000	10.000	131969.800	131969.800
+470.000	10.000	132405.000	132405.000
+471.000	10.000	132823.600	132823.600
+472.000	10.000	133255.400	133255.400
+473.000	10.000	133678.800	133678.800
+474.000	10.000	134105.000	134105.000
+475.000	10.000	134535.700	134535.700
+476.000	10.000	134966.700	134966.700
+477.000	10.000	135383.600	135383.600
+478.000	10.000	135805.400	135805.400
+479.000	10.000	136231.800	136231.800
+480.000	10.000	136659.700	136659.700
+481.000	10.000	137091.800	137091.800
+482.000	10.000	137518.600	137518.600
+483.000	10.000	137948.000	137948.000
+484.000	10.000	138379.500	138379.500
+485.000	10.000	138811.300	138811.300
+486.000	10.000	139245.300	139245.300
+487.000	10.000	139668.500	139668.500
+488.000	10.000	140097.800	140097.800
+489.000	10.000	140526.300	140526.300
+490.000	10.000	140958.500	140958.500
+491.000	10.000	141381.300	141381.300
+492.000	10.000	141802.200	141802.200
+493.000	10.000	142225.600	142225.600
+494.000	10.000	142657.400	142657.400
+495.000	10.000	143084.100	143084.100
+496.000	10.000	143511.700	143511.700
+497.000	10.000	143923.300	143923.300
+498.000	10.000	144338.400	144338.400
+499.000	10.000	144762.500	144762.500
+500.000	10.000	145191.400	145191.400
+501.000	10.000	145621.300	145621.300
+502.000	10.000	146039.600	146039.600
+503.000	10.000	146465.200	146465.200
+504.000	10.000	146887.700	146887.700
+505.000	10.000	147315.500	147315.500
+506.000	10.000	147740.400	147740.400
+507.000	10.000	148168.300	148168.300
+508.000	10.000	148602.400	148602.400
+509.000	10.000	149036.500	149036.500
+510.000	10.000	149468.200	149468.200
+511.000	10.000	149898.500	149898.500
+512.000	10.000	150328.700	150328.700
+513.000	10.000	150752.600	150752.600
+514.000	10.000	151186.000	151186.000
+515.000	10.000	151627.100	151627.100
+516.000	10.000	152050.900	152050.900
+517.000	10.000	152465.800	152465.800
+518.000	10.000	152890.400	152890.400
+519.000	10.000	153309.700	153309.700
+520.000	10.000	153729.000	153729.000
+521.000	10.000	154164.200	154164.200
+522.000	10.000	154592.900	154592.900
+523.000	10.000	155021.800	155021.800
+524.000	10.000	155447.600	155447.600
+525.000	10.000	155882.300	155882.300
+526.000	10.000	156301.600	156301.600
+527.000	10.000	156719.800	156719.800
+528.000	10.000	157140.300	157140.300
+529.000	10.000	157558.400	157558.400
+530.000	10.000	157991.600	157991.600
+531.000	10.000	158405.800	158405.800
+532.000	10.000	158828.300	158828.300
+533.000	10.000	159248.100	159248.100
+534.000	10.000	159684.900	159684.900
+535.000	10.000	160123.000	160123.000
+536.000	10.000	160551.400	160551.400
+537.000	10.000	160985.800	160985.800
+538.000	10.000	161424.400	161424.400
+539.000	10.000	161850.800	161850.800
+540.000	10.000	162291.200	162291.200
+541.000	10.000	162718.700	162718.700
+542.000	10.000	163144.800	163144.800
+543.000	10.000	163571.700	163571.700
+544.000	10.000	163999.300	163999.300
+545.000	10.000	164428.400	164428.400
+546.000	10.000	164863.800	164863.800
+547.000	10.000	165286.400	165286.400
+548.000	10.000	165706.100	165706.100
+549.000	10.000	166129.400	166129.400
+550.000	10.000	166558.400	166558.400
+551.000	10.000	166984.300	166984.300
+552.000	10.000	167412.400	167412.400
+553.000	10.000	167841.100	167841.100
+554.000	10.000	168267.400	168267.400
+555.000	10.000	168694.200	168694.200
+556.000	10.000	169127.900	169127.900
+557.000	10.000	169551.100	169551.100
+558.000	10.000	169979.300	169979.300
+559.000	10.000	170393.600	170393.600
+560.000	10.000	170808.100	170808.100
+561.000	10.000	171222.000	171222.000
+562.000	10.000	171641.500	171641.500
+563.000	10.000	172072.300	172072.300
+564.000	10.000	172505.600	172505.600
+565.000	10.000	172928.100	172928.100
+566.000	10.000	173358.400	173358.400
+567.000	10.000	173785.600	173785.600
+568.000	10.000	174216.800	174216.800
+569.000	10.000	174647.000	174647.000
+570.000	10.000	175076.100	175076.100
+571.000	10.000	175505.400	175505.400
+572.000	10.000	175936.100	175936.100
+573.000	10.000	176371.000	176371.000
+574.000	10.000	176801.100	176801.100
+575.000	10.000	177231.400	177231.400
+576.000	10.000	177663.300	177663.300
+577.000	10.000	178094.600	178094.600
+578.000	10.000	178524.800	178524.800
+579.000	10.000	178949.300	178949.300
+580.000	10.000	179369.200	179369.200
+581.000	10.000	179798.600	179798.600
+582.000	10.000	180231.500	180231.500
+583.000	10.000	180666.400	180666.400
+584.000	10.000	181089.600	181089.600
+585.000	10.000	181511.900	181511.900
+586.000	10.000	181942.500	181942.500
+587.000	10.000	182359.500	182359.500
+588.000	10.000	182783.900	182783.900
+589.000	10.000	183200.900	183200.900
+590.000	10.000	183618.600	183618.600
+591.000	10.000	184037.900	184037.900
+592.000	10.000	184452.200	184452.200
+593.000	10.000	184878.900	184878.900
+594.000	10.000	185307.100	185307.100
+595.000	10.000	185728.700	185728.700
+596.000	10.000	186149.300	186149.300
+597.000	10.000	186576.200	186576.200
+598.000	10.000	186999.300	186999.300
+599.000	10.000	187433.800	187433.800
+600.000	10.000	187862.000	187862.000
+601.000	10.000	188275.400	188275.400
+602.000	10.000	188697.200	188697.200
+603.000	10.000	189132.600	189132.600
+604.000	10.000	189560.700	189560.700
+605.000	10.000	189975.000	189975.000
+606.000	10.000	190384.000	190384.000
+607.000	10.000	190802.400	190802.400
+608.000	10.000	191214.100	191214.100
+609.000	10.000	191621.500	191621.500
+610.000	10.000	192039.200	192039.200
+611.000	10.000	192438.000	192438.000
+612.000	10.000	192850.100	192850.100
+613.000	10.000	193249.900	193249.900
+614.000	10.000	193654.700	193654.700
+615.000	10.000	194057.300	194057.300
+616.000	10.000	194457.500	194457.500
+617.000	10.000	194856.700	194856.700
+618.000	10.000	195238.300	195238.300
+619.000	10.000	195630.600	195630.600
+620.000	10.000	196018.400	196018.400
+621.000	10.000	196406.600	196406.600
+622.000	10.000	196797.700	196797.700
+623.000	10.000	197184.200	197184.200
+624.000	10.000	197556.000	197556.000
+625.000	10.000	197936.500	197936.500
+626.000	10.000	198307.500	198307.500
+627.000	10.000	198681.700	198681.700
+628.000	10.000	199055.300	199055.300
+629.000	10.000	199426.700	199426.700
+630.000	10.000	199791.300	199791.300
+631.000	10.000	200149.700	200149.700
+632.000	10.000	200509.100	200509.100
+633.000	10.000	200860.000	200860.000
+634.000	10.000	201194.300	201194.300
+635.000	10.000	201524.300	201524.300
+636.000	10.000	201840.600	201840.600
+637.000	10.000	202140.900	202140.900
+638.000	10.000	202431.100	202431.100
+639.000	10.000	202690.400	202690.400
+640.000	10.000	202943.200	202943.200
+641.000	10.000	203166.500	203166.500
+642.000	10.000	203370.900	203370.900
+643.000	10.000	203558.000	203558.000
+644.000	10.000	203718.400	203718.400
+645.000	10.000	203862.800	203862.800
+646.000	10.000	203986.800	203986.800
+647.000	10.000	204090.100	204090.100
+648.000	10.000	204182.800	204182.800
+649.000	10.000	204256.800	204256.800
+650.000	10.000	204317.900	204317.900
+651.000	10.000	204365.200	204365.200
+652.000	10.000	204403.700	204403.700
+653.000	10.000	204435.700	204435.700
+654.000	10.000	204459.100	204459.100
+655.000	9.000	186816.556	186816.556
+656.000	9.000	186830.111	186830.111
+657.000	9.000	186841.333	186841.333
+658.000	9.000	186848.556	186848.556
+659.000	9.000	186853.000	186853.000
+660.000	9.000	186855.556	186855.556
+661.000	8.000	209887.625	209887.625
+662.000	8.000	209889.250	209889.250
+663.000	5.000	202712.200	202712.200
+664.000	5.000	202713.800	202713.800
+665.000	3.000	134586.000	134586.000
+666.000	3.000	134586.667	134586.667
+667.000	3.000	134586.667	134586.667
+668.000	2.000	200391.000	200391.000
+669.000	2.000	200391.000	200391.000
+670.000	2.000	200391.000	200391.000
+671.000	1.000	224688.000	224688.000
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	0.000	0.000
+1.000	10.000	0.000	0.000
+2.000	10.000	0.000	0.000
+3.000	10.000	0.000	0.000
+4.000	10.000	0.000	0.000
+5.000	10.000	0.000	0.000
+6.000	10.000	0.000	0.000
+7.000	10.000	0.000	0.000
+8.000	10.000	0.000	0.000
+9.000	10.000	0.000	0.000
+10.000	10.000	0.000	0.000
+11.000	10.000	0.000	0.000
+12.000	10.000	0.000	0.000
+13.000	10.000	0.000	0.000
+14.000	10.000	0.000	0.000
+15.000	10.000	0.000	0.000
+16.000	10.000	0.000	0.000
+17.000	10.000	0.000	0.000
+18.000	10.000	0.000	0.000
+19.000	10.000	0.000	0.000
+20.000	10.000	0.000	0.000
+21.000	10.000	0.000	0.000
+22.000	10.000	0.000	0.000
+23.000	10.000	0.000	0.000
+24.000	10.000	0.000	0.000
+25.000	10.000	0.000	0.000
+26.000	10.000	0.000	0.000
+27.000	10.000	0.000	0.000
+28.000	10.000	0.000	0.000
+29.000	10.000	0.000	0.000
+30.000	10.000	0.000	0.000
+31.000	10.000	0.000	0.000
+32.000	10.000	0.000	0.000
+33.000	10.000	0.000	0.000
+34.000	10.000	0.000	0.000
+35.000	10.000	0.000	0.000
+36.000	10.000	0.000	0.000
+37.000	10.000	0.000	0.000
+38.000	10.000	0.000	0.000
+39.000	10.000	0.000	0.000
+40.000	10.000	0.000	0.000
+41.000	10.000	0.000	0.000
+42.000	10.000	0.000	0.000
+43.000	10.000	0.000	0.000
+44.000	10.000	0.000	0.000
+45.000	10.000	0.000	0.000
+46.000	10.000	0.000	0.000
+47.000	10.000	0.000	0.000
+48.000	10.000	0.000	0.000
+49.000	10.000	0.000	0.000
+50.000	10.000	0.000	0.000
+51.000	10.000	0.000	0.000
+52.000	10.000	0.000	0.000
+53.000	10.000	0.000	0.000
+54.000	10.000	0.000	0.000
+55.000	10.000	0.000	0.000
+56.000	10.000	0.000	0.000
+57.000	10.000	0.000	0.000
+58.000	10.000	0.000	0.000
+59.000	10.000	0.000	0.000
+60.000	10.000	0.000	0.000
+61.000	10.000	0.000	0.000
+62.000	10.000	0.000	0.000
+63.000	10.000	0.000	0.000
+64.000	10.000	0.000	0.000
+65.000	10.000	0.000	0.000
+66.000	10.000	0.000	0.000
+67.000	10.000	0.000	0.000
+68.000	10.000	0.000	0.000
+69.000	10.000	0.000	0.000
+70.000	10.000	0.000	0.000
+71.000	10.000	0.000	0.000
+72.000	10.000	0.000	0.000
+73.000	10.000	0.000	0.000
+74.000	10.000	0.000	0.000
+75.000	10.000	0.000	0.000
+76.000	10.000	0.000	0.000
+77.000	10.000	0.000	0.000
+78.000	10.000	0.000	0.000
+79.000	10.000	0.000	0.000
+80.000	10.000	0.000	0.000
+81.000	10.000	0.000	0.000
+82.000	10.000	0.000	0.000
+83.000	10.000	0.000	0.000
+84.000	10.000	0.000	0.000
+85.000	10.000	0.000	0.000
+86.000	10.000	0.000	0.000
+87.000	10.000	0.000	0.000
+88.000	10.000	0.000	0.000
+89.000	10.000	0.000	0.000
+90.000	10.000	0.000	0.000
+91.000	10.000	0.000	0.000
+92.000	10.000	0.000	0.000
+93.000	10.000	0.000	0.000
+94.000	10.000	0.000	0.000
+95.000	10.000	0.000	0.000
+96.000	10.000	0.000	0.000
+97.000	10.000	0.000	0.000
+98.000	10.000	0.000	0.000
+99.000	10.000	0.000	0.000
+100.000	10.000	0.000	0.000
+101.000	10.000	0.000	0.000
+102.000	10.000	0.000	0.000
+103.000	10.000	0.000	0.000
+104.000	10.000	0.000	0.000
+105.000	10.000	0.000	0.000
+106.000	10.000	0.000	0.000
+107.000	10.000	0.000	0.000
+108.000	10.000	0.000	0.000
+109.000	10.000	0.000	0.000
+110.000	10.000	0.000	0.000
+111.000	10.000	0.000	0.000
+112.000	10.000	0.000	0.000
+113.000	10.000	0.000	0.000
+114.000	10.000	0.000	0.000
+115.000	10.000	0.000	0.000
+116.000	10.000	0.000	0.000
+117.000	10.000	0.000	0.000
+118.000	10.000	0.000	0.000
+119.000	10.000	0.000	0.000
+120.000	10.000	0.000	0.000
+121.000	10.000	0.000	0.000
+122.000	10.000	0.000	0.000
+123.000	10.000	0.000	0.000
+124.000	10.000	0.000	0.000
+125.000	10.000	0.000	0.000
+126.000	10.000	0.000	0.000
+127.000	10.000	0.000	0.000
+128.000	10.000	0.000	0.000
+129.000	10.000	0.000	0.000
+130.000	10.000	0.000	0.000
+131.000	10.000	0.000	0.000
+132.000	10.000	0.000	0.000
+133.000	10.000	0.000	0.000
+134.000	10.000	0.000	0.000
+135.000	10.000	0.000	0.000
+136.000	10.000	0.100	0.100
+137.000	10.000	0.153	0.153
+138.000	10.000	0.596	0.596
+139.000	10.000	0.790	0.790
+140.000	10.000	1.127	1.127
+141.000	10.000	1.871	1.871
+142.000	10.000	2.409	2.409
+143.000	10.000	3.370	3.370
+144.000	10.000	4.797	4.797
+145.000	10.000	6.068	6.068
+146.000	10.000	7.683	7.683
+147.000	10.000	9.020	9.020
+148.000	10.000	10.345	10.345
+149.000	10.000	12.312	12.312
+150.000	10.000	14.507	14.507
+151.000	10.000	17.083	17.083
+152.000	10.000	20.367	20.367
+153.000	10.000	23.941	23.941
+154.000	10.000	29.995	29.995
+155.000	10.000	38.048	38.048
+156.000	10.000	50.331	50.331
+157.000	10.000	66.149	66.149
+158.000	10.000	90.881	90.881
+159.000	10.000	123.701	123.701
+160.000	10.000	172.238	172.238
+161.000	10.000	236.057	236.057
+162.000	10.000	313.892	313.892
+163.000	10.000	399.952	399.952
+164.000	10.000	492.500	492.500
+165.000	10.000	590.121	590.121
+166.000	10.000	690.333	690.333
+167.000	10.000	788.658	788.658
+168.000	10.000	890.411	890.411
+169.000	10.000	994.280	994.280
+170.000	10.000	1093.314	1093.314
+171.000	10.000	1194.455	1194.455
+172.000	10.000	1292.152	1292.152
+173.000	10.000	1391.386	1391.386
+174.000	10.000	1491.278	1491.278
+175.000	10.000	1590.126	1590.126
+176.000	10.000	1688.712	1688.712
+177.000	10.000	1789.073	1789.073
+178.000	10.000	1888.422	1888.422
+179.000	10.000	1991.074	1991.074
+180.000	10.000	2090.976	2090.976
+181.000	10.000	2190.014	2190.014
+182.000	10.000	2292.451	2292.451
+183.000	10.000	2394.587	2394.587
+184.000	10.000	2494.778	2494.778
+185.000	10.000	2594.051	2594.051
+186.000	10.000	2694.871	2694.871
+187.000	10.000	2792.758	2792.758
+188.000	10.000	2891.166	2891.166
+189.000	10.000	2989.734	2989.734
+190.000	10.000	3088.812	3088.812
+191.000	10.000	3191.447	3191.447
+192.000	10.000	3292.464	3292.464
+193.000	10.000	3392.142	3392.142
+194.000	10.000	3495.804	3495.804
+195.000	10.000	3599.674	3599.674
+196.000	10.000	3700.389	3700.389
+197.000	10.000	3801.210	3801.210
+198.000	10.000	3901.523	3901.523
+199.000	10.000	4000.130	4000.130
+200.000	10.000	4100.063	4100.063
+201.000	10.000	4201.172	4201.172
+202.000	10.000	4300.731	4300.731
+203.000	10.000	4399.128	4399.128
+204.000	10.000	4496.012	4496.012
+205.000	10.000	4597.158	4597.158
+206.000	10.000	4697.168	4697.168
+207.000	10.000	4798.128	4798.128
+208.000	10.000	4899.323	4899.323
+209.000	10.000	4999.758	4999.758
+210.000	10.000	5101.303	5101.303
+211.000	10.000	5202.288	5202.288
+212.000	10.000	5302.138	5302.138
+213.000	10.000	5400.766	5400.766
+214.000	10.000	5499.077	5499.077
+215.000	10.000	5597.906	5597.906
+216.000	10.000	5698.883	5698.883
+217.000	10.000	5797.641	5797.641
+218.000	10.000	5897.520	5897.520
+219.000	10.000	5995.171	5995.171
+220.000	10.000	6095.541	6095.541
+221.000	10.000	6194.798	6194.798
+222.000	10.000	6297.492	6297.492
+223.000	10.000	6397.771	6397.771
+224.000	10.000	6501.577	6501.577
+225.000	10.000	6605.749	6605.749
+226.000	10.000	6705.213	6705.213
+227.000	10.000	6805.542	6805.542
+228.000	10.000	6908.029	6908.029
+229.000	10.000	7009.691	7009.691
+230.000	10.000	7110.027	7110.027
+231.000	10.000	7211.860	7211.860
+232.000	10.000	7312.149	7312.149
+233.000	10.000	7413.402	7413.402
+234.000	10.000	7512.808	7512.808
+235.000	10.000	7615.045	7615.045
+236.000	10.000	7714.967	7714.967
+237.000	10.000	7813.211	7813.211
+238.000	10.000	7912.031	7912.031
+239.000	10.000	8009.773	8009.773
+240.000	10.000	8107.844	8107.844
+241.000	10.000	8210.951	8210.951
+242.000	10.000	8310.544	8310.544
+243.000	10.000	8410.730	8410.730
+244.000	10.000	8512.537	8512.537
+245.000	10.000	8613.686	8613.686
+246.000	10.000	8717.004	8717.004
+247.000	10.000	8816.227	8816.227
+248.000	10.000	8915.453	8915.453
+249.000	10.000	9015.645	9015.645
+250.000	10.000	9116.631	9116.631
+251.000	10.000	9217.692	9217.692
+252.000	10.000	9313.844	9313.844
+253.000	10.000	9411.648	9411.648
+254.000	10.000	9510.641	9510.641
+255.000	10.000	9608.881	9608.881
+256.000	10.000	9708.588	9708.588
+257.000	10.000	9811.285	9811.285
+258.000	10.000	9912.515	9912.515
+259.000	10.000	10015.476	10015.476
+260.000	10.000	10119.160	10119.160
+261.000	10.000	10222.277	10222.277
+262.000	10.000	10322.157	10322.157
+263.000	10.000	10420.860	10420.860
+264.000	10.000	10521.572	10521.572
+265.000	10.000	10620.903	10620.903
+266.000	10.000	10722.958	10722.958
+267.000	10.000	10821.822	10821.822
+268.000	10.000	10921.225	10921.225
+269.000	10.000	11018.445	11018.445
+270.000	10.000	11120.539	11120.539
+271.000	10.000	11220.788	11220.788
+272.000	10.000	11318.389	11318.389
+273.000	10.000	11418.270	11418.270
+274.000	10.000	11519.007	11519.007
+275.000	10.000	11618.988	11618.988
+276.000	10.000	11718.969	11718.969
+277.000	10.000	11816.546	11816.546
+278.000	10.000	11916.146	11916.146
+279.000	10.000	12016.955	12016.955
+280.000	10.000	12116.479	12116.479
+281.000	10.000	12212.756	12212.756
+282.000	10.000	12313.358	12313.358
+283.000	10.000	12413.785	12413.785
+284.000	10.000	12511.523	12511.523
+285.000	10.000	12610.533	12610.533
+286.000	10.000	12711.460	12711.460
+287.000	10.000	12813.153	12813.153
+288.000	10.000	12915.191	12915.191
+289.000	10.000	13016.445	13016.445
+290.000	10.000	13118.919	13118.919
+291.000	10.000	13219.686	13219.686
+292.000	10.000	13320.523	13320.523
+293.000	10.000	13422.831	13422.831
+294.000	10.000	13526.046	13526.046
+295.000	10.000	13625.853	13625.853
+296.000	10.000	13726.636	13726.636
+297.000	10.000	13826.010	13826.010
+298.000	10.000	13926.422	13926.422
+299.000	10.000	14026.797	14026.797
+300.000	10.000	14127.621	14127.621
+301.000	10.000	14228.099	14228.099
+302.000	10.000	14330.044	14330.044
+303.000	10.000	14432.216	14432.216
+304.000	10.000	14530.662	14530.662
+305.000	10.000	14630.143	14630.143
+306.000	10.000	14730.545	14730.545
+307.000	10.000	14827.027	14827.027
+308.000	10.000	14926.218	14926.218
+309.000	10.000	15024.224	15024.224
+310.000	10.000	15122.937	15122.937
+311.000	10.000	15221.009	15221.009
+312.000	10.000	15318.644	15318.644
+313.000	10.000	15418.084	15418.084
+314.000	10.000	15518.396	15518.396
+315.000	10.000	15619.055	15619.055
+316.000	10.000	15716.015	15716.015
+317.000	10.000	15818.192	15818.192
+318.000	10.000	15919.462	15919.462
+319.000	10.000	16024.367	16024.367
+320.000	10.000	16123.469	16123.469
+321.000	10.000	16223.526	16223.526
+322.000	10.000	16325.476	16325.476
+323.000	10.000	16425.288	16425.288
+324.000	10.000	16524.490	16524.490
+325.000	10.000	16627.052	16627.052
+326.000	10.000	16729.146	16729.146
+327.000	10.000	16829.474	16829.474
+328.000	10.000	16929.174	16929.174
+329.000	10.000	17028.245	17028.245
+330.000	10.000	17128.815	17128.815
+331.000	10.000	17230.729	17230.729
+332.000	10.000	17330.211	17330.211
+333.000	10.000	17427.369	17427.369
+334.000	10.000	17525.939	17525.939
+335.000	10.000	17627.318	17627.318
+336.000	10.000	17727.542	17727.542
+337.000	10.000	17828.059	17828.059
+338.000	10.000	17929.242	17929.242
+339.000	10.000	18030.415	18030.415
+340.000	10.000	18129.803	18129.803
+341.000	10.000	18227.947	18227.947
+342.000	10.000	18327.195	18327.195
+343.000	10.000	18428.525	18428.525
+344.000	10.000	18528.553	18528.553
+345.000	10.000	18628.108	18628.108
+346.000	10.000	18727.428	18727.428
+347.000	10.000	18826.849	18826.849
+348.000	10.000	18924.623	18924.623
+349.000	10.000	19025.262	19025.262
+350.000	10.000	19127.513	19127.513
+351.000	10.000	19227.353	19227.353
+352.000	10.000	19330.604	19330.604
+353.000	10.000	19430.499	19430.499
+354.000	10.000	19530.015	19530.015
+355.000	10.000	19632.106	19632.106
+356.000	10.000	19730.038	19730.038
+357.000	10.000	19830.640	19830.640
+358.000	10.000	19931.754	19931.754
+359.000	10.000	20033.628	20033.628
+360.000	10.000	20135.143	20135.143
+361.000	10.000	20236.611	20236.611
+362.000	10.000	20337.001	20337.001
+363.000	10.000	20438.252	20438.252
+364.000	10.000	20537.436	20537.436
+365.000	10.000	20640.286	20640.286
+366.000	10.000	20741.646	20741.646
+367.000	10.000	20843.525	20843.525
+368.000	10.000	20942.624	20942.624
+369.000	10.000	21041.504	21041.504
+370.000	10.000	21142.969	21142.969
+371.000	10.000	21242.601	21242.601
+372.000	10.000	21341.484	21341.484
+373.000	10.000	21439.453	21439.453
+374.000	10.000	21538.999	21538.999
+375.000	10.000	21637.588	21637.588
+376.000	10.000	21737.292	21737.292
+377.000	10.000	21834.505	21834.505
+378.000	10.000	21935.665	21935.665
+379.000	10.000	22036.044	22036.044
+380.000	10.000	22136.602	22136.602
+381.000	10.000	22236.642	22236.642
+382.000	10.000	22337.734	22337.734
+383.000	10.000	22438.038	22438.038
+384.000	10.000	22541.803	22541.803
+385.000	10.000	22642.105	22642.105
+386.000	10.000	22743.234	22743.234
+387.000	10.000	22844.634	22844.634
+388.000	10.000	22945.995	22945.995
+389.000	10.000	23047.111	23047.111
+390.000	10.000	23148.035	23148.035
+391.000	10.000	23248.518	23248.518
+392.000	10.000	23349.177	23349.177
+393.000	10.000	23448.359	23448.359
+394.000	10.000	23546.676	23546.676
+395.000	10.000	23648.269	23648.269
+396.000	10.000	23751.675	23751.675
+397.000	10.000	23852.796	23852.796
+398.000	10.000	23954.003	23954.003
+399.000	10.000	24057.623	24057.623
+400.000	10.000	24157.584	24157.584
+401.000	10.000	24257.044	24257.044
+402.000	10.000	24356.714	24356.714
+403.000	10.000	24455.721	24455.721
+404.000	10.000	24557.254	24557.254
+405.000	10.000	24655.482	24655.482
+406.000	10.000	24753.559	24753.559
+407.000	10.000	24855.147	24855.147
+408.000	10.000	24957.184	24957.184
+409.000	10.000	25053.023	25053.023
+410.000	10.000	25153.017	25153.017
+411.000	10.000	25250.282	25250.282
+412.000	10.000	25352.397	25352.397
+413.000	10.000	25454.026	25454.026
+414.000	10.000	25556.624	25556.624
+415.000	10.000	25656.643	25656.643
+416.000	10.000	25757.046	25757.046
+417.000	10.000	25856.181	25856.181
+418.000	10.000	25958.001	25958.001
+419.000	10.000	26058.971	26058.971
+420.000	10.000	26159.417	26159.417
+421.000	10.000	26259.326	26259.326
+422.000	10.000	26359.767	26359.767
+423.000	10.000	26459.246	26459.246
+424.000	10.000	26557.844	26557.844
+425.000	10.000	26658.861	26658.861
+426.000	10.000	26761.348	26761.348
+427.000	10.000	26860.440	26860.440
+428.000	10.000	26960.237	26960.237
+429.000	10.000	27059.972	27059.972
+430.000	10.000	27156.051	27156.051
+431.000	10.000	27256.425	27256.425
+432.000	10.000	27355.650	27355.650
+433.000	10.000	27455.994	27455.994
+434.000	10.000	27557.495	27557.495
+435.000	10.000	27654.377	27654.377
+436.000	10.000	27755.129	27755.129
+437.000	10.000	27854.378	27854.378
+438.000	10.000	27953.978	27953.978
+439.000	10.000	28053.534	28053.534
+440.000	10.000	28150.564	28150.564
+441.000	10.000	28251.104	28251.104
+442.000	10.000	28351.210	28351.210
+443.000	10.000	28450.704	28450.704
+444.000	10.000	28551.746	28551.746
+445.000	10.000	28653.139	28653.139
+446.000	10.000	28754.251	28754.251
+447.000	10.000	28855.311	28855.311
+448.000	10.000	28953.167	28953.167
+449.000	10.000	29053.417	29053.417
+450.000	10.000	29149.466	29149.466
+451.000	10.000	29251.352	29251.352
+452.000	10.000	29351.080	29351.080
+453.000	10.000	29449.455	29449.455
+454.000	10.000	29551.632	29551.632
+455.000	10.000	29652.110	29652.110
+456.000	10.000	29750.206	29750.206
+457.000	10.000	29852.686	29852.686
+458.000	10.000	29957.039	29957.039
+459.000	10.000	30058.099	30058.099
+460.000	10.000	30158.489	30158.489
+461.000	10.000	30256.429	30256.429
+462.000	10.000	30358.111	30358.111
+463.000	10.000	30457.724	30457.724
+464.000	10.000	30558.089	30558.089
+465.000	10.000	30656.320	30656.320
+466.000	10.000	30754.754	30754.754
+467.000	10.000	30851.695	30851.695
+468.000	10.000	30950.925	30950.925
+469.000	10.000	31048.944	31048.944
+470.000	10.000	31150.214	31150.214
+471.000	10.000	31249.371	31249.371
+472.000	10.000	31348.361	31348.361
+473.000	10.000	31448.547	31448.547
+474.000	10.000	31549.044	31549.044
+475.000	10.000	31649.501	31649.501
+476.000	10.000	31750.665	31750.665
+477.000	10.000	31849.171	31849.171
+478.000	10.000	31948.417	31948.417
+479.000	10.000	32049.803	32049.803
+480.000	10.000	32150.528	32150.528
+481.000	10.000	32252.395	32252.395
+482.000	10.000	32352.204	32352.204
+483.000	10.000	32452.446	32452.446
+484.000	10.000	32554.156	32554.156
+485.000	10.000	32654.728	32654.728
+486.000	10.000	32755.631	32755.631
+487.000	10.000	32855.428	32855.428
+488.000	10.000	32957.955	32957.955
+489.000	10.000	33059.806	33059.806
+490.000	10.000	33161.275	33161.275
+491.000	10.000	33260.326	33260.326
+492.000	10.000	33358.878	33358.878
+493.000	10.000	33457.075	33457.075
+494.000	10.000	33559.401	33559.401
+495.000	10.000	33660.738	33660.738
+496.000	10.000	33761.069	33761.069
+497.000	10.000	33858.087	33858.087
+498.000	10.000	33956.530	33956.530
+499.000	10.000	34055.140	34055.140
+500.000	10.000	34156.239	34156.239
+501.000	10.000	34257.340	34257.340
+502.000	10.000	34356.443	34356.443
+503.000	10.000	34456.461	34456.461
+504.000	10.000	34557.132	34557.132
+505.000	10.000	34657.861	34657.861
+506.000	10.000	34758.060	34758.060
+507.000	10.000	34857.548	34857.548
+508.000	10.000	34959.387	34959.387
+509.000	10.000	35061.712	35061.712
+510.000	10.000	35164.239	35164.239
+511.000	10.000	35265.064	35265.064
+512.000	10.000	35366.567	35366.567
+513.000	10.000	35467.226	35467.226
+514.000	10.000	35568.666	35568.666
+515.000	10.000	35671.565	35671.565
+516.000	10.000	35770.489	35770.489
+517.000	10.000	35867.263	35867.263
+518.000	10.000	35967.468	35967.468
+519.000	10.000	36066.544	36066.544
+520.000	10.000	36165.197	36165.197
+521.000	10.000	36268.538	36268.538
+522.000	10.000	36366.954	36366.954
+523.000	10.000	36467.169	36467.169
+524.000	10.000	36567.598	36567.598
+525.000	10.000	36670.228	36670.228
+526.000	10.000	36769.810	36769.810
+527.000	10.000	36868.344	36868.344
+528.000	10.000	36968.455	36968.455
+529.000	10.000	37066.501	37066.501
+530.000	10.000	37168.041	37168.041
+531.000	10.000	37265.591	37265.591
+532.000	10.000	37363.598	37363.598
+533.000	10.000	37462.528	37462.528
+534.000	10.000	37564.389	37564.389
+535.000	10.000	37666.423	37666.423
+536.000	10.000	37766.893	37766.893
+537.000	10.000	37868.138	37868.138
+538.000	10.000	37971.932	37971.932
+539.000	10.000	38071.415	38071.415
+540.000	10.000	38173.328	38173.328
+541.000	10.000	38275.105	38275.105
+542.000	10.000	38374.158	38374.158
+543.000	10.000	38473.956	38473.956
+544.000	10.000	38573.414	38573.414
+545.000	10.000	38674.695	38674.695
+546.000	10.000	38775.415	38775.415
+547.000	10.000	38876.005	38876.005
+548.000	10.000	38975.119	38975.119
+549.000	10.000	39073.514	39073.514
+550.000	10.000	39174.415	39174.415
+551.000	10.000	39276.475	39276.475
+552.000	10.000	39377.589	39377.589
+553.000	10.000	39478.705	39478.705
+554.000	10.000	39579.470	39579.470
+555.000	10.000	39680.984	39680.984
+556.000	10.000	39783.320	39783.320
+557.000	10.000	39883.009	39883.009
+558.000	10.000	39984.463	39984.463
+559.000	10.000	40081.860	40081.860
+560.000	10.000	40179.366	40179.366
+561.000	10.000	40276.947	40276.947
+562.000	10.000	40376.584	40376.584
+563.000	10.000	40478.164	40478.164
+564.000	10.000	40579.138	40579.138
+565.000	10.000	40679.644	40679.644
+566.000	10.000	40780.584	40780.584
+567.000	10.000	40880.955	40880.955
+568.000	10.000	40981.129	40981.129
+569.000	10.000	41080.795	41080.795
+570.000	10.000	41182.737	41182.737
+571.000	10.000	41282.411	41282.411
+572.000	10.000	41383.270	41383.270
+573.000	10.000	41484.588	41484.588
+574.000	10.000	41587.026	41587.026
+575.000	10.000	41688.155	41688.155
+576.000	10.000	41789.851	41789.851
+577.000	10.000	41890.817	41890.817
+578.000	10.000	41991.553	41991.553
+579.000	10.000	42092.167	42092.167
+580.000	10.000	42191.882	42191.882
+581.000	10.000	42293.426	42293.426
+582.000	10.000	42395.162	42395.162
+583.000	10.000	42497.232	42497.232
+584.000	10.000	42595.868	42595.868
+585.000	10.000	42694.684	42694.684
+586.000	10.000	42795.891	42795.891
+587.000	10.000	42892.750	42892.750
+588.000	10.000	42991.619	42991.619
+589.000	10.000	43090.465	43090.465
+590.000	10.000	43189.677	43189.677
+591.000	10.000	43289.541	43289.541
+592.000	10.000	43386.770	43386.770
+593.000	10.000	43487.496	43487.496
+594.000	10.000	43589.395	43589.395
+595.000	10.000	43687.322	43687.322
+596.000	10.000	43785.327	43785.327
+597.000	10.000	43887.104	43887.104
+598.000	10.000	43986.929	43986.929
+599.000	10.000	44088.625	44088.625
+600.000	10.000	44190.302	44190.302
+601.000	10.000	44287.148	44287.148
+602.000	10.000	44386.481	44386.481
+603.000	10.000	44489.728	44489.728
+604.000	10.000	44590.273	44590.273
+605.000	10.000	44688.989	44688.989
+606.000	10.000	44785.215	44785.215
+607.000	10.000	44884.385	44884.385
+608.000	10.000	44982.126	44982.126
+609.000	10.000	45079.090	45079.090
+610.000	10.000	45176.712	45176.712
+611.000	10.000	45272.189	45272.189
+612.000	10.000	45368.477	45368.477
+613.000	10.000	45463.790	45463.790
+614.000	10.000	45561.244	45561.244
+615.000	10.000	45655.858	45655.858
+616.000	10.000	45749.686	45749.686
+617.000	10.000	45844.946	45844.946
+618.000	10.000	45936.310	45936.310
+619.000	10.000	46030.947	46030.947
+620.000	10.000	46123.954	46123.954
+621.000	10.000	46216.815	46216.815
+622.000	10.000	46309.736	46309.736
+623.000	10.000	46401.763	46401.763
+624.000	10.000	46489.983	46489.983
+625.000	10.000	46579.359	46579.359
+626.000	10.000	46665.990	46665.990
+627.000	10.000	46753.958	46753.958
+628.000	10.000	46842.273	46842.273
+629.000	10.000	46930.253	46930.253
+630.000	10.000	47017.191	47017.191
+631.000	10.000	47101.635	47101.635
+632.000	10.000	47188.531	47188.531
+633.000	10.000	47272.396	47272.396
+634.000	10.000	47351.593	47351.593
+635.000	10.000	47430.948	47430.948
+636.000	10.000	47507.208	47507.208
+637.000	10.000	47579.153	47579.153
+638.000	10.000	47647.751	47647.751
+639.000	10.000	47709.603	47709.603
+640.000	10.000	47769.576	47769.576
+641.000	10.000	47823.427	47823.427
+642.000	10.000	47871.126	47871.126
+643.000	10.000	47914.891	47914.891
+644.000	10.000	47951.388	47951.388
+645.000	10.000	47983.473	47983.473
+646.000	10.000	48010.844	48010.844
+647.000	10.000	48033.472	48033.472
+648.000	10.000	48053.790	48053.790
+649.000	10.000	48068.832	48068.832
+650.000	10.000	48080.980	48080.980
+651.000	10.000	48090.747	48090.747
+652.000	10.000	48098.152	48098.152
+653.000	10.000	48104.029	48104.029
+654.000	10.000	48108.193	48108.193
+655.000	9.000	50035.285	50035.285
+656.000	9.000	50038.565	50038.565
+657.000	9.000	50040.809	50040.809
+658.000	9.000	50042.103	50042.103
+659.000	9.000	50042.790	50042.790
+660.000	9.000	50043.210	50043.210
+661.000	8.000	50378.050	50378.050
+662.000	8.000	50378.106	50378.106
+663.000	5.000	57721.852	57721.852
+664.000	5.000	57721.835	57721.835
+665.000	3.000	67282.597	67282.597
+666.000	3.000	67282.923	67282.923
+667.000	3.000	67282.923	67282.923
+668.000	2.000	24297.000	24297.000
+669.000	2.000	24297.000	24297.000
+670.000	2.000	24297.000	24297.000
+671.000	1.000	0.000	0.000
+	
+Sweep Number:	20
+searchRadius	15
+gridHeight	60
+gridWidth	500
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	77.300	77.300
+1.000	10.000	77.300	77.300
+2.000	10.000	77.400	77.400
+3.000	10.000	77.400	77.400
+4.000	10.000	77.500	77.500
+5.000	10.000	77.600	77.600
+6.000	10.000	78.100	78.100
+7.000	10.000	78.700	78.700
+8.000	10.000	80.400	80.400
+9.000	10.000	84.800	84.800
+10.000	10.000	90.100	90.100
+11.000	10.000	103.100	103.100
+12.000	10.000	119.700	119.700
+13.000	10.000	149.500	149.500
+14.000	10.000	191.700	191.700
+15.000	10.000	249.300	249.300
+16.000	10.000	325.100	325.100
+17.000	10.000	419.900	419.900
+18.000	10.000	540.900	540.900
+19.000	10.000	682.000	682.000
+20.000	10.000	846.500	846.500
+21.000	10.000	1035.500	1035.500
+22.000	10.000	1256.600	1256.600
+23.000	10.000	1490.900	1490.900
+24.000	10.000	1741.800	1741.800
+25.000	10.000	2011.900	2011.900
+26.000	10.000	2292.000	2292.000
+27.000	10.000	2581.300	2581.300
+28.000	10.000	2880.900	2880.900
+29.000	10.000	3184.900	3184.900
+30.000	10.000	3496.300	3496.300
+31.000	10.000	3810.400	3810.400
+32.000	10.000	4125.100	4125.100
+33.000	10.000	4439.800	4439.800
+34.000	10.000	4757.700	4757.700
+35.000	10.000	5073.400	5073.400
+36.000	10.000	5384.900	5384.900
+37.000	10.000	5696.800	5696.800
+38.000	10.000	6010.500	6010.500
+39.000	10.000	6317.800	6317.800
+40.000	10.000	6626.900	6626.900
+41.000	10.000	6938.700	6938.700
+42.000	10.000	7249.800	7249.800
+43.000	10.000	7557.400	7557.400
+44.000	10.000	7873.600	7873.600
+45.000	10.000	8186.900	8186.900
+46.000	10.000	8496.700	8496.700
+47.000	10.000	8806.200	8806.200
+48.000	10.000	9112.400	9112.400
+49.000	10.000	9430.600	9430.600
+50.000	10.000	9747.900	9747.900
+51.000	10.000	10061.400	10061.400
+52.000	10.000	10373.000	10373.000
+53.000	10.000	10679.400	10679.400
+54.000	10.000	10987.800	10987.800
+55.000	10.000	11300.900	11300.900
+56.000	10.000	11601.200	11601.200
+57.000	10.000	11911.000	11911.000
+58.000	10.000	12221.100	12221.100
+59.000	10.000	12520.100	12520.100
+60.000	10.000	12820.800	12820.800
+61.000	10.000	13126.700	13126.700
+62.000	10.000	13429.100	13429.100
+63.000	10.000	13723.700	13723.700
+64.000	10.000	14020.600	14020.600
+65.000	10.000	14312.500	14312.500
+66.000	10.000	14614.700	14614.700
+67.000	10.000	14906.000	14906.000
+68.000	10.000	15188.100	15188.100
+69.000	10.000	15469.300	15469.300
+70.000	10.000	15741.200	15741.200
+71.000	10.000	16001.600	16001.600
+72.000	10.000	16258.000	16258.000
+73.000	10.000	16496.700	16496.700
+74.000	10.000	16721.000	16721.000
+75.000	10.000	16935.000	16935.000
+76.000	10.000	17131.000	17131.000
+77.000	10.000	17312.500	17312.500
+78.000	10.000	17470.600	17470.600
+79.000	10.000	17609.900	17609.900
+80.000	10.000	17732.700	17732.700
+81.000	10.000	17836.800	17836.800
+82.000	10.000	17928.400	17928.400
+83.000	10.000	18008.300	18008.300
+84.000	10.000	18071.500	18071.500
+85.000	10.000	18118.600	18118.600
+86.000	10.000	18157.000	18157.000
+87.000	10.000	18186.600	18186.600
+88.000	10.000	18208.800	18208.800
+89.000	10.000	18224.500	18224.500
+90.000	10.000	18236.600	18236.600
+91.000	10.000	18244.400	18244.400
+92.000	10.000	18250.000	18250.000
+93.000	10.000	18254.200	18254.200
+94.000	10.000	18256.900	18256.900
+95.000	10.000	18258.300	18258.300
+96.000	10.000	18259.300	18259.300
+97.000	10.000	18259.900	18259.900
+98.000	8.000	19742.750	19742.750
+99.000	7.000	15539.000	15539.000
+100.000	6.000	10872.000	10872.000
+101.000	3.000	10051.000	10051.000
+102.000	2.000	2711.000	2711.000
+103.000	1.000	32.000	32.000
+104.000	1.000	32.000	32.000
+105.000	1.000	32.000	32.000
+106.000	1.000	32.000	32.000
+107.000	1.000	32.000	32.000
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	26.360	26.360
+1.000	10.000	26.360	26.360
+2.000	10.000	26.397	26.397
+3.000	10.000	26.397	26.397
+4.000	10.000	26.435	26.435
+5.000	10.000	26.446	26.446
+6.000	10.000	26.619	26.619
+7.000	10.000	26.774	26.774
+8.000	10.000	27.484	27.484
+9.000	10.000	28.438	28.438
+10.000	10.000	30.229	30.229
+11.000	10.000	34.856	34.856
+12.000	10.000	39.866	39.866
+13.000	10.000	49.350	49.350
+14.000	10.000	64.565	64.565
+15.000	10.000	82.930	82.930
+16.000	10.000	108.547	108.547
+17.000	10.000	139.789	139.789
+18.000	10.000	180.989	180.989
+19.000	10.000	230.039	230.039
+20.000	10.000	287.097	287.097
+21.000	10.000	350.798	350.798
+22.000	10.000	426.365	426.365
+23.000	10.000	504.730	504.730
+24.000	10.000	588.202	588.202
+25.000	10.000	679.671	679.671
+26.000	10.000	773.143	773.143
+27.000	10.000	869.610	869.610
+28.000	10.000	970.068	970.068
+29.000	10.000	1072.054	1072.054
+30.000	10.000	1174.836	1174.836
+31.000	10.000	1278.592	1278.592
+32.000	10.000	1383.098	1383.098
+33.000	10.000	1489.672	1489.672
+34.000	10.000	1596.125	1596.125
+35.000	10.000	1703.653	1703.653
+36.000	10.000	1808.037	1808.037
+37.000	10.000	1913.379	1913.379
+38.000	10.000	2019.171	2019.171
+39.000	10.000	2122.891	2122.891
+40.000	10.000	2225.833	2225.833
+41.000	10.000	2328.793	2328.793
+42.000	10.000	2432.366	2432.366
+43.000	10.000	2536.679	2536.679
+44.000	10.000	2642.403	2642.403
+45.000	10.000	2747.091	2747.091
+46.000	10.000	2851.000	2851.000
+47.000	10.000	2956.167	2956.167
+48.000	10.000	3058.817	3058.817
+49.000	10.000	3165.779	3165.779
+50.000	10.000	3271.682	3271.682
+51.000	10.000	3374.144	3374.144
+52.000	10.000	3479.051	3479.051
+53.000	10.000	3582.293	3582.293
+54.000	10.000	3685.235	3685.235
+55.000	10.000	3789.775	3789.775
+56.000	10.000	3891.249	3891.249
+57.000	10.000	3995.917	3995.917
+58.000	10.000	4100.012	4100.012
+59.000	10.000	4201.299	4201.299
+60.000	10.000	4303.098	4303.098
+61.000	10.000	4406.336	4406.336
+62.000	10.000	4508.937	4508.937
+63.000	10.000	4607.421	4607.421
+64.000	10.000	4707.831	4707.831
+65.000	10.000	4804.993	4804.993
+66.000	10.000	4903.754	4903.754
+67.000	10.000	5002.383	5002.383
+68.000	10.000	5097.345	5097.345
+69.000	10.000	5193.152	5193.152
+70.000	10.000	5283.214	5283.214
+71.000	10.000	5371.767	5371.767
+72.000	10.000	5457.909	5457.909
+73.000	10.000	5538.582	5538.582
+74.000	10.000	5614.238	5614.238
+75.000	10.000	5685.625	5685.625
+76.000	10.000	5749.709	5749.709
+77.000	10.000	5810.578	5810.578
+78.000	10.000	5864.210	5864.210
+79.000	10.000	5910.769	5910.769
+80.000	10.000	5952.688	5952.688
+81.000	10.000	5987.474	5987.474
+82.000	10.000	6017.023	6017.023
+83.000	10.000	6043.646	6043.646
+84.000	10.000	6065.335	6065.335
+85.000	10.000	6081.441	6081.441
+86.000	10.000	6094.519	6094.519
+87.000	10.000	6104.222	6104.222
+88.000	10.000	6111.832	6111.832
+89.000	10.000	6117.326	6117.326
+90.000	10.000	6121.661	6121.661
+91.000	10.000	6124.277	6124.277
+92.000	10.000	6126.046	6126.046
+93.000	10.000	6127.392	6127.392
+94.000	10.000	6128.211	6128.211
+95.000	10.000	6128.527	6128.527
+96.000	10.000	6128.769	6128.769
+97.000	10.000	6128.926	6128.926
+98.000	8.000	7386.403	7386.403
+99.000	7.000	7012.845	7012.845
+100.000	6.000	6193.443	6193.443
+101.000	3.000	7501.196	7501.196
+102.000	2.000	2679.000	2679.000
+103.000	1.000	0.000	0.000
+104.000	1.000	0.000	0.000
+105.000	1.000	0.000	0.000
+106.000	1.000	0.000	0.000
+107.000	1.000	0.000	0.000
+	
+Sweep Number:	21
+searchRadius	15
+gridHeight	60
+gridWidth	1000
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	91.800	91.800
+1.000	10.000	93.100	92.700
+2.000	10.000	96.800	96.200
+3.000	10.000	102.800	102.200
+4.000	10.000	114.600	114.400
+5.000	10.000	138.200	137.800
+6.000	10.000	177.800	177.600
+7.000	10.000	248.900	248.500
+8.000	10.000	348.000	347.800
+9.000	10.000	484.100	483.900
+10.000	10.000	654.900	654.700
+11.000	10.000	872.400	872.200
+12.000	10.000	1130.800	1130.600
+13.000	10.000	1420.100	1419.900
+14.000	10.000	1736.100	1735.900
+15.000	10.000	2078.300	2078.100
+16.000	10.000	2430.900	2430.300
+17.000	10.000	2801.800	2801.200
+18.000	10.000	3180.800	3180.200
+19.000	10.000	3550.400	3549.800
+20.000	10.000	3917.000	3916.400
+21.000	10.000	4294.200	4293.600
+22.000	10.000	4660.800	4660.200
+23.000	10.000	5032.000	5031.400
+24.000	10.000	5405.500	5404.900
+25.000	10.000	5772.700	5772.100
+26.000	10.000	6145.500	6144.900
+27.000	10.000	6511.700	6511.100
+28.000	10.000	6878.400	6877.800
+29.000	10.000	7244.400	7243.800
+30.000	10.000	7607.200	7606.600
+31.000	10.000	7965.400	7964.800
+32.000	10.000	8312.400	8311.800
+33.000	10.000	8641.800	8641.200
+34.000	10.000	8971.500	8970.900
+35.000	10.000	9282.900	9282.300
+36.000	10.000	9563.500	9562.900
+37.000	10.000	9821.500	9820.900
+38.000	10.000	10050.300	10049.700
+39.000	10.000	10247.100	10246.500
+40.000	10.000	10411.100	10410.500
+41.000	10.000	10543.200	10542.600
+42.000	10.000	10649.200	10648.600
+43.000	10.000	10728.600	10728.000
+44.000	10.000	10790.300	10789.700
+45.000	10.000	10832.400	10831.800
+46.000	10.000	10861.200	10860.600
+47.000	10.000	10882.100	10881.500
+48.000	10.000	10897.000	10896.400
+49.000	10.000	10906.500	10905.900
+50.000	10.000	10911.000	10910.400
+51.000	10.000	10913.600	10913.000
+52.000	10.000	10915.700	10915.100
+53.000	10.000	10916.500	10915.900
+54.000	9.000	9449.667	9449.667
+55.000	9.000	9449.889	9449.889
+56.000	8.000	8067.000	8067.750
+57.000	5.000	8816.200	8817.400
+58.000	4.000	7247.500	7248.500
+59.000	2.000	6624.500	6625.500
+60.000	1.000	1815.000	1817.000
+61.000	1.000	1815.000	1817.000
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	23.850	23.850
+1.000	10.000	24.190	24.074
+2.000	10.000	24.994	24.771
+3.000	10.000	26.328	26.092
+4.000	10.000	28.900	28.643
+5.000	10.000	34.936	34.369
+6.000	10.000	45.358	44.793
+7.000	10.000	63.938	63.335
+8.000	10.000	89.012	88.400
+9.000	10.000	125.412	124.785
+10.000	10.000	168.064	167.446
+11.000	10.000	223.908	223.197
+12.000	10.000	290.119	289.415
+13.000	10.000	365.170	364.463
+14.000	10.000	447.510	446.802
+15.000	10.000	537.211	536.503
+16.000	10.000	627.468	626.719
+17.000	10.000	723.218	722.470
+18.000	10.000	820.312	819.562
+19.000	10.000	914.048	913.301
+20.000	10.000	1006.877	1006.133
+21.000	10.000	1104.407	1103.661
+22.000	10.000	1198.865	1198.118
+23.000	10.000	1293.842	1293.096
+24.000	10.000	1388.321	1387.577
+25.000	10.000	1481.599	1480.858
+26.000	10.000	1576.919	1576.179
+27.000	10.000	1668.874	1668.134
+28.000	10.000	1762.847	1762.109
+29.000	10.000	1855.191	1854.452
+30.000	10.000	1948.554	1947.814
+31.000	10.000	2040.107	2039.366
+32.000	10.000	2127.482	2126.741
+33.000	10.000	2210.664	2209.924
+34.000	10.000	2294.940	2294.199
+35.000	10.000	2373.735	2372.993
+36.000	10.000	2444.262	2443.520
+37.000	10.000	2509.202	2508.461
+38.000	10.000	2565.911	2565.170
+39.000	10.000	2613.361	2612.621
+40.000	10.000	2653.664	2652.923
+41.000	10.000	2686.908	2686.167
+42.000	10.000	2714.191	2713.450
+43.000	10.000	2734.899	2734.158
+44.000	10.000	2751.635	2750.893
+45.000	10.000	2762.802	2762.060
+46.000	10.000	2770.093	2769.350
+47.000	10.000	2775.199	2774.457
+48.000	10.000	2778.949	2778.207
+49.000	10.000	2781.107	2780.365
+50.000	10.000	2782.108	2781.366
+51.000	10.000	2782.712	2781.970
+52.000	10.000	2783.141	2782.399
+53.000	10.000	2783.283	2782.540
+54.000	9.000	2644.270	2643.710
+55.000	9.000	2644.272	2643.711
+56.000	8.000	2555.483	2555.259
+57.000	5.000	3292.417	3292.602
+58.000	4.000	3737.020	3737.151
+59.000	2.000	4809.500	4808.500
+60.000	1.000	0.000	0.000
+61.000	1.000	0.000	0.000
+	
+Sweep Number:	22
+searchRadius	15
+gridHeight	500
+gridWidth	60
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	55.200	55.200
+1.000	10.000	55.200	55.200
+2.000	10.000	55.500	55.500
+3.000	10.000	55.500	55.500
+4.000	10.000	55.600	55.600
+5.000	10.000	56.000	56.000
+6.000	10.000	57.200	57.200
+7.000	10.000	58.500	58.500
+8.000	10.000	60.800	60.800
+9.000	10.000	63.100	63.100
+10.000	10.000	67.800	67.800
+11.000	10.000	75.600	75.600
+12.000	10.000	89.600	89.600
+13.000	10.000	109.600	109.600
+14.000	10.000	136.100	136.100
+15.000	10.000	173.300	173.300
+16.000	10.000	225.900	225.900
+17.000	10.000	294.400	294.400
+18.000	10.000	371.900	371.900
+19.000	10.000	471.800	471.800
+20.000	10.000	592.000	592.000
+21.000	10.000	725.400	725.400
+22.000	10.000	873.700	873.700
+23.000	10.000	1041.600	1041.600
+24.000	10.000	1219.400	1219.400
+25.000	10.000	1413.800	1413.800
+26.000	10.000	1607.600	1607.600
+27.000	10.000	1819.400	1819.400
+28.000	10.000	2033.100	2033.100
+29.000	10.000	2248.500	2248.500
+30.000	10.000	2466.600	2466.600
+31.000	10.000	2685.400	2685.400
+32.000	10.000	2907.100	2907.100
+33.000	10.000	3128.800	3128.800
+34.000	10.000	3349.400	3349.400
+35.000	10.000	3575.200	3575.200
+36.000	10.000	3801.300	3801.300
+37.000	10.000	4027.400	4027.400
+38.000	10.000	4250.900	4250.900
+39.000	10.000	4478.800	4478.800
+40.000	10.000	4712.900	4712.900
+41.000	10.000	4936.600	4936.600
+42.000	10.000	5160.600	5160.600
+43.000	10.000	5385.600	5385.600
+44.000	10.000	5608.100	5608.100
+45.000	10.000	5836.600	5836.600
+46.000	10.000	6061.700	6061.700
+47.000	10.000	6281.200	6281.200
+48.000	10.000	6502.400	6502.400
+49.000	10.000	6725.200	6725.200
+50.000	10.000	6948.000	6948.000
+51.000	10.000	7172.100	7172.100
+52.000	10.000	7384.300	7384.300
+53.000	10.000	7595.800	7595.800
+54.000	10.000	7824.200	7824.200
+55.000	10.000	8042.300	8042.300
+56.000	10.000	8262.300	8262.300
+57.000	10.000	8480.700	8480.700
+58.000	10.000	8690.100	8690.100
+59.000	10.000	8908.800	8908.800
+60.000	10.000	9120.000	9120.000
+61.000	10.000	9337.500	9337.500
+62.000	10.000	9553.600	9553.600
+63.000	10.000	9762.900	9762.900
+64.000	10.000	9973.200	9973.200
+65.000	10.000	10178.600	10178.600
+66.000	10.000	10384.300	10384.300
+67.000	10.000	10592.200	10592.200
+68.000	10.000	10794.000	10794.000
+69.000	10.000	10981.100	10981.100
+70.000	10.000	11175.000	11175.000
+71.000	10.000	11370.300	11370.300
+72.000	10.000	11552.500	11552.500
+73.000	10.000	11724.200	11724.200
+74.000	10.000	11885.600	11885.600
+75.000	10.000	12036.600	12036.600
+76.000	10.000	12174.600	12174.600
+77.000	10.000	12297.500	12297.500
+78.000	10.000	12411.000	12411.000
+79.000	10.000	12507.900	12507.900
+80.000	10.000	12596.400	12596.400
+81.000	10.000	12668.600	12668.600
+82.000	10.000	12734.600	12734.600
+83.000	10.000	12786.800	12786.800
+84.000	10.000	12830.200	12830.200
+85.000	10.000	12868.000	12868.000
+86.000	10.000	12896.600	12896.600
+87.000	10.000	12917.300	12917.300
+88.000	10.000	12935.600	12935.600
+89.000	10.000	12948.400	12948.400
+90.000	10.000	12957.000	12957.000
+91.000	10.000	12962.800	12962.800
+92.000	10.000	12967.300	12967.300
+93.000	10.000	12970.400	12970.400
+94.000	10.000	12972.200	12972.200
+95.000	10.000	12973.500	12973.500
+96.000	10.000	12974.400	12974.400
+97.000	10.000	12975.100	12975.100
+98.000	10.000	12975.400	12975.400
+99.000	9.000	9359.000	9359.000
+100.000	8.000	10523.000	10523.000
+101.000	6.000	10437.333	10437.333
+102.000	2.000	21587.500	21587.500
+103.000	1.000	31146.000	31146.000
+104.000	1.000	31146.000	31146.000
+105.000	1.000	31146.000	31146.000
+106.000	1.000	31146.000	31146.000
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	21.138	21.138
+1.000	10.000	21.138	21.138
+2.000	10.000	21.241	21.241
+3.000	10.000	21.241	21.241
+4.000	10.000	21.256	21.256
+5.000	10.000	21.379	21.379
+6.000	10.000	21.579	21.579
+7.000	10.000	21.764	21.764
+8.000	10.000	22.247	22.247
+9.000	10.000	22.731	22.731
+10.000	10.000	23.939	23.939
+11.000	10.000	26.425	26.425
+12.000	10.000	30.850	30.850
+13.000	10.000	38.108	38.108
+14.000	10.000	47.500	47.500
+15.000	10.000	60.184	60.184
+16.000	10.000	79.364	79.364
+17.000	10.000	104.888	104.888
+18.000	10.000	135.703	135.703
+19.000	10.000	172.880	172.880
+20.000	10.000	217.976	217.976
+21.000	10.000	267.441	267.441
+22.000	10.000	323.127	323.127
+23.000	10.000	388.646	388.646
+24.000	10.000	456.660	456.660
+25.000	10.000	532.754	532.754
+26.000	10.000	606.041	606.041
+27.000	10.000	684.192	684.192
+28.000	10.000	763.493	763.493
+29.000	10.000	845.177	845.177
+30.000	10.000	929.463	929.463
+31.000	10.000	1012.533	1012.533
+32.000	10.000	1094.393	1094.393
+33.000	10.000	1178.449	1178.449
+34.000	10.000	1261.159	1261.159
+35.000	10.000	1345.589	1345.589
+36.000	10.000	1431.199	1431.199
+37.000	10.000	1517.546	1517.546
+38.000	10.000	1600.468	1600.468
+39.000	10.000	1687.403	1687.403
+40.000	10.000	1775.441	1775.441
+41.000	10.000	1859.112	1859.112
+42.000	10.000	1944.447	1944.447
+43.000	10.000	2028.972	2028.972
+44.000	10.000	2111.503	2111.503
+45.000	10.000	2196.578	2196.578
+46.000	10.000	2282.855	2282.855
+47.000	10.000	2362.885	2362.885
+48.000	10.000	2444.906	2444.906
+49.000	10.000	2531.052	2531.052
+50.000	10.000	2616.038	2616.038
+51.000	10.000	2701.177	2701.177
+52.000	10.000	2780.478	2780.478
+53.000	10.000	2859.762	2859.762
+54.000	10.000	2945.109	2945.109
+55.000	10.000	3028.051	3028.051
+56.000	10.000	3110.735	3110.735
+57.000	10.000	3192.853	3192.853
+58.000	10.000	3273.323	3273.323
+59.000	10.000	3355.134	3355.134
+60.000	10.000	3436.475	3436.475
+61.000	10.000	3516.956	3516.956
+62.000	10.000	3598.375	3598.375
+63.000	10.000	3676.976	3676.976
+64.000	10.000	3756.190	3756.190
+65.000	10.000	3832.745	3832.745
+66.000	10.000	3907.719	3907.719
+67.000	10.000	3985.329	3985.329
+68.000	10.000	4061.918	4061.918
+69.000	10.000	4133.506	4133.506
+70.000	10.000	4205.531	4205.531
+71.000	10.000	4278.442	4278.442
+72.000	10.000	4346.470	4346.470
+73.000	10.000	4409.785	4409.785
+74.000	10.000	4470.713	4470.713
+75.000	10.000	4526.521	4526.521
+76.000	10.000	4579.044	4579.044
+77.000	10.000	4625.071	4625.071
+78.000	10.000	4667.302	4667.302
+79.000	10.000	4703.523	4703.523
+80.000	10.000	4735.435	4735.435
+81.000	10.000	4762.840	4762.840
+82.000	10.000	4788.929	4788.929
+83.000	10.000	4809.234	4809.234
+84.000	10.000	4826.047	4826.047
+85.000	10.000	4839.954	4839.954
+86.000	10.000	4850.871	4850.871
+87.000	10.000	4858.381	4858.381
+88.000	10.000	4865.136	4865.136
+89.000	10.000	4869.754	4869.754
+90.000	10.000	4872.683	4872.683
+91.000	10.000	4874.472	4874.472
+92.000	10.000	4875.690	4875.690
+93.000	10.000	4876.891	4876.891
+94.000	10.000	4877.492	4877.492
+95.000	10.000	4877.814	4877.814
+96.000	10.000	4878.142	4878.142
+97.000	10.000	4878.330	4878.330
+98.000	10.000	4878.414	4878.414
+99.000	9.000	3660.373	3660.373
+100.000	8.000	3935.306	3935.306
+101.000	6.000	4752.253	4752.253
+102.000	2.000	9558.500	9558.500
+103.000	1.000	0.000	0.000
+104.000	1.000	0.000	0.000
+105.000	1.000	0.000	0.000
+106.000	1.000	0.000	0.000
+	
+Sweep Number:	23
+searchRadius	15
+gridHeight	500
+gridWidth	500
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	98.000	98.200
+1.000	10.000	153.100	154.700
+2.000	10.000	280.500	285.700
+3.000	10.000	501.800	508.000
+4.000	10.000	800.500	807.100
+5.000	10.000	1151.600	1156.200
+6.000	10.000	1512.100	1517.100
+7.000	10.000	1856.200	1860.800
+8.000	10.000	2145.900	2150.100
+9.000	10.000	2374.900	2379.100
+10.000	10.000	2539.600	2544.200
+11.000	10.000	2644.000	2648.600
+12.000	10.000	2704.400	2709.200
+13.000	10.000	2737.800	2742.600
+14.000	10.000	2753.600	2758.400
+15.000	10.000	2761.000	2765.800
+16.000	10.000	2764.000	2768.800
+17.000	10.000	2765.000	2769.800
+18.000	10.000	2765.000	2769.800
+19.000	9.000	3019.222	3023.667
+20.000	6.000	2832.500	2845.500
+21.000	2.000	740.500	783.500
+22.000	1.000	1478.000	1564.000
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	28.005	28.044
+1.000	10.000	43.505	44.185
+2.000	10.000	79.907	81.814
+3.000	10.000	142.450	145.207
+4.000	10.000	229.119	231.462
+5.000	10.000	329.597	331.444
+6.000	10.000	435.584	437.475
+7.000	10.000	534.470	536.168
+8.000	10.000	617.402	619.118
+9.000	10.000	683.200	684.947
+10.000	10.000	732.119	733.924
+11.000	10.000	761.973	763.756
+12.000	10.000	779.466	781.197
+13.000	10.000	789.120	790.868
+14.000	10.000	793.796	795.545
+15.000	10.000	796.258	798.004
+16.000	10.000	797.277	799.020
+17.000	10.000	797.670	799.412
+18.000	10.000	797.670	799.412
+19.000	9.000	845.317	847.504
+20.000	6.000	998.884	1002.059
+21.000	2.000	737.500	780.500
+22.000	1.000	0.000	0.000
+	
+Sweep Number:	24
+searchRadius	15
+gridHeight	500
+gridWidth	1000
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	115.200	118.000
+1.000	10.000	323.400	326.800
+2.000	10.000	628.600	629.200
+3.000	10.000	958.100	959.500
+4.000	10.000	1229.800	1233.800
+5.000	10.000	1412.100	1417.300
+6.000	10.000	1515.900	1520.900
+7.000	10.000	1564.000	1569.000
+8.000	10.000	1584.700	1589.700
+9.000	10.000	1592.700	1597.700
+10.000	10.000	1595.500	1600.500
+11.000	10.000	1596.200	1601.200
+12.000	10.000	1596.300	1601.300
+13.000	9.000	1605.556	1616.000
+14.000	3.000	1051.667	1075.667
+15.000	1.000	1071.000	1097.000
+16.000	1.000	1071.000	1097.000
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	26.194	26.958
+1.000	10.000	72.628	75.490
+2.000	10.000	141.587	144.589
+3.000	10.000	215.980	218.654
+4.000	10.000	278.584	282.043
+5.000	10.000	318.289	322.041
+6.000	10.000	339.749	343.314
+7.000	10.000	349.861	353.402
+8.000	10.000	354.403	357.928
+9.000	10.000	356.357	359.872
+10.000	10.000	357.014	360.520
+11.000	10.000	357.187	360.693
+12.000	10.000	357.229	360.735
+13.000	9.000	399.260	402.979
+14.000	3.000	118.175	123.437
+15.000	1.000	0.000	0.000
+16.000	1.000	0.000	0.000
+	
+Sweep Number:	25
+searchRadius	15
+gridHeight	1000
+gridWidth	60
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	68.400	68.400
+1.000	10.000	69.000	68.800
+2.000	10.000	71.700	70.900
+3.000	10.000	78.800	77.800
+4.000	10.000	93.300	91.100
+5.000	10.000	116.900	115.100
+6.000	10.000	150.900	148.900
+7.000	10.000	203.900	202.300
+8.000	10.000	279.600	277.800
+9.000	10.000	382.500	380.500
+10.000	10.000	516.300	514.100
+11.000	10.000	686.100	683.900
+12.000	10.000	879.100	876.900
+13.000	10.000	1093.700	1091.500
+14.000	10.000	1329.700	1327.500
+15.000	10.000	1581.400	1579.200
+16.000	10.000	1840.500	1838.300
+17.000	10.000	2106.800	2104.600
+18.000	10.000	2377.300	2375.100
+19.000	10.000	2650.600	2648.400
+20.000	10.000	2920.100	2917.900
+21.000	10.000	3199.400	3197.200
+22.000	10.000	3470.800	3468.600
+23.000	10.000	3751.100	3748.900
+24.000	10.000	4032.700	4030.500
+25.000	10.000	4305.700	4303.500
+26.000	10.000	4583.400	4581.200
+27.000	10.000	4868.700	4866.500
+28.000	10.000	5143.000	5140.800
+29.000	10.000	5425.100	5422.900
+30.000	10.000	5694.100	5691.900
+31.000	10.000	5959.900	5957.700
+32.000	10.000	6214.100	6211.900
+33.000	10.000	6469.600	6467.400
+34.000	10.000	6715.700	6713.500
+35.000	10.000	6947.100	6944.900
+36.000	10.000	7152.400	7150.200
+37.000	10.000	7342.400	7340.200
+38.000	10.000	7512.000	7509.800
+39.000	10.000	7655.300	7653.100
+40.000	10.000	7774.700	7772.500
+41.000	10.000	7875.500	7873.300
+42.000	10.000	7965.000	7962.800
+43.000	10.000	8036.400	8034.200
+44.000	10.000	8087.500	8085.300
+45.000	10.000	8131.000	8128.800
+46.000	10.000	8167.900	8165.700
+47.000	10.000	8192.400	8190.200
+48.000	10.000	8211.700	8209.500
+49.000	10.000	8223.300	8221.100
+50.000	10.000	8231.700	8229.500
+51.000	10.000	8237.100	8234.900
+52.000	10.000	8241.400	8239.200
+53.000	10.000	8244.000	8241.800
+54.000	10.000	8245.800	8243.600
+55.000	10.000	8247.100	8244.900
+56.000	8.000	9400.250	9398.500
+57.000	8.000	9401.250	9399.500
+58.000	6.000	4887.667	4886.000
+59.000	5.000	5845.800	5843.800
+60.000	4.000	6914.750	6911.750
+61.000	3.000	8176.333	8173.000
+62.000	1.000	70.000	70.000
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	27.085	27.085
+1.000	10.000	27.271	27.287
+2.000	10.000	28.541	28.257
+3.000	10.000	31.652	31.289
+4.000	10.000	37.809	37.000
+5.000	10.000	47.362	47.037
+6.000	10.000	60.836	60.576
+7.000	10.000	83.005	82.875
+8.000	10.000	112.453	112.361
+9.000	10.000	153.437	153.251
+10.000	10.000	205.891	205.616
+11.000	10.000	272.136	271.856
+12.000	10.000	349.493	349.214
+13.000	10.000	436.025	435.742
+14.000	10.000	528.536	528.238
+15.000	10.000	628.485	628.183
+16.000	10.000	729.283	728.981
+17.000	10.000	834.243	833.943
+18.000	10.000	938.727	938.420
+19.000	10.000	1047.469	1047.171
+20.000	10.000	1153.959	1153.665
+21.000	10.000	1263.836	1263.545
+22.000	10.000	1370.205	1369.918
+23.000	10.000	1479.313	1479.030
+24.000	10.000	1588.613	1588.325
+25.000	10.000	1696.289	1696.002
+26.000	10.000	1805.120	1804.834
+27.000	10.000	1915.394	1915.108
+28.000	10.000	2024.188	2023.901
+29.000	10.000	2134.225	2133.939
+30.000	10.000	2240.489	2240.204
+31.000	10.000	2344.083	2343.795
+32.000	10.000	2444.526	2444.240
+33.000	10.000	2541.917	2541.631
+34.000	10.000	2640.146	2639.860
+35.000	10.000	2730.280	2729.990
+36.000	10.000	2810.095	2809.803
+37.000	10.000	2883.365	2883.073
+38.000	10.000	2948.838	2948.544
+39.000	10.000	3003.307	3003.009
+40.000	10.000	3047.925	3047.625
+41.000	10.000	3086.942	3086.639
+42.000	10.000	3121.133	3120.829
+43.000	10.000	3149.716	3149.411
+44.000	10.000	3170.278	3169.973
+45.000	10.000	3188.068	3187.762
+46.000	10.000	3203.187	3202.882
+47.000	10.000	3213.495	3213.190
+48.000	10.000	3221.723	3221.419
+49.000	10.000	3226.929	3226.626
+50.000	10.000	3230.413	3230.110
+51.000	10.000	3232.786	3232.484
+52.000	10.000	3234.782	3234.480
+53.000	10.000	3235.891	3235.588
+54.000	10.000	3236.731	3236.429
+55.000	10.000	3237.404	3237.101
+56.000	8.000	3936.713	3936.341
+57.000	8.000	3937.175	3936.804
+58.000	6.000	3489.629	3488.329
+59.000	5.000	4109.920	4108.380
+60.000	4.000	5123.613	5121.902
+61.000	3.000	7022.794	7020.418
+62.000	1.000	0.000	0.000
+	
+Sweep Number:	26
+searchRadius	15
+gridHeight	1000
+gridWidth	500
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	104.600	105.400
+1.000	10.000	288.200	290.800
+2.000	10.000	557.100	564.500
+3.000	10.000	846.800	856.200
+4.000	10.000	1082.000	1092.400
+5.000	10.000	1248.100	1259.700
+6.000	10.000	1343.900	1355.500
+7.000	10.000	1386.400	1398.000
+8.000	10.000	1405.800	1417.400
+9.000	10.000	1413.300	1424.900
+10.000	10.000	1416.200	1427.800
+11.000	10.000	1416.800	1428.400
+12.000	9.000	1255.889	1267.667
+13.000	7.000	1199.286	1219.286
+14.000	2.000	1398.000	1415.000
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	27.309	27.393
+1.000	10.000	75.316	74.962
+2.000	10.000	148.453	148.053
+3.000	10.000	224.947	224.607
+4.000	10.000	288.450	288.281
+5.000	10.000	332.740	332.798
+6.000	10.000	358.064	358.250
+7.000	10.000	370.387	370.566
+8.000	10.000	375.692	375.891
+9.000	10.000	377.577	377.799
+10.000	10.000	378.193	378.424
+11.000	10.000	378.340	378.575
+12.000	9.000	382.807	383.193
+13.000	7.000	405.368	408.495
+14.000	2.000	1142.000	1129.000
+	
+Sweep Number:	27
+searchRadius	15
+gridHeight	1000
+gridWidth	1000
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	162.500	166.900
+1.000	10.000	422.700	429.100
+2.000	10.000	626.300	632.700
+3.000	10.000	734.600	742.000
+4.000	10.000	778.600	786.200
+5.000	10.000	793.000	800.600
+6.000	10.000	796.100	803.700
+7.000	10.000	797.000	804.600
+8.000	10.000	797.100	804.700
+9.000	5.000	602.400	602.000
+10.000	2.000	203.500	212.500
+
+Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave
+0.000	10.000	47.361	48.341
+1.000	10.000	121.997	123.119
+2.000	10.000	181.107	182.812
+3.000	10.000	212.618	214.633
+4.000	10.000	226.274	228.321
+5.000	10.000	230.582	232.651
+6.000	10.000	231.457	233.521
+7.000	10.000	231.729	233.795
+8.000	10.000	231.766	233.832
+9.000	5.000	299.627	302.437
+10.000	2.000	126.500	145.500
+	
+Finished: Sat Mar 16 21:24:34 PDT 2024
+

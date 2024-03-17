@@ -222,3 +222,750 @@ burnIn  0
 scheduleTimeInterval  1.0
 closeProgramAtend  false
 customSweepOnly  false
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+searchRadius	Value	gridHeight	Value	gridWidth	Value	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+searchRadius	Value	gridHeight	Value	gridWidth	Value	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+searchRadius	Value	gridHeight	Value	gridWidth	Value	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+searchRadius	Value	gridHeight	Value	gridWidth	Value	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+searchRadius	Value	gridHeight	Value	gridWidth	Value	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+searchRadius	Value	gridHeight	Value	gridWidth	Value	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+searchRadius	Value	gridHeight	Value	gridWidth	Value	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+searchRadius	Value	gridHeight	Value	gridWidth	Value	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+searchRadius	Value	gridHeight	Value	gridWidth	Value	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+searchRadius	Value	gridHeight	Value	gridWidth	Value	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+searchRadius	Value	gridHeight	Value	gridWidth	Value	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+searchRadius	Value	gridHeight	Value	gridWidth	Value	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+searchRadius	Value	gridHeight	Value	gridWidth	Value	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+searchRadius	Value	gridHeight	Value	gridWidth	Value	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+searchRadius	Value	gridHeight	Value	gridWidth	Value	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+searchRadius	Value	gridHeight	Value	gridWidth	Value	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	
+Parameter Sweeps
+
+Number of parameters swept: 27
+
+Table of parameters swept 
+public	int	searchRadius	5	5	5	5	5	5	5	5	5	10	10	10	10	10	10	10	10	10	15	15	15	15	15	15	15	15	15	
+public	int	gridHeight	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	60	60	60	500	500	500	1000	1000	1000	
+public	int	gridWidth	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	60	500	1000	
+
+Parameter values for the class class onlineDatingABM.Environment
+id  0
+searchRadius  5
+gridHeight  60
+gridWidth  60
+numAgents  3600
+maleP  0.5
+numMales  1800
+numFemales  1800
+sd  0.1
+likeSD  0.1
+meanAttractiveness  0.5
+meanMessagingProb  0.5
+charts  false
+doneMatching  false
+nameSpace  SPARSE
+gridWidth  100
+gridHeight  100
+paramSweeps  true
+simLength  1001
+simNumber  10
+fileDataName  results.txt
+folderDataName  data
+dataSamplingInterval  1
+burnIn  0
+scheduleTimeInterval  1.0
+closeProgramAtend  false
+customSweepOnly  false
+searchRadius	Value	gridHeight	Value	gridWidth	Value	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	Step	Reps	totalMatchesMalesHave	totalMatchesFemalesHave	
+searchRadius	5	gridHeight	60	gridWidth	60	94.000	1.000	14460.000	14460.000	94.000	1.000	0.000	0.000
+searchRadius	5	gridHeight	60	gridWidth	500	21.000	1.000	4327.000	4359.000	21.000	1.000	0.000	0.000
+searchRadius	5	gridHeight	60	gridWidth	1000	14.000	2.000	1352.000	1342.000	14.000	2.000	1319.000	1333.000
+searchRadius	5	gridHeight	500	gridWidth	60	22.000	1.000	8.000	10.000	22.000	1.000	0.000	0.000
+searchRadius	5	gridHeight	500	gridWidth	500	8.000	1.000	4.000	0.000	8.000	1.000	0.000	0.000
+searchRadius	5	gridHeight	500	gridWidth	1000	6.000	1.000	77.000	71.000	6.000	1.000	0.000	0.000
+searchRadius	5	gridHeight	1000	gridWidth	60	13.000	5.000	1340.200	1325.000	13.000	5.000	603.347	606.676
+searchRadius	5	gridHeight	1000	gridWidth	500	6.000	1.000	64.000	58.000	6.000	1.000	0.000	0.000
+searchRadius	5	gridHeight	1000	gridWidth	1000	4.000	3.000	18.333	13.667	4.000	3.000	10.398	8.090
+searchRadius	10	gridHeight	60	gridWidth	60	315.000	1.000	279.000	279.000	315.000	1.000	0.000	0.000
+searchRadius	10	gridHeight	60	gridWidth	500	61.000	1.000	12.000	0.000	61.000	1.000	0.000	0.000
+searchRadius	10	gridHeight	60	gridWidth	1000	38.000	1.000	11563.000	11567.000	38.000	1.000	0.000	0.000
+searchRadius	10	gridHeight	500	gridWidth	60	59.000	1.000	23517.000	23491.000	59.000	1.000	0.000	0.000
+searchRadius	10	gridHeight	500	gridWidth	500	13.000	2.000	572.000	532.000	13.000	2.000	328.000	298.000
+searchRadius	10	gridHeight	500	gridWidth	1000	10.000	1.000	446.000	396.000	10.000	1.000	0.000	0.000
+searchRadius	10	gridHeight	1000	gridWidth	60	35.000	2.000	4468.500	4478.500	35.000	2.000	1111.500	1123.500
+searchRadius	10	gridHeight	1000	gridWidth	500	10.000	1.000	358.000	400.000	10.000	1.000	0.000	0.000
+searchRadius	10	gridHeight	1000	gridWidth	1000	7.000	1.000	412.000	408.000	7.000	1.000	0.000	0.000
+searchRadius	15	gridHeight	60	gridWidth	60	671.000	1.000	224688.000	224688.000	671.000	1.000	0.000	0.000
+searchRadius	15	gridHeight	60	gridWidth	500	107.000	1.000	32.000	32.000	107.000	1.000	0.000	0.000
+searchRadius	15	gridHeight	60	gridWidth	1000	61.000	1.000	1815.000	1817.000	61.000	1.000	0.000	0.000
+searchRadius	15	gridHeight	500	gridWidth	60	106.000	1.000	31146.000	31146.000	106.000	1.000	0.000	0.000
+searchRadius	15	gridHeight	500	gridWidth	500	22.000	1.000	1478.000	1564.000	22.000	1.000	0.000	0.000
+searchRadius	15	gridHeight	500	gridWidth	1000	16.000	1.000	1071.000	1097.000	16.000	1.000	0.000	0.000
+searchRadius	15	gridHeight	1000	gridWidth	60	62.000	1.000	70.000	70.000	62.000	1.000	0.000	0.000
+searchRadius	15	gridHeight	1000	gridWidth	500	14.000	2.000	1398.000	1415.000	14.000	2.000	1142.000	1129.000
+searchRadius	15	gridHeight	1000	gridWidth	1000	10.000	2.000	203.500	212.500	10.000	2.000	126.500	145.500

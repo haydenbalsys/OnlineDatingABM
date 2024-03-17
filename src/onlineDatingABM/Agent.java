@@ -53,7 +53,7 @@ public class Agent implements Steppable, Stoppable {
 	@Override
 	public void stop() {
 		// TODO Auto-generated method stub
-		System.out.println("In stop(): Agent ID= "+agentID+" has no neighbors left to swipe on.");
+		//System.out.println("In stop(): Agent ID= "+agentID+" has no neighbors left to swipe on.");
 	}
 
 	public boolean sendLike(Agent profile) {
